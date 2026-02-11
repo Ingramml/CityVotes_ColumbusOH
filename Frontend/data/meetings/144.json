@@ -1,0 +1,2758 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 144,
+    "event_id": "6085",
+    "meeting_date": "2025-04-28",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6085&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2025/4/6085_A_Columbus_City_Council_25-04-28_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2025/4/6085_M_Columbus_City_Council_25-04-28_Minutes_-_Final.pdf",
+    "video_url": null,
+    "vote_count": 87,
+    "non_voted_count": 57,
+    "first_reading_count": 17,
+    "agenda_item_count": 144,
+    "agenda_items": [
+      {
+        "agenda_sequence": 0,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES & SUSTAINABILITY:  WYCHE, CHR.  REMY, VICE CHR.             ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 2,
+        "item_type": "voted",
+        "item_number": "2",
+        "title": "To Honor, Recognize, and Celebrate the Retirement of President Randy Quickel",
+        "section": "GENERAL",
+        "matter_file": "0100X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12061,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "READING AND DISPOSAL OF THE JOURNAL",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 12060,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "To Recognize and Celebrate April as Fair Housing Month in Columbus",
+        "section": "GENERAL",
+        "matter_file": "0090X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Housing",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12062,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE JOURNAL",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 5,
+        "item_type": "non_voted",
+        "category": "clerk_communications",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "COMMUNICATIONS AND REPORTS RECEIVED BY CITY CLERK'S OFFICE",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 6,
+        "item_type": "non_voted",
+        "category": "read_and_filed",
+        "importance": "high",
+        "display_type": "communication",
+        "title": "THE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF WEDNESDAY APRIL 23, 2023 \r\n\r\nTransfer Type: C1 C2 D6\r\nTo: Goldhap Grocery Mart Inc\r\n7199 & 7203 E Broad St\r\nColumbus, OH 43004\r\nFrom: Brothers Food Mart Inc\r\nDBA Shangrila Mart\r\n7199 & 7203 E Broad St\r\nColumbus, OH 43004\r\nPermit #: 3254489\r\n\r\nTransfer Type: D1 D2\r\nTo: 1067 N High LLC\r\n517 Park St\r\nColumbus, OH 43215\r\nFrom: OM Kedar LLC\r\nDBA Masseys Pizza Beechcroft\r\n1951 E Dublin Granville Rd\r\nColumbus, OH 43229\r\nPermit #: 88301460005\r\n\r\nNew Type: D5A\r\nTo: Third Door Hotel Group LLC\r\nDBA Four Points Columbus Polaris\r\n8505 Pulsar Pl\r\nColumbus, OH 43240\r\nPermit #: 8920778\r\n\r\nNew Type: D5\r\nTo: Local Cantina Dragon LLC\r\n1st Fl & Patio\r\n277 E Livingston Ave\r\nColumbus, OH 43215\r\nPermit #: 52420700015\r\n\r\nNew Type: D3\r\nTo: Family Dine One LLC\r\nDBA Akwaaba African Dish\r\n4300 Macsway Ave\r\nColumbus, OH 43232\r\nPermit #: 2631014\r\n\r\nNew Type: D5\r\nTo: Zundo Columbus LLC\r\n2500 N High St\r\nColumbus, OH 43202\r\nPermit #: 9948730\r\n\r\n\r\nAdvertise Date: 5/03/2025\r\nAgenda Date:  4/28/2025\r\nReturn Date: 5/07/2025",
+        "matter_file": "C0012-2025",
+        "matter_type": "Communication",
+        "action": "Read and Filed",
+        "description": "Title\n \nTHE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF WEDNESDAY APRIL 23, 2023 \n \nTransfer Type: C1 C2 D6\nTo: Goldhap Grocery Mart Inc\n7199 & 7203 E Broad St\nColumbus, OH 43004\nFrom: Brothers Food Mart Inc\nDBA Shangrila Mart\n7199 & 7203 E Broad St\nColumbus, OH 43004\n...",
+        "topics": [
+          "Parks & Recreation",
+          "Planning & Development",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 7,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 8,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "DORANS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 10,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "GREEN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 12,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE AGENDA",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 14,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE & GOVERNANCE:  BANKSTON, CHR.  DORANS, VICE CHR.                  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 15,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the City Auditor to modify and extend the agreement with Fast LP for one (1) year to maintain and support the GenTax revenue management system for the Division of Income Tax, including additional messaging and identity verification services; and to authorize the expenditure of $2,762,753.00 from the General Fund. ($2,762,753.00).",
+        "matter_file": "0795-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nBackground:\nThis ordinance authorizes the City Auditor to enter into a planned modification to extend a contract with Fast LP for Gentax software and professional services related to the Income Tax Revenue System. This modification authorizes and funds the second renewal of the seven ...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 16,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Technology to modify an existing contract with Technology Site Planners, Inc.to provide data center alarm monitoring and first responder services; and to authorize the expenditure of $54,675.00 from the Department of Technology, Information Services Division, Information Services Operating Fund. ($54,675.00)",
+        "matter_file": "0935-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nThis ordinance authorizes the Director of Technology to modify an existing contract with Technology Site Planners, Inc. (TechSite) to provide data center alarm monitoring and first responder services in the amount of $54,675.00 for one year, beginning on September 1, 2025, and ending ...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 17,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into a Universal Term Contract for the option to purchase Aftermarket Fire Equipment Parts with Johnson’s Fire Equipment Company; and to authorize the expenditure of $1.00. ($1.00)",
+        "matter_file": "1050-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nBACKGROUND:  This legislation authorizes the Finance and Management Director to establish a Universal Term Contract (UTC) for the option to purchase Aftermarket Fire Equipment Parts with Johnson’s Fire Equipment Company.  The Division of Fleet Management is the primary user for Afterm...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 18,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Finance and Management, on behalf of the Office of Construction Management, to enter into a professional architectural / engineering services agreement with BBCO Design LLC, for the City Facility Condition Assessments Phase 3 project; to authorize an expenditure of $600,000.00 within the Construction Management Capital Improvement Fund; and to authorize an amendment to the 2024 Capital Improvements Budget.  ($600,000.00)",
+        "matter_file": "1055-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \n1. BACKGROUND: This Ordinance authorizes the Director of Finance and Management, on behalf of the Office of Construction Management, to enter into a professional architectural / engineering services agreement, with BBCO Design LLC, for the City Facility Condition Assessments Phase 3...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 19,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Finance and Management to modify and extend a Universal Term Contract for the option to purchase Aluminum Sheeting and Sign Blanks with MD Solutions, LLC. ($0.00)",
+        "matter_file": "1056-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  This legislation authorizes the Finance and Management Director to modify and extend an existing Universal Term Contract (UTC) for the option to purchase Aluminum Sheeting and Sign Blanks with MD Solutions.  The Division of Traffic Management is the sole user for Alumin...",
+        "topics": [
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 20,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION:  BARROSO DE PADILLA, CHR.  DAY-ACHAUER, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 21,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Public Service to prepare and submit a Pedestrian and Bicycle Special Solicitation Application to the Ohio Department of Transportation; to authorize the Director of Public Service to execute grant agreements relative to application award; to accept and expend grant funds; and issue refunds if necessary, after final accounting is performed.  ($0.00)",
+        "matter_file": "1010-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \n1.  BACKGROUND\n \nThe Ohio Department of Transportation (ODOT) is hosting a Pedestrian & Bicycle Special Solicitation (until May 1, 2025) for projects that make walking and biking a safe, convenient, and accessible transportation option for all Ohioans. A variety of pedestrian and bi...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 22,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS, RECREATION, & PARKS:  DAY-ACHAUER, CHR.  WYCHE, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 23,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Recreation and Parks Department to enter into year one (1) of a three (3) year contract, subject to annual approval and authorization, with the option to extend for two (2) one-year terms, with Event Approvals, Inc. to provide permit management system and application services for the Office of Special Events; and to authorize the expenditure of $54,000.00 from the Recreation and Parks Operating Fund 2285. ($54,000.00)",
+        "matter_file": "0920-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBackground: This ordinance is to authorize the Director of Recreation and Parks to enter into year one (1) of a three (3) year contract, subject to annual approval and authorization, with the option to extend for two (2) one-year terms, with Event Approvals, Inc. to provide permit m...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 24,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Recreation and Parks Department to enter into year one (1) of a three (3) year contract with Barry M. Damron dba Above Sound LLC Audio, Video, Lighting and Stage Production Services for the 2025 Jazz and Rib Fest and CBUS Soul Fest; and to authorize the expenditure of $227,113.09 from the Recreation and Parks Operating Fund 2285. ($227,113.09)",
+        "matter_file": "1014-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBackground: This ordinance authorizes the Director of the Recreation and Parks Department to enter into year one (1) of a three (3) year contract with Barry M. Damron dba Above Sound LLC for Audio, Video, Lighting and Stage Production Services, subject to annual appropriations and a...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 25,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES & SUSTAINABILITY:  WYCHE, CHR.  REMY, VICE CHR.             ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 26,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Finance and Management to establish a contract with YSI, Incorporated for the purchase and delivery of a FS3700 Automated Chemistry Analyzer-CN for the Department of Public Utilities; to authorize the expenditure of $50,525.20 from the Sanitary Sewer Operating Fund. ($50,525.20)",
+        "matter_file": "0831-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nBACKGROUND\nTo authorize the Director of Finance and Management to enter into a contract with YSI, Incorporated for the purchase and delivery of a Xylem FS3700 Automated Chemistry Analyzer-CN to be used by the Surveillance Laboratory for the testing of metals in wastewater in an amount...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 27,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into contract with Agilent Technologies, Inc. for the purchase of a Agilent 5900 SVDV ICP-OES for the Division of Sewerage and Drainage; and to authorize the expenditure of $161,489.22 from the Sanitary Sewer Operating Fund.  ($161,489.22)",
+        "matter_file": "0947-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  To authorize the Director of Finance and Management to enter into a contract with Agilent Technologies. Inc. for the purchase of an Agilent 5900 SVDV ICP-OES to be used by the Division of Sewerage and Drainage. The equipment is used by the Surveillance Laboratory for th...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 28,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Public Utilities to renew the contract with Woolpert, Inc. for the implementation of a Cityworks Asset Management System for the Department of Public Utilities. ($0.00)",
+        "matter_file": "1006-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nThis legislation authorizes the Director of Public Utilities to renew the contract for professional services to implement the Cityworks Asset Management System (AMS) department-wide with Woolpert, Inc.  The existing contract expires on June 20, 2025.\n \nWoolpert will continue to prov...",
+        "topics": [
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 29,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Public Utilities to modify and increase funding to an existing agreement with ARCOS LLC., for the implementation and support of an Overtime Call-Out System for the Department of Public Utilities; and to authorize the expenditure of $245,898.00 split between the Electricity, Water, Sanitary Sewer, and Stormwater Operating Funds. ($245,898.00)",
+        "matter_file": "1007-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBackground: This legislation authorizes the Director of Public Utilities (DPU) to enter into a contract modification No. 2 with ARCOS LLC, for the implementation and support of an Overtime (OT) Call-out System, in the amount of $245,898.00.\nThe Department of Public Utilities (DPU) i...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 30,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Finance and Management to establish a contract with Applied Industrial Technologies, Inc. for the purchase and delivery of two (2) Magna Drive 20.5 ASDH Couplings for the Department of Public Utilities; and to authorize the expenditure of $83,576.98 from the Division of Sanitary Sewer Operating Fund. ($83,576.98)",
+        "matter_file": "1021-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  The purpose of this legislation is to authorize the Director of the Department of Finance and Management to enter into a contract with Applied Industrial Technologies, Inc. for the purchase of two (2) Magna Drive 20.5 ASDH Couplings20.5 ASDH Couplings for the Division o...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 31,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Public Utilities to enter into an agreement and all necessary amendments with the State of Ohio, Department of Transportation (ODOT), for the Division of Sewerage and Drainage to provide interstate pump station maintenance and receive reimbursement from the State. ($0.00)",
+        "matter_file": "1070-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nThis legislation authorizes the Director of Public Utilities to enter into an agreement and all necessary amendments with the State of Ohio, Department of Transportation (ODOT), for interstate pump station maintenance. In the interest of public safety and convenience, it is the desi...",
+        "topics": [
+          "Contracts & Agreements",
+          "Infrastructure",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 32,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HOUSING, HOMELESSNESS, & BUILDING:  HARDIN, CHR.  GREEN, VICE CHR.     ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 33,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Development to enter into not-for-profit service contracts with LifeCare Alliance in an amount up to $160,000.00 and Central Community House of Columbus in an amount up to $90,000.00 for the purpose of assisting the Department of Development to administer home repair program services; to authorize the transfer and expenditure of up to $250,000.00 from the from the 2025 General Fund budget; and to authorize payment of expenses prior to the execution of a purchase order, starting April 1, 2025. ($250,000.00)",
+        "matter_file": "1012-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND: This legislation authorizes the Director of the Department of Development to enter into two (2) not-for-profit service contracts with LifeCare Alliance and Central Community House of Columbus for a combined total of $250,000.00 to administer the CHORES home repair progra...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 34,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Development to enter into two separate grant agreement with Legal Aid of Southeast and Central Ohio in a total amount up to $1,475,000.00 to enable the Legal Aid of Southeast and Central Ohio to be the Designated Organization as defined in the Columbus City Codes and to make available free full legal representation to unrepresented tenants facing eviction from their homes at Franklin County Municipal Court with an option to modify and renew for one additional year; to authorize the advancement of funds on a predetermined schedule; to authorize reimbursement of expenses incurred prior to execution of the purchase order; and to authorize a transfer and expenditure of $975,000.00 from the general fund; and to authorize the expenditure of $500,000.00 from within the ERA2 funds. ($1,475,000.00)",
+        "matter_file": "1062-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:   This legislation authorizes the Director of the Department of Development to enter two separate grant agreement with the Legal Aid of Southeast and Central Ohio, LASCO, in a total amount up to $1,475,000.00, of that amount $975,000.00 will be from the general fund and ...",
+        "topics": [
+          "Appointments",
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 35,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To accept the application (AN25-001) of Ronald H. Rice, Successor Trustee for the annexation of certain territory containing 14.9± acres in Orange Township.",
+        "matter_file": "1089-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:\nThis ordinance approves the acceptance of certain territory (AN25-001) by the City of Columbus. The Ohio Revised Code stipulates that to be effective, City acceptance must take place a minimum of 60 days from the receipt by the City Clerk of the approval notice from the ...",
+        "topics": [
+          "General"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 36,
+        "item_type": "non_voted",
+        "category": "consent_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "CONSENT ACTIONS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 37,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION:",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 38,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "BEATTY",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 40,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "WYCHE",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 42,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 46,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE & GOVERNANCE:  BANKSTON, CHR.  DORANS, VICE CHR.                  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 53,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ECONOMIC DEVELOPMENT & SMALL AND MINORITY BUSINESS:  BANKSTON, CHR.  BARROSO DE PADILLA, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 58,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION:  BARROSO DE PADILLA, CHR.  DAY-ACHAUER, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 62,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS, RECREATION, & PARKS:  DAY-ACHAUER, CHR.  WYCHE, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 73,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "WORKFORCE, EDUCATION, & LABOR:  DORANS, CHR.  HARDIN, VICE CHR.       ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 78,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH, HUMAN SERVICES, & EQUITY:  GREEN, CHR. BEATTY, VICE CHR.        ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 86,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY & CRIMINAL JUSTICE:  REMY, CHR.   ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 92,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES & SUSTAINABILITY:  WYCHE, CHR.  REMY, VICE CHR.             ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 101,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HOUSING, HOMELESSNESS, & BUILDING:  HARDIN, CHR.  GREEN, VICE CHR.     ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 108,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RULES & POLICY:  HARDIN, CHR.  DORANS, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 109,
+        "item_type": "non_voted",
+        "category": "appointments_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "APPOINTMENTS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 114,
+        "item_type": "non_voted",
+        "category": "emergency_section",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EMERGENCY, POSTPONED AND 2ND READING OF 30-DAY LEGISLATION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 115,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE & GOVERNANCE:  BANKSTON, CHR.  DORANS, VICE CHR.                  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 118,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ECONOMIC DEVELOPMENT & SMALL AND MINORITY BUSINESS:  BANKSTON, CHR.  BARROSO DE PADILLA, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 120,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS, RECREATION, & PARKS:  DAY-ACHAUER, CHR.  WYCHE, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 123,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH, HUMAN SERVICES, & EQUITY:  GREEN, CHR. BEATTY, VICE CHR.        ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 126,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY & CRIMINAL JUSTICE:  REMY, CHR.   ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 131,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES & SUSTAINABILITY:  WYCHE, CHR.  REMY, VICE CHR.             ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 137,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HOUSING, HOMELESSNESS, & BUILDING:  HARDIN, CHR.  GREEN, VICE CHR.     ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 141,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RULES & POLICY:  HARDIN, CHR.  DORANS, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 142,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "REMY",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 144,
+        "item_type": "voted",
+        "item_number": "144",
+        "title": "ADJOURNMENT",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 12145,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 145,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "THERE WILL BE NO COUNCIL MEETING ON MONDAY, MAY 5, 2025.  THE NEXT REGULAR MEETING OF CITY COUNCIL WILL BE MONDAY, MAY 12TH.",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 12059,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "Approval of the Consent Agenda",
+        "section": "CONSENT",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 12059,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12063,
+        "item_type": "voted",
+        "item_number": "FR",
+        "title": "FIRST READING OF 30-DAY LEGISLATION",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 12063,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12064,
+        "item_type": "voted",
+        "item_number": "CA-1",
+        "title": "To honor and recognize the 25th Annual All-Star Saturday hosted by the Columbus Metropolitan Youth Foundation",
+        "section": "CONSENT",
+        "matter_file": "0101X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12064,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12065,
+        "item_type": "voted",
+        "item_number": "CA-2",
+        "title": "Celebrating May 4-10, 2025, as International Compost Awareness Week in the City of Columbus.",
+        "section": "CONSENT",
+        "matter_file": "0102X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12065,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12066,
+        "item_type": "voted",
+        "item_number": "CA-3",
+        "title": "To Honor and Recognize Bishop LaFayette Scales for over 41 Years of Ministry and to Celebrate his Retirement from Rhema Christian Center",
+        "section": "CONSENT",
+        "matter_file": "0097X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12066,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12067,
+        "item_type": "voted",
+        "item_number": "CA-4",
+        "title": "To Welcome the National Association of Negro Business and Professional Women’s Clubs, Inc. to Columbus and to Celebrate Their 85th National Convention",
+        "section": "CONSENT",
+        "matter_file": "0098X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12067,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12068,
+        "item_type": "voted",
+        "item_number": "CA-5",
+        "title": "To Honor and Recognize Barbra H. Benham for her Tenure and Commitment to the Community Shelter Board",
+        "section": "CONSENT",
+        "matter_file": "0099X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Housing",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 12068,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12069,
+        "item_type": "voted",
+        "item_number": "CA-6",
+        "title": "To authorize the Director of the Department of Technology to renew a contract with Brown Enterprise Solutions, LLC for licenses, maintenance, and support for Tableau software; and to authorize the expenditure of $226,387.27 from the Information Services Operating Fund and the Division of Fire's 2025 general fund budget. ($226,387.27)",
+        "section": "CONSENT",
+        "matter_file": "0842-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12069,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12070,
+        "item_type": "voted",
+        "item_number": "CA-7",
+        "title": "To authorize the Director of the Department of Technology to renew a contract with Brown Enterprise Solutions, LLC for the purchase of Talend software licensing, maintenance, and support services; and to authorize the expenditure of $407,468.88 from the Department of Technology, Information Services Operating fund. ($407,468.88)",
+        "section": "CONSENT",
+        "matter_file": "0855-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 12070,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12071,
+        "item_type": "voted",
+        "item_number": "CA-8",
+        "title": "To authorize the Director of Finance and Management, on behalf of the Office of Construction Management, to enter into a construction contract with Setterlin Building Company for the 111 N. Front Street - CCTV Equipment project; to authorize a transfer of $540,347.85 and expenditure up to $540,347.85 within the Construction Management Capital Improvements Bond Fund; to provide for payment of prevailing wage services to the Department of Public Service; and to amend the 2024 Capital Improvements Budget.  ($540,347.85)",
+        "section": "CONSENT",
+        "matter_file": "0957-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 12071,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12072,
+        "item_type": "voted",
+        "item_number": "CA-9",
+        "title": "To authorize the Finance and Management Director to modify past, present and future contract(s) and purchase orders from BSN Sports LLC to Varsity Brands, Inc.; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "1015-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12072,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12073,
+        "item_type": "voted",
+        "item_number": "CA-10",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into three (3) contracts for the option to purchase Flexible Repair Couplings with Core & Main LP, Ferguson US Holdings, Inc., and Flex Connection Inc.; to authorize the expenditure of $3.00 from General Budget Reservation BRPO003196; and to declare an emergency. ($3.00).",
+        "section": "CONSENT",
+        "matter_file": "1026-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12073,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12074,
+        "item_type": "voted",
+        "item_number": "CA-11",
+        "title": "To authorize the Director of the Department of Finance and Management to modify the professional services contract with Stone Environmental Engineering and Science Inc. to increase the budget by $20,000.00; to authorize the appropriation and expenditure of $20,000.00 from the Community Development Fund 2248; and to declare an emergency. ($20,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1077-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12074,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12075,
+        "item_type": "voted",
+        "item_number": "CA-12",
+        "title": "To authorize the Director of the Department of Development to enter into a not-for-profit service contract with the Columbus Urban League in the amount up to $50,000.00, with an option to renew for one additional year, for the purpose of providing funding to the Columbus Region Minority Business Assistance Center (MBAC) for their Resiliency Focus Project for Minority & Women & Small Businesses; to authorize an expenditure in an amount up to $50,000.00 from the 2025 Economic Development General Fund budget.  ($50,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0933-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Economic Development"
+        ],
+        "vote": {
+          "id": 12075,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12076,
+        "item_type": "voted",
+        "item_number": "CA-13",
+        "title": "To authorize the City Auditor to transfer funds from the Northland and Other Acquisitions Fund to the General Government Grants Fund in connection with the Miscellaneous Economic Development - West Franklinton - Cover My Meds project. ($18,928.43)",
+        "section": "CONSENT",
+        "matter_file": "0936-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Economic Development",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12076,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12077,
+        "item_type": "voted",
+        "item_number": "CA-14",
+        "title": "To amend Ordinance No. 0377-2025, passed by Columbus City Council on March 24, 2025 to correctly reflect that the modification authorized applies to the contract with Ground Floor Growth LLC, a disregarded entity of Columbus Downtown Development Corp; and to declare an emergency. ($0.00)",
+        "section": "GENERAL",
+        "matter_file": "1092-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12077,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12078,
+        "item_type": "voted",
+        "item_number": "CA-15",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with the Greater Columbus Sister Cities International, Inc. in an amount up to $225,000.00 for the purpose of promoting business, government, cultural, educational and environmental exchanges between the Columbus Sister Cities; to authorize a transfer of $75,000.00 within the general fund; to authorize an expenditure of up to $225,000.00 from the general fund; to authorize the advancement of funds on a predetermined schedule; and to declare an emergency. ($225,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1119-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12078,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12079,
+        "item_type": "voted",
+        "item_number": "CA-16",
+        "title": "To rename the roadway currently known as Delbert Road, from the south right-of-way line of Twenty Third Avenue to the south terminus of Delbert Road, and to be renamed to “Pastor Charles H Rogers Sr. Way”. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "0945-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Housing",
+          "Property & Real Estate",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 12079,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12080,
+        "item_type": "voted",
+        "item_number": "CA-17",
+        "title": "To amend the 2024 Capital Improvement Budget; to authorize the Director of the Department of Public Service to enter into contract with Carpenter Marty Transportation Inc. for the Resurfacing - Urban Paving FRA-40-12.50 (Broad Street) PID106272 project; to authorize the expenditure of $500,000.00 from the Streets and Highways Bond Fund; and to declare an emergency. ($500,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1003-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12080,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12081,
+        "item_type": "voted",
+        "item_number": "CA-18",
+        "title": "To authorize the Director of the Department of Public Service to enter into a contract modification with Cultivate Geospatial Solutions, LLC in connection with the Asset Information Management System; to authorize the expenditure of up to $185,000.00 from the Street Construction, Maintenance, and Repair Fund; and to declare an emergency. ($185,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1061-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12081,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12082,
+        "item_type": "voted",
+        "item_number": "CA-19",
+        "title": "To authorize the Director of Recreation and Parks to enter into a grant agreement with the National Recreation and Parks Association (NRPA) to provide training and equipment for the girls volleyball program and accept a grant in the amount of $20,000.00; and to authorize the appropriation of $20,000.00 in the Recreation and Parks Grant Fund. ($20,000.00).",
+        "section": "CONSENT",
+        "matter_file": "0391-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12082,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12083,
+        "item_type": "voted",
+        "item_number": "CA-20",
+        "title": "To authorize and direct the Director of Recreation and Parks to enter into year three (3) of a three (3) year contract with V.A.T., Inc. for transportation services; to authorize the expenditure of $129,000.00 from the Recreation and Parks Operating Fund. ($129,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0670-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 12083,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12084,
+        "item_type": "voted",
+        "item_number": "CA-21",
+        "title": "To authorize the Director of Recreation and Parks to apply for grant funding from the Ohio Department of Natural Resources (ODNR) NatureWorks grant program for the Joan Park Improvements Project. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "0674-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Grants",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 12084,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12085,
+        "item_type": "voted",
+        "item_number": "CA-22",
+        "title": "To amend ordinance 0275-2024 to authorize payment of $6,003.40 from an established budget reservation to the Franklin County Convention Facilities DBA Greater Columbus Convention Center; and to declare an emergency. ($6,003.40)",
+        "section": "CONSENT",
+        "matter_file": "0771-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 12085,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12086,
+        "item_type": "voted",
+        "item_number": "CA-23",
+        "title": "To authorize the Director of the Recreation and Parks Department to enter into year one (1) of a three (3) year contract, subject to annual approval and authorization, with the option to extend for two (2) one-year terms, with Class Acts Columbus, Inc. to provide talent buying, fiscal administrator, and event management services for events produced by the Office of Special Events; to authorize the expenditure of $385,000.00 from the Recreation and Parks Operating Fund; to authorize the appropriation and expenditure of $60,000.00 from the Scioto Mile Restaurant Fund; and to declare an emergency. ($445,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0921-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12086,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12087,
+        "item_type": "voted",
+        "item_number": "CA-24",
+        "title": "To authorize the Director of the Recreation and Parks Department to enter into contract with Traditional Hardwood Floors, LLC for the Gym Floor Refinishing 2025 Project; to authorize the expenditure of $74,000.00 from the Recreation and Parks Operating Fund; and to declare an emergency ($74,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0925-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12087,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12088,
+        "item_type": "voted",
+        "item_number": "CA-25",
+        "title": "To authorize the Director of the Finance and Management Department with the approval of the Director of the Recreation and Parks Department to execute and acknowledge any document(s), as approved by the Department of Law, Real Estate Division, necessary to grant to the Ohio Power Company an electric utility easement to burden a portion of the City’s real property located at 4645 Westerville Road, Columbus, Ohio 43231. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "0974-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Grants",
+          "Infrastructure",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 12088,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12089,
+        "item_type": "voted",
+        "item_number": "CA-26",
+        "title": "To authorize the Director of the Department of Neighborhoods to enter into a retroactive grant agreement with The Ohio State University for the amount of $26,929.00 to implement a mindfulness-based stress reduction intervention for justice-involved Black girls and their caregivers; to authorize the appropriation and expenditure of $26,929.00 from the General Fund; to authorize the reimbursement of expenses incurred prior to the issuance of a purchase order, starting March 1, 2024; and to declare an emergency. ($26,929.00)",
+        "section": "CONSENT",
+        "matter_file": "1017-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12089,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12090,
+        "item_type": "voted",
+        "item_number": "CA-27",
+        "title": "To authorize the Director of the Department of Neighborhoods to enter into an advance payment in full grant agreement with Rickenbacker Woods Technology Museum & Historic Park, Inc. DBA Rickenbacker Woods Foundation in an amount up to $100,000.00 in support of the Creators, Originators & Innovators of Tomorrow Workforce Initiative; to authorize the transfer of $100,000.00 within the general fund between the Finance Department Citywide Account and the Department of Neighborhoods; to authorize payment for reasonable food and non-alcoholic beverages for participants of programs included in the grant agreement; to authorize the reimbursement of non-food and non-beverage expenditures incurred prior to the establishment of a purchase order; to authorize the expenditure of $100,000.00 from the General Fund; and to declare an emergency.  ($100,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1064-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12090,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12091,
+        "item_type": "voted",
+        "item_number": "CA-28",
+        "title": "To authorize the Director of the Department of Neighborhoods to enter into an advance payment in full grant agreement with Families Flourish, Inc. to assist with rental subsidies for program participants; to authorize the transfer of $150,000.00 within the general fund Finance Department Citywide Account and the Department of Neighborhoods; to authorize an advance payment in full; to authorize the expenditure of $150,000.00 from General Fund; and to declare an emergency ($150,000.00).",
+        "section": "CONSENT",
+        "matter_file": "1066-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12091,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12092,
+        "item_type": "voted",
+        "item_number": "CA-29",
+        "title": "To authorize the Executive Director of the Mayor’s Office of Education to enter into a not-for-profit service contract with Future Ready Five to implement a comprehensive prenatal to age five strategy for activities related to the achievement of the Mayor’s goal that every child in Columbus is ready for kindergarten; and to authorize the expenditure of four hundred thousand dollars ($400,000.00) from the General Fund. ($400,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0817-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 12092,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12093,
+        "item_type": "voted",
+        "item_number": "CA-30",
+        "title": "To approve the Memorandum of Understanding #2025-02 executed between representatives of the City of Columbus and Fraternal Order of Police, Capital City Lodge #9, which credits prior law enforcement service, as defined in the MOU, and places lateral entry police officers and reemployed police officers in the pay plan and designates how the officers advance through the pay plan, in accordance with the credit of their prior law enforcement service as provided in the attachment hereto; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "1046-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12093,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12094,
+        "item_type": "voted",
+        "item_number": "CA-31",
+        "title": "To authorize the Director of the Mayor’s Office of Education to enter into a grant agreement with Franklin County Historical Society (COSI) to support the continued operation and programmatic delivery of their educational initiatives that engage and support Columbus residents; to authorize the transfer of $150,000.00 within the Department of Finance General Fund to the Office of Education; to authorize the expenditure of $150,000.00 from the Office of Education General Fund; and to declare an emergency. ($150,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1048-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12094,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12095,
+        "item_type": "voted",
+        "item_number": "CA-32",
+        "title": "To authorize the City Clerk to enter into a grant agreement with Tech Corps Ohio in support of their 2025 TECHCORPShack Hackathon event; and to authorize an expenditure of $25,000.00 within the Neighborhood Initiatives subfund. ($25,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1095-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12095,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12096,
+        "item_type": "voted",
+        "item_number": "CA-33",
+        "title": "To authorize and direct the appropriation and transfer of $182,489.00 from the Recreation and Parks Operating Fund to the Recreation and Parks Grant Fund to support Central Ohio Area Agency on Aging programs that help older adults and individuals with disabilities remain safe and independent in their homes; and to declare an emergency. ($182,489.00)",
+        "section": "CONSENT",
+        "matter_file": "0829-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12096,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12097,
+        "item_type": "voted",
+        "item_number": "CA-34",
+        "title": "To authorize the Director of the Department of Development to execute a grant agreements with the following not-for-profit agencies: Goodwill Industries of Central Ohio, Inc., New Directions Career Center, and the United Way of Central Ohio, in an amount up to $82,800.00 between the agencies to provide funding to integrate economic mobility accelerators (Accelerators) with their economic mobility activities; to authorize the appropriation and expenditure in an amount up to $82,800.00 within the Income Tax Set Aside (ITSA) Subfund; to authorize the agreements to be effective January 1, 2025 through December 31, 2026; and to authorize the advancement of funds on a predetermined schedule. ($82,800.00)",
+        "section": "CONSENT",
+        "matter_file": "0850-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12097,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12098,
+        "item_type": "voted",
+        "item_number": "CA-35",
+        "title": "To authorize the Director of the Department of Development to execute a grant agreement with the not-for-profit agency, Alvis, Inc., in an amount up to $54,000.00 to provide funding to integrate economic mobility accelerators (Accelerators) with their economic mobility activities; to authorize the appropriation and expenditure in an amount up to $54,000.00 within the Income Tax Set Aside (ITSA) Subfund; to authorize the agreements to be effective January 1, 2025 through December 31, 2026; and to authorize the advancement of funds on a predetermined schedule. ($54,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0852-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12098,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12099,
+        "item_type": "voted",
+        "item_number": "CA-36",
+        "title": "To authorize the Director of the Department of Development to execute a grant agreement with the following not-for-profit agency, The Columbus Urban League, in an amount up to $36,000.00 to provide funding to integrate economic mobility accelerators (Accelerators) with their economic mobility activities; to authorize the appropriation and expenditure in an amount up to $36,000.00 within the Income Tax Set Aside (ITSA) Subfund; to authorize the agreement to be effective January 1, 2025 through December 31, 2026; and to authorize the advancement of funds on a predetermined schedule. ($36,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0853-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12099,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12100,
+        "item_type": "voted",
+        "item_number": "CA-37",
+        "title": "To authorize and direct the Board of Health to accept grant funds from the Ohio Commission on Minority Health and any additional funds for the SFY26 Minority Health grant program; to authorize the appropriation and any additional funds from the unappropriated balance of the Health Department Grants Fund; and to authorize the City Auditor to transfer appropriations between object classes for the SFY26 Minority Health grant program. ($52,500.00)",
+        "section": "CONSENT",
+        "matter_file": "0867-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Grants",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 12100,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12101,
+        "item_type": "voted",
+        "item_number": "CA-38",
+        "title": "To authorize the Director of the Department of Development to enter into a not-for-profit service contract with Jewish Family Services for the Columbus Financial Empowerment Center in an amount up to $500,000.00; to authorize the expenditure of up to $500,000.00; and to authorize payment of expenses incurred prior to the creation of the purchase order, starting January 1, 2025. ($500,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0875-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 12101,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12102,
+        "item_type": "voted",
+        "item_number": "CA-39",
+        "title": "To authorize the City Clerk to enter into a grant agreement with Urban Family Development Center in support of the Dads2B/Day1Dads Campaign; to authorize an expenditure of $15,000.00 within the Neighborhood Initiatives subfund; and to declare an emergency. ($15,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1093-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12102,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12103,
+        "item_type": "voted",
+        "item_number": "CA-40",
+        "title": "To authorize an appropriation of $350,000.00 from the Municipal Court Clerk Collection Fund; to authorize the Municipal Court Clerk to enter the first renewal year with Apelles LLC, Capital Recovery Systems Inc., Linebarger, Goggan, Blair & Sampson LLP and The Law Offices of Robert A. Schuerger Co., LPA for the provision of collection services; and to authorize an expenditure of $350,000.00 from the Municipal Court Clerk Collection Fund. ($350,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0435-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12103,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12104,
+        "item_type": "voted",
+        "item_number": "CA-41",
+        "title": "To authorize the Director of the Department of Public Safety, on behalf of the Division of Support Services, to enter into contract with Intergraph Corporation for the 9.4 upgrade to the City's CAD System in accordance with the sole source procurement provisions of the Columbus City Code; to authorize the expenditure of $385,732.37 from the General Fund; and to declare an emergency.  ($385,732.37)",
+        "section": "CONSENT",
+        "matter_file": "0598-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12104,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12105,
+        "item_type": "voted",
+        "item_number": "CA-42",
+        "title": "To authorize the Director of Public Safety of the City of Columbus to accept a subgrantee award through the FY24 State Homeland Security Grant Program from the Ohio Emergency Management Agency; to authorize an appropriation of $91,842.00 from the unappropriated balance of the General Government Grant Fund to the Division of Police to cover the costs associated with the State Homeland Security Grant Program; and to declare an emergency. ($91,842.00)",
+        "section": "CONSENT",
+        "matter_file": "0931-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12105,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12106,
+        "item_type": "voted",
+        "item_number": "CA-43",
+        "title": "To authorize the City Attorney to enter into retainer agreements with Baker & Hostetler, LLP; Bricker Graydon, LLP; Frost Brown Todd, LLC; David A. Goldstein Co., LPA; McNees Wallace & Nurick, LLC; Perez & Morris, LLC; Porter Wright Morris & Arthur, LLP; and Steptoe & Johnson, PLLC for the provision of special legal counsel services, to authorize the expenditure of up to $70,000.00 from the from the previously established General Budget Reservation; and to declare an emergency. ($70,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0970-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12106,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12107,
+        "item_type": "voted",
+        "item_number": "CA-44",
+        "title": "To authorize the Director of the Department of Public Safety to enter into a grant agreement with The Columbus Urban League in support of the Strive Toward Empowerment & Potential (STEP) Program; to authorize the expenditure of $329,500.00 from the General Fund; to authorize the City Auditor to transfer $329,500.00 between object classes within the General Fund to align budget authority for this expenditure; and to declare an emergency. ($329,500.00)",
+        "section": "CONSENT",
+        "matter_file": "1023-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12107,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12108,
+        "item_type": "voted",
+        "item_number": "CA-45",
+        "title": "To authorize the Director of Public Utilities to apply for, accept, and enter into Water Supply Revolving Account Loan Agreements with the Ohio Environmental Protection Agency and the Ohio Water Development Authority, during the Program Year 2026, for the design and/or construction of water distribution and supply system improvements; and to designate a repayment source for the loans.  ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "0348-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 12108,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12109,
+        "item_type": "voted",
+        "item_number": "CA-46",
+        "title": "To authorize the Director of the Department of Public Utilities, to modify the contract for mural painting and project coordination services on pump stations along the Olentangy River as set forth in the Scope of Services with Friends of the Lower Olentangy Watershed for the Divisions of Sewerage and Drainage; to authorize the expenditure of $48,950.00 from the Sewerage and Drainage Operating Fund. ($48,950.00)",
+        "section": "CONSENT",
+        "matter_file": "0818-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12109,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12110,
+        "item_type": "voted",
+        "item_number": "CA-47",
+        "title": "To authorize the Director of Public Utilities to enter into a reimbursement agreement with the Franklin County Engineer’s Office to replace lead water lines in the Case Road area; to amend the 2024 Capital Improvement Budget; and to authorize the expenditure of up to $365,000.00 from the Water Bond Fund.  ($365,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0820-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12110,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12111,
+        "item_type": "voted",
+        "item_number": "CA-48",
+        "title": "To authorize the Director of Public Utilities to modify and increase an agreement with Kurtz Brothers Central Ohio, LLC for the design, construction and operation of the Organic Waste Recovery and Reuse System Project; to authorize the expenditure of $550,000.00 from the Sewer Operating Sanitary Fund. ($550,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0854-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 12111,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12112,
+        "item_type": "voted",
+        "item_number": "CA-49",
+        "title": "To authorize the Director of the Department of Public Utilities to modify to increase funding to an Indefinite Quantity Contract with The Herald, Inc. for Printing Services for the Department of Public Utilities; and to authorize the expenditure of $154,374.34 split between the Electricity, Water, Sanitary Sewer, and Stormwater Operating Funds. ($154,374.34)",
+        "section": "CONSENT",
+        "matter_file": "0866-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 12112,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12113,
+        "item_type": "voted",
+        "item_number": "CA-50",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Seal Analytical, Inc. for the purchase of a Lab Discrete Analyzer for the Division of Sewerage and Drainage; and to authorize the expenditure of $101,927.00 from the Sanitary Sewer Operating Fund.  ($101,927.00)",
+        "section": "CONSENT",
+        "matter_file": "0869-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 12113,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12114,
+        "item_type": "voted",
+        "item_number": "CA-51",
+        "title": "To authorize the Department of Public Utilities, to enter into a contract for soil sampling and laboratory services as set forth in the Scope of Services with Ohio State University for the Divisions of Sewerage and Drainage; to authorize the expenditure of $106,738.00 from the Sewerage and Drainage Operating Fund. ($106,738.00)",
+        "section": "CONSENT",
+        "matter_file": "0910-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12114,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12115,
+        "item_type": "voted",
+        "item_number": "CA-52",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into a Universal Term Contract for the option to purchase Envirex Parts with Evoqua Water Technologies, LLC in accordance with the sole source provisions of the Columbus City Code; to authorize the expenditure of $1.00 and to declare an emergency. ($1.00).",
+        "section": "CONSENT",
+        "matter_file": "1036-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12115,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12116,
+        "item_type": "voted",
+        "item_number": "CA-53",
+        "title": "To authorize the Director of the Department of Development to enter into not-for-profit service contracts with Homes on the Hill CDC in an amount up to $97,150.00 and The Columbus Urban League in an amount up to $47,850.00 for the purpose of assisting the Department of Development to provide housing counseling services; to authorize the appropriation and expenditure of up to $125,000.00 from the from the General Fund, Income Tax Set-Aside Subfund; to authorize the expenditure of $20,000.00 from the General Fund; and to authorize payment of expenses starting January 1, 2025. ($145,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0173-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Housing"
+        ],
+        "vote": {
+          "id": 12116,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12117,
+        "item_type": "voted",
+        "item_number": "CA-54",
+        "title": "To authorize the Director of the Department of Development to enter into a not-for-profit service contract with Columbus Housing Partnership Inc., dba Homeport, for housing counseling services; to authorize the appropriation and expenditure of up to $125,000.00 from the from the General Fund, Income Tax Set-Aside Subfund; and to authorize payment of expenses starting January 1, 2025. ($125,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0379-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Housing"
+        ],
+        "vote": {
+          "id": 12117,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12118,
+        "item_type": "voted",
+        "item_number": "CA-55",
+        "title": "To authorize the Director of the Building and Zoning Services Department to modify the professional services contract with Lisa Wise Consulting, Inc. and extend the contract end date from May 8, 2025 to May 8, 2026; to authorize an expenditure from the Development Services Fund; and to declare an emergency. ($100,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0924-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12118,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12119,
+        "item_type": "voted",
+        "item_number": "CA-56",
+        "title": "This ordinance authorizes the appropriation and expenditure in an amount up to $950,000.00 of 2023 HOME Investment Partnerships Program (HOME) entitlement funds from the U.S. Department of Housing and Urban Development (HUD) and authorizes the Director of the Department of Development execute a commitment letter, loan agreement, promissory note, mortgage, and restrictive covenant with Artem on Gay, L.P for the Artem on Gay project. ($950,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0965-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Housing"
+        ],
+        "vote": {
+          "id": 12119,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12120,
+        "item_type": "voted",
+        "item_number": "CA-57",
+        "title": "To authorize appropriation in an amount up to $81,187.73, the transfer between object classes in an amount up to $652.69, and the expenditure in an amount up to $170,595.96 of 2018 HOME Investment Partnerships Program (HOME) entitlement grants funds from the U.S. Department of Housing and Urban Development; and to authorize the Director of the Department of Development enter into a commitment letter, loan agreement, promissory note, mortgage, and restrictive covenant with Habitat for Humanity-MidOhio to construct four single family homes with each address having its own set of loan documents in a total cost for both homes in an amount up to $220,420.00 of which partial funding was authorized within ordinance numbers 1084-2024 and 1361-2024; and to declare an emergency ($170,595.96).",
+        "section": "CONSENT",
+        "matter_file": "1054-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12120,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12121,
+        "item_type": "voted",
+        "item_number": "CA-58",
+        "title": "To authorize the Director of the Department of Development to approve the forgiveness of individual loan(s) to borrower Sharon L. Huntley, who meets the eligibility requirements of the homeowner loan forgiveness program, in the amount of  $25,422.29; and to declare an emergency. ($25,422.29)",
+        "section": "CONSENT",
+        "matter_file": "1075-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12121,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12122,
+        "item_type": "voted",
+        "item_number": "CA-59",
+        "title": "To appoint Stephen Sayre, Deputy Chief of Staff, Office of the Mayor, 90 W. Broad Street, Columbus, OH 43215, to serve on the Central Ohio Transit Authority (COTA) Board of Trustees, to represent the City of Columbus' interests, in his official capacity, with a term expiration of April 1, 2028.  (profile attached).",
+        "section": "CONSENT",
+        "matter_file": "A0088-2025",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 12122,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12123,
+        "item_type": "voted",
+        "item_number": "CA-60",
+        "title": "Reappointment of Steve Cothrel, City of Upper Arlington Department of Parks & Recreation, 3600 Tremont Rd, Columbus, OH 43221, to serve on the Columbus Tree Subcommission with a term start date of May 1, 2025 and end date of December 31, 2030 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0091-2025",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 12123,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12124,
+        "item_type": "voted",
+        "item_number": "CA-61",
+        "title": "Reappointment of Julie Predieri, Forestry Superintendent, City of Gahanna, 200 Hamilton Road, Gahanna, OH 43230, to serve on the Columbus Tree Subcommission with a term start date of May 1, 2025 and end date of December 31, 2030 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0092-2025",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 12124,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12125,
+        "item_type": "voted",
+        "item_number": "CA-62",
+        "title": "Appointment of Tim Ascher, 3332 Fishinger Road, Columbus, OH 3221, to serve on the Columbus Tree Subcommission with a term start date of May 1, 2025 and end date of December 31, 2030 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0093-2025",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 12125,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12126,
+        "item_type": "voted",
+        "item_number": "SR-1",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into a contract with the Franklin County Public Defender Commission to provide legal counsel to indigent persons charged with criminal offenses; to authorize the expenditure of $1,132,367.00 from the general fund; to authorize the reimbursement of expenses prior to the issuance of a purchase order starting January 1, 2025; and to declare an emergency ($1,132,367.00)",
+        "section": "GENERAL",
+        "matter_file": "1072-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12126,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12127,
+        "item_type": "voted",
+        "item_number": "LA",
+        "title": "To authorize the City Clerk to enter into a grant agreement with the Ohio Black Expo in support of the Ohio Black Expo event week; to authorize a transfer within the General Fund; to authorize the expenditure of $20,000.00 within the Neighborhood Initiatives subfund; to authorize the expenditure of $30,000.00 from the General Fund; and to declare an emergency. ($50,000.00)",
+        "section": "GENERAL",
+        "matter_file": "1192-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12127,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12128,
+        "item_type": "voted",
+        "item_number": "SR-2",
+        "title": "To authorize the City Clerk to enter into grant agreements with the not-for-profit entities At Home by High, Clintonville-Beechwold Community Resources Center dba Village in the Ville, Central Community House of Columbus dba Village Central, and Village Connections in support of their shared mission to enable older adults and people with disabilities to live with dignity and independence; to authorize an appropriation and expenditure within the Neighborhood Initiatives subfund; and to declare an emergency. ($50,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0351-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12128,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12129,
+        "item_type": "voted",
+        "item_number": "SR-3",
+        "title": "To authorize the City Clerk to enter into a grant agreement with Rediscover Lockbourne in support of the Memorial Wall project; and to authorize an expenditure within the Neighborhood Initiatives subfund. ($10,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0977-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12129,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12130,
+        "item_type": "voted",
+        "item_number": "SR-4",
+        "title": "To authorize the Director of the Department of Development to execute a grant agreement with the following not-for-profit agency, The Tony R. Wells Foundation, in an amount up to $1,453,158.80 to provide time-limited payments of unrestricted funds to individuals engaged in an economic mobility initiative that is supported by a non-profit organization.as well as pay the administration costs for the Foundation’s services (i.e. administrative and staffing costs); to authorize the appropriation and expenditure in an amount up to $1,453,158.80 within the Income Tax Set Aside (ITSA) Subfund; to authorize the agreements to be effective January 1, 2025 through December 31, 2027; and to authorize the advancement of funds on a predetermined schedule. ($1,453,158.80)",
+        "section": "GENERAL",
+        "matter_file": "0858-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 12130,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12131,
+        "item_type": "voted",
+        "item_number": "SR-5",
+        "title": "To authorize the City Clerk to enter into a grant agreement with Besa Community, Inc., in support of its volunteer efforts in the areas of neighborhood revitalization, emergency response and relief, and nonprofit infrastructure and capacity building; to authorize an appropriation of $90,000.00 within the Neighborhood Initiatives subfund; to authorize the expenditure of $100,000.00 within the Neighborhood Initiatives subfund; and to declare an emergency ($100,000.00)",
+        "section": "GENERAL",
+        "matter_file": "1109-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 12131,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12132,
+        "item_type": "voted",
+        "item_number": "SR-6",
+        "title": "To authorize and direct the City Auditor to transfer $2,504,426.00 within various projects of the Safety Voted Bond Fund; to amend the 2024 Capital Improvement Budget; to waive the competitive bidding provisions of the Columbus City Codes; to authorize the Finance and Management Director to enter into a contract with and issue a purchase order to Atlantic Emergency Solutions, Inc. for the purchase of two (2) Pierce Enforcer Pumpers; to authorize the expenditure of $2,504,426.00 from the Safety Voted Bond Fund; and to declare an emergency. ($2,504,426.00)",
+        "section": "GENERAL",
+        "matter_file": "0891-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12132,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12133,
+        "item_type": "voted",
+        "item_number": "SR-7",
+        "title": "To authorize the Director of the Department of Public Safety to enter into contract with Tablet Command, Inc. for licensing of specialized software, and user licenses for use with the Division of Fire’s incident command module; to waive the competitive bidding provisions of the Columbus City Codes; to authorize the expenditure of $44,650.00 from the General Fund; and to declare an emergency. ($44,650.00)",
+        "section": "GENERAL",
+        "matter_file": "0992-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12133,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12134,
+        "item_type": "voted",
+        "item_number": "SR-8",
+        "title": "To authorize the Director of the Department of Public Safety to enter into a contract with Axon Enterprise, Inc. to continue the Division of Fire's Fire & Explosives Investigations Unit’s (FEIU) digital evidence storage service; to waive the competitive bidding provisions of the Columbus City Codes; to authorize the expenditure of $6,362.40 from the General Fund; to authorize the reimbursement of expenses incurred prior to the issuance of a purchase order; and to declare an emergency. ($6,362.40)",
+        "section": "GENERAL",
+        "matter_file": "0998-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12134,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12135,
+        "item_type": "voted",
+        "item_number": "SR-9",
+        "title": "To authorize the Director of the Department of Public Safety to enter into a contract with Equipment Simulations LLC DBA Sims U Share for virtual private server and simulation builder subscription service for the Division of Fire; to waive the competitive bidding provisions of the Columbus City Codes; to authorize the expenditure of $7,995.00 from the General Fund; and to declare an emergency. ($7,995.00)",
+        "section": "GENERAL",
+        "matter_file": "0999-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12135,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12136,
+        "item_type": "voted",
+        "item_number": "SR-10",
+        "title": "To authorize the Director of Public Utilities to modify and increase a professional engineering services contract with Hill International for the Professional Construction Management Services - 2020 contract; to authorize an amendment to the 2024 Capital Improvement Budget; to authorize a transfer of cash and appropriation within the Water Bond Fund; and to authorize an expenditure of up to $8,090,400.00 from the Water Bond Fund to pay for the modification.  ($8,090,400.00)",
+        "section": "GENERAL",
+        "matter_file": "0616-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12136,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12137,
+        "item_type": "voted",
+        "item_number": "SR-11",
+        "title": "To authorize the City Attorney, on behalf of the Department of Public Utilities, to modify the contract for special legal counsel services with Taft Stettinius & Hollister LLP for the Divisions of Sewerage and Drainage and Water; to waive competitive bidding provisions of Columbus City Code; to authorize the expenditure of $191,000.000 from the Sewerage and Drainage and Water Operating Funds. ($191,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0857-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12137,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12138,
+        "item_type": "voted",
+        "item_number": "SR-12",
+        "title": "To authorize the Director of the Department of Public Utilities to enter into a construction contract with Schneider Electric for the DRWP Automation Upgrade - SCADA system hardware and software project; to amend the 2024 Capital Improvement Budget; to authorize the appropriation and expenditure of up to $4,572,980.00 from the Water Supply Revolving Loan Account Fund for the contract; to make this ordinance contingent upon the Ohio Water Development Authority approving a loan for this project; to authorize the transfer of cash and appropriation within the Water Bond Fund; and to authorize the expenditure of up to $2,000.00 from the Water Bond Fund to pay for prevailing wage service for the project. ($4,574,982.00).",
+        "section": "GENERAL",
+        "matter_file": "0864-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12138,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12139,
+        "item_type": "voted",
+        "item_number": "SR-13",
+        "title": "To authorize the City Auditor to transfer $655,925.00 from the Coronavirus Local Fiscal Recovery Fund to the Water Operating Fund and $17,750.00 from the Coronavirus Local Fiscal Recovery Fund to the Power Operating Fund to reimburse those funds for one-time bill credits issued in 2025 ($673,675.00).",
+        "section": "GENERAL",
+        "matter_file": "0915-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12139,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12140,
+        "item_type": "voted",
+        "item_number": "SR-14",
+        "title": "To authorize the Finance and Management Director to modify a contract with Trebel LLC for the Sustainable Columbus Community Choice Aggregation project; to waive the competitive bidding provisions of Chapter 329 of the Columbus City Codes. ($0.00)",
+        "section": "GENERAL",
+        "matter_file": "1053-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 12140,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12141,
+        "item_type": "voted",
+        "item_number": "SR-15",
+        "title": "This ordinance authorizes the appropriation and expenditure in an amount up to $2,000,000.00 of HOME Investment Partnerships Program (HOME-ARP) funds from the U.S. Department of Housing and Urban Development; authorizes the Director of the Department of Development to enter into a commitment letter, loan agreement, promissory note, mortgage, and restrictive covenant with Commons at Grant (TC2) Housing Limited Partnership in an amount up to $2,000,000.00 for the Commons at Grant project. ($2,000,000.00).",
+        "section": "GENERAL",
+        "matter_file": "0964-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 12141,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12142,
+        "item_type": "voted",
+        "item_number": "SR-16",
+        "title": "To authorize the Director of the Development Department to enter into a Not for Profit Service Contract with the Affordable Housing Trust for Columbus and Franklin County to facilitate the production of affordable housing and enhance home ownership opportunities in Columbus; to allow the reimbursement for expenditures prior to the issuance of the purchase order starting January 1, 2025; to authorize the expenditure of $2,502,000.00; and to declare an emergency. ($2,502,000.00)",
+        "section": "GENERAL",
+        "matter_file": "1063-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12142,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12143,
+        "item_type": "voted",
+        "item_number": "SR-17",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with the Community Shelter Board for the purpose of continuing the City’s support for men, women and families who are experiencing, or at risk of experiencing, homelessness in Columbus; to authorize the payment of expenses prior to purchase order execution starting January 1, 2025; to authorize the transfer of $10,000.00 within the General Fund; to authorize the appropriation of $1,246,566 in the Income Tax Set-Aside Fund to the Department of Development, Administration Division; to authorize an expenditure in an amount up to $10,399,650.00 from the General Fund and the Income Tax Set-Aside Subfund; to authorize the payment for reasonable food and non-alcoholic beverages; to allow funding to be advanced to the agency on a predetermined schedule; and to declare an emergency. ($10,399,650.00)",
+        "section": "GENERAL",
+        "matter_file": "1101-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 12143,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 12144,
+        "item_type": "voted",
+        "item_number": "SR-18",
+        "title": "To amend existing Section 2505.07.6 of Chapter 2505 of the Columbus City Codes to establish and clarify the authority and responsibility for the maintenance of fire hydrants attached to city water lines but located outside the corporate limits of the City of Columbus.",
+        "section": "GENERAL",
+        "matter_file": "1052-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 12144,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      }
+    ]
+  }
+}

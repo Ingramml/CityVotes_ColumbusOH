@@ -1,0 +1,12 @@
+# Claude Code
+.claude/
+master-files/
+
+# Data files
+*.csv
+
+# Node
+node_modules/
+
+# OS
+.DS_Store

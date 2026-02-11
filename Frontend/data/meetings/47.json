@@ -1,0 +1,2026 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 47,
+    "event_id": "5872",
+    "meeting_date": "2022-05-16",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=5872&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2022/5/5872_A_Columbus_City_Council_22-05-16_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2022/5/5872_M_Columbus_City_Council_22-05-16_Minutes_-_Final.pdf",
+    "video_url": null,
+    "vote_count": 67,
+    "non_voted_count": 40,
+    "first_reading_count": 9,
+    "agenda_item_count": 107,
+    "agenda_items": [
+      {
+        "agenda_sequence": 1,
+        "item_type": "voted",
+        "item_number": "1",
+        "title": "THE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF WEDNESDAY, MAY 11, 2022:\r\n\r\nTransfer Type: C1 C2\r\nTo: Shri Hari 1026 LLC\r\n116 N High St\r\nColumbus OH 43215\r\nFrom: Jai Shri Krishna Ltd\r\nDBA JSK Carryout\r\n116 N High St\r\nColumbus OH \r\nPermit #81131550010\r\n\r\nTransfer Type: D1 D2 D3 D3A D6\r\nTo: Next Level Lounge LLC\r\n6093 McNaughton Ctr\r\nColumbus OH 43232\r\nFrom: Next Level Lounge LLC & Patio\r\n1381 S Hamilton Rd\r\nColumbus OH 43227\r\nPermit #63913830015\r\n\r\nNew Type: D2\r\nTo: I Corner LLC\r\n2060 N High St Ste A\r\nColumbus OH 43201\r\nPermit #4110856\r\n\r\nTransfer Type: C1 C2\r\nTo: Sullivant Fast Mart Inc\r\nDBA Sams Food Shop\r\n981 Sullivant Av 1st Flr & Bsmt\r\nColumbus OH 43223\r\nFrom: Fesha LLC\r\n981 Sullivant Av 1st Fl & Bsmt\r\nColumbus OH 43223\r\nPermit #8683981\r\n\r\nNew Type: D1 D2\r\nTo: Lucky U LLC\r\n2997 E 5th Ave\r\nColumbus OH 43219\r\nPermit #5357667\r\n\r\nTransfer Type: D2 D2X\r\nTo: Jinju Corporation\r\nDBA Han Ma Oom\r\n764 Bethel Rd\r\nColumbus OH 43214\r\nFrom: Chung M Aun Inc\r\nDBA Japanese Oriental Restaurant\r\n2283 N High St 1st Fl & Bsmt & Patio\r\nColumbus OH 43201\r\nPermit #4289660\r\n\r\nNew Type: C1 C2\r\nTo: Ohio Springs Inc\r\nDBA Sheetz #723\r\n2840 Johnstown Rd\r\nColumbus OH 43219\r\nPermit #65215090515\r\n\r\nAdvertise Date: 5/21/22\r\nAgenda Date: 5/16/22\r\nReturn Date: 5/26/22",
+        "section": "GENERAL",
+        "matter_file": "C0019-2022",
+        "matter_type": "Communication",
+        "topics": [
+          "Planning & Development"
+        ],
+        "vote": {
+          "id": 3682,
+          "outcome": "FAIL",
+          "ayes": 0,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 2,
+        "item_type": "voted",
+        "item_number": "2",
+        "title": "To recognize and designate May 15-21, 2022 as Emergency Medical Services (EMS) Week in Columbus, Ohio.",
+        "section": "GENERAL",
+        "matter_file": "0088X-2022",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Appointments",
+          "Emergency Services",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 3683,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "READING AND DISPOSAL OF THE JOURNAL",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 3681,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "To honor and recognize May 2022 as National Foster Care Month in Columbus, Ohio.",
+        "section": "GENERAL",
+        "matter_file": "0090X-2022",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 3684,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE JOURNAL",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 5,
+        "item_type": "non_voted",
+        "category": "clerk_communications",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "COMMUNICATIONS AND REPORTS RECEIVED BY CITY CLERK'S OFFICE",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 7,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 8,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "REMY",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 11,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE AGENDA",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 13,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE:  E. BROWN CHR.  BANKSTON REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 15,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES: DORANS, CHR.  BANKSTON REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 17,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Public Utilities to enter into an agreement, in accordance with sole-source provisions of City Code, with GE Digital LLC for the purchase of GE Proficy GlobalCare Complete software licenses and maintenance support and ten (10) additional iFix Client licenses for the Division of Sewerage and Drainage, and to authorize the expenditure of $199,993.56 from the Sewer Operating Sanitary Fund. ($199,993.56)",
+        "matter_file": "1198-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nThis legislation authorizes the Director of Public Utilities to enter into an agreement with GE Digital LLC for the purchase of software licenses and support for the GE Proficy GlobalCare Complete software and for the purchase of ten (10) additional iFix Client licenses. \n \nThe Sewe...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 18,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Public Utilities to modify and increase the professional engineering services agreement with Resource International, Inc., for the N. Sixth Street & E. Third Avenue Water Line Improvements Project; for the Division of Water; to authorize an expenditure up to $15,730.97 within the Water General Obligations Bond Fund; and to amend the 2021 Capital Improvements Budget.  ($15,730.97)",
+        "matter_file": "1205-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \n1. BACKGROUND:  This Ordinance authorizes the Director of Public Utilities to modify and increase the professional engineering services agreement with Resource International, Inc. for the N. Sixth Street & E. Third Avenue Water Line Improvements, Capital Improvements Project No. 690...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 19,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Hydro-Thermal Corporation for the purchase of Steam Injector Parts for the Division of Sewerage and Drainage; and to authorize the expenditure of $104,679.00 from the Sanitary Sewer Operating Fund.  ($104,679.00)",
+        "matter_file": "1242-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  To authorize the Director of Finance and Management to enter into a contract with Hydro-Thermal Corporation for the purchase of Steam Injector Parts to be used by the Division of Sewerage and Drainage. The equipment will be used by the Southerly Wastewater Treatment Pla...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 20,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Applied Industrial Technologies for the purchase of Magnetic Couplings for the Division of Sewerage and Drainage; and to authorize the expenditure of $87,357.34 from the Sanitary Sewer Operating Fund.  ($87,357.34)",
+        "matter_file": "1247-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  To authorize the Director of Finance and Management to enter into a contract with Applied Industrial Technologies for the purchase of Magnetic Couplings to be used by the Division of Sewerage and Drainage. The equipment will be used by the Southerly Wastewater Treatment...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 21,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY:  REMY, CHR.  BARROSO DE PADILLA DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 22,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize and direct the Finance and Management Director to sell to Firefighter Jacob Castle, for the sum of $1.00, a Bomb Squad canine with the registered name \"Lanix\", which has no further value to the Division of Fire; and to waive the provisions of the Columbus City Codes, Sale of City-Owned Personal Property. ($1.00)",
+        "matter_file": "1264-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  Canine \"Lanix\", a Bomb Squad dog, was acquired by the Division of Fire in 2019; \"Lanix\" will be retiring from active service due to a medical condition effective April 27, 2022 and will continue living with his handler, Firefighter Jacob Castle.\n \nIt is recommended that...",
+        "topics": [
+          "Emergency Services",
+          "Property & Real Estate"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 23,
+        "item_type": "non_voted",
+        "category": "zoning_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ZONING: DORANS, CHR.  BANKSTON BARROSO DE PADILLA BROWN FAVOR REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 24,
+        "item_type": "non_voted",
+        "category": "zoning_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "REZONINGS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 25,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To rezone 3573 AGLER RD. (43219), being 28.38± acres located on the south side of Agler Road, 875± feet west of Stelzer Road, From: AR-12, Apartment Residential District, SR, Suburban Residential District, R-1, Residential District, and R, Rural District, To: L-M, Limited Manufacturing District (Rezoning #Z21-087).",
+        "matter_file": "1342-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nRezoning Application: Z21-087\n \nAPPLICANT: Keith Massa; Schottenstein Property Group; c/o David Hodge, Atty.; 8000 Walton Parkway, Suite 260; New Albany, OH 43054. \n                     \nPROPOSED USE: Industrial or commercial development.\n \nDEVELOPMENT COMMISSION RECOMMENDATION: App...",
+        "topics": [
+          "Housing",
+          "Planning & Development",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 26,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To rezone 5775 OLD HAMILTON RD. (43054), being 1.00± acre located on the east side of Old Hamilton Road, 350± feet northeast of the roundabout intersection with North Hamilton Road, From: CPD, Commercial Planned Development District, To: CPD, Commercial Planned Development District (Rezoning #Z22-004).",
+        "matter_file": "1355-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nRezoning Application Z22-004\n \nAPPLICANT: Christian Brothers Automotive; c/o Aaron Underhill, Atty.; Underhill & Hodge LLC; 8000 Walton Parkway, Suite 260; New Albany, OH 43054.\n \nPROPOSED USE: Auto repair facility.\nDEVELOPMENT COMMISSION RECOMMENDATION: Approval (5-0) on April 14, ...",
+        "topics": [
+          "Planning & Development",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 27,
+        "item_type": "non_voted",
+        "category": "variances_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "VARIANCES",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 28,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To grant a Variance from the provisions of Sections 3332.037, R-2F residential district; 3312.49(C), Minimum numbers of parking spaces required; 3321.05(A)(2) and (B)(2), Vision clearance; 3332.14, R-2F area district requirements; 3332.21, Building lines; 3332.26(C), Minimum side yard permitted; and 3332.27, Rear yard, of the Columbus City Codes; for the property located at 458 E. WHITTIER ST. (43206), to permit two single-unit dwellings on the same lot with reduced development standards in the R-2F, Residential District (Council Variance #CV22-007).",
+        "matter_file": "1335-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nCouncil Variance Application:  CV22-007\n \nAPPLICANT: Michael and Kathryn Green; 458 East Whittier Street; Columbus, OH 43206.\n \nPROPOSED USE: Two single-unit dwellings on one lot.\n \nCOLUMBUS SOUTH SIDE AREA COMMISSION RECOMMENDATION: Approval.\n                                       ...",
+        "topics": [
+          "Grants",
+          "Housing",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 29,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To grant a Variance from the provisions of Sections 3312.03(D), Administrative requirements; 3312.21(B), Landscaping and screening; 3312.25, Maneuvering; 3312.27(2), Parking setback line; 3312.29, Parking space; and 3312.51(1)(2), Loading space, of the Columbus City Codes; for the property located at 3573 AGLER RD. (43219), to permit reduced development standards for an industrial development in the L-M, Limited Manufacturing District (Council Variance #CV21-112).",
+        "matter_file": "1343-2022",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nCouncil Variance Application: CV21-112\n \nAPPLICANT: Keith Massa; Schottenstein Property Group; c/o David Hodge, Atty.; 8000 Walton Parkway, Suite 260; New Albany, OH 43054. \n                     \nPROPOSED USE: Industrial or commercial development.\n \nNORTHEAST AREA COMMISSION RECOMME...",
+        "topics": [
+          "Grants",
+          "Parks & Recreation",
+          "Planning & Development"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 30,
+        "item_type": "non_voted",
+        "category": "consent_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "CONSENT ACTIONS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 31,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION:",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 32,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "REMY",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 34,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 36,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ECONOMIC DEVELOPMENT:  BANKSTON, CHR.  REMY DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 38,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "SMALL & MINORITY BUSINESS: BANKSTON, CHR.  REMY BARROSO DE PADILLA HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 40,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION:  BARROSO DE PADILLA, CHR.  FAVOR BANKSTON HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 48,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES: DORANS, CHR.  BANKSTON REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 56,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HOUSING:  FAVOR, CHR.  BANKSTON BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 59,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH & HUMAN SERVICES:  FAVOR, CHR.  BARROSO DE PADILLA  BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 63,
+        "item_type": "non_voted",
+        "category": "appointments_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "APPOINTMENTS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 88,
+        "item_type": "non_voted",
+        "category": "emergency_section",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EMERGENCY, TABLED AND 2ND READING OF 30-DAY LEGISLATION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 89,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "SMALL & MINORITY BUSINESS: BANKSTON, CHR.  REMY BARROSO DE PADILLA HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 91,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION:  BARROSO DE PADILLA, CHR.  FAVOR BANKSTON HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 93,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EDUCATION: BROWN, CHR.  FAVOR BARROSO DE PADILLA  HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 96,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES: DORANS, CHR.  BANKSTON REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 98,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH & HUMAN SERVICES:  FAVOR, CHR.  BARROSO DE PADILLA  BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 101,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY:  REMY, CHR.  BARROSO DE PADILLA  DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 103,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RULES & REFERENCE:  HARDIN, CHR.  BROWN REMY FAVOR",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 104,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "DORANS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 106,
+        "item_type": "voted",
+        "item_number": "106",
+        "title": "ADJOURNMENT",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 3744,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3678,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize and direct the Director of Public Safety to renew the contract for helicopter maintenance with Helicopter Minit-Men, Inc. for the Division of Police; to authorize the expenditure of $898,666.50 from the General Fund; and to declare an emergency. ($898,666.50)",
+        "section": "GENERAL",
+        "matter_file": "0853-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3678,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3679,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize and direct the Director of Public Safety to renew the contract for helicopter maintenance with Helicopter Minit-Men, Inc. for the Division of Police; to authorize the expenditure of $898,666.50 from the General Fund; and to declare an emergency. ($898,666.50)",
+        "section": "GENERAL",
+        "matter_file": "0853-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3679,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3680,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "Approval of the Consent Agenda",
+        "section": "CONSENT",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 3680,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3685,
+        "item_type": "voted",
+        "item_number": "FR",
+        "title": "FIRST READING OF 30-DAY LEGISLATION",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 3685,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3686,
+        "item_type": "voted",
+        "item_number": "FR-1",
+        "title": "To authorize the Finance and Management Director, on behalf of the Fleet Management Division, to establish a purchase order with Grimco Inc., for the purchase of Gerber and 3M films and foils; and to authorize the expenditure of $57,644.22 from the Fleet Management Operating Fund. ($57,644.22)",
+        "section": "GENERAL",
+        "matter_file": "1213-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 3686,
+          "outcome": "FAIL",
+          "ayes": 0,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3687,
+        "item_type": "voted",
+        "item_number": "FR-2",
+        "title": "To authorize the Finance and Management Director to associate all General Budget Reservations resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreements for the purchase of  materials, supplies and services for the Division of Sewerage and Drainage, Southerly Wastewater Treatment Plant; and to authorize the expenditure of $300,000.00 from the Sewerage Operating Fund. ($300,000.00)",
+        "section": "GENERAL",
+        "matter_file": "1176-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 3687,
+          "outcome": "FAIL",
+          "ayes": 0,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3688,
+        "item_type": "voted",
+        "item_number": "CA-1",
+        "title": "To recognize and designate May 15-21, 2022 as Light Ohio Blue Week in Columbus, Ohio.",
+        "section": "GENERAL",
+        "matter_file": "0089X-2022",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Appointments",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 3688,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3689,
+        "item_type": "voted",
+        "item_number": "CA-2",
+        "title": "To Recognize Former City Council Member Priscilla R. Tyson for her service to our community, and to the City of Columbus",
+        "section": "CONSENT",
+        "matter_file": "0087X-2022",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 3689,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3690,
+        "item_type": "voted",
+        "item_number": "CA-3",
+        "title": "To authorize the Director of the Department of Development to execute an Assignment Assumption of Rights, Duties and Responsibilities of Developer to remove Crown Pointe, LLC, and replace it with Metro Development, LLC, as the “Developer,” as that term is defined in Ohio Revised Code Chapter 349, and as identified in the Big Darby West Broad Street New Community New Community Authority, its petition, and under Resolutions 0060X-2021 and 0242X-2021, which said resolutions determined the petition and/or authority to be sufficient and approved; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "1291-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Economic Development",
+          "Emergency Services",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 3690,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3691,
+        "item_type": "voted",
+        "item_number": "CA-4",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with DR Real Estate Management, LLC in an amount up to $62,000 for interior/exterior renovations of 1278 E. Main Street and 1233 E. Main Street and to allow for the reimbursement of eligible expenses outlined in the grant agreement, but unable to be completed prior to the expiration of the previous grant agreement; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "0620-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 3691,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3692,
+        "item_type": "voted",
+        "item_number": "CA-5",
+        "title": "To transfer cash and appropriate funds within the East Broad Commercial TIF Capital Fund 7431; to authorize the Director of Public Service to enter into a contract modification with TranSystems Corporation of Ohio in connection with the Arterial Street Rehabilitation - East Broad Street Widening project; to authorize the expenditure of up to $199,778.56 for the contract modification from the East Broad Commercial TIF Capital Fund for the project; and to declare an emergency.  ($199,778.56)",
+        "section": "CONSENT",
+        "matter_file": "1125-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Economic Development"
+        ],
+        "vote": {
+          "id": 3692,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3693,
+        "item_type": "voted",
+        "item_number": "CA-6",
+        "title": "To authorize the Chief Innovation Officer to transfer signature authority to the Director of Public Service or the Director of Public Service’s designee for all past, present and future contracts and modifications entered into by the City of Columbus in connection to the USDOT Smart City Challenge Connected Vehicle Environment project with Kapsch TrafficCom USA, Inc.; to authorize the Director of Public Service to enter into a contract modification with Kapsch TrafficCom USA, Inc. in connection with the Smart Columbus - CVE Road-Side Unit System Integrator project; to authorize the expenditure of up to $150,000.00 from the Street Construction Maintenance and Repair Fund; and to declare an emergency.  ($150,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1203-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3693,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3694,
+        "item_type": "voted",
+        "item_number": "CA-7",
+        "title": "To receive City Council approval to expend more than $100,000.00 on a Universal Term Contract previously established by the City for the purchase of dump trucks; to authorize the Director of Finance and Management to associate all General Budget reservations resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreement for the purchase of two tandem axle dump trucks from Fyda Freightliner Columbus, Inc.; to authorize the expenditure of up to $575,316.00 from the Municipal Motor Vehicle Tax Fund; and declare an emergency.  ($575,316.00)",
+        "section": "CONSENT",
+        "matter_file": "1204-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3694,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3695,
+        "item_type": "voted",
+        "item_number": "CA-8",
+        "title": "To authorize the Director of Finance and Management to associate all General Budget reservations resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreement for the purchase of parking meter payment systems from Cale America Inc., DBA Flowbird, for the Division of Parking Services; to authorize the expenditure of up to $200,000.00 from the Mobility Enterprise Operating Fund; and to declare an emergency.   ($200,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1212-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3695,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3696,
+        "item_type": "voted",
+        "item_number": "CA-9",
+        "title": "To authorize the Finance and Management Director to establish purchase orders and contracts with Iron Armour, LLC for the purchase of commodities, supplies, and materials for various traffic signal commodities for the Department of Public Service, Division of Traffic Management; to authorize the Director of Finance and Management to associate the General Budget Reservation resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreements for the Division of Traffic Management; to authorize the expenditure of up to $400,000.00 from the Street Construction Maintenance and Repair Fund for this purpose; and to declare an emergency.  ($400,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1230-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3696,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3697,
+        "item_type": "voted",
+        "item_number": "CA-10",
+        "title": "To authorize the Chief Innovation Officer to transfer signature authority to the Director of Public Service or the Director of Public Service’s designee for all past, present and future contracts and modifications entered into by the City of Columbus in connection to the Smart Columbus - CVE On-Board Unit System Integrator with Yunex LLC; to authorize the Director of Public Service to enter into a contract modification with Yunex LLC in connection with the Smart Columbus - CVE On-Board Unit System Integrator project; to authorize the expenditure of up to $150,000.00 from the Street Construction Maintenance and Repair Fund to pay for the contract modification; and to declare an emergency.  ($150,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1231-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3697,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3698,
+        "item_type": "voted",
+        "item_number": "CA-11",
+        "title": "To authorize the Director of Public Service to enter into a contract modification with Carpenter Marty Transportation in connection with the Intersection-Cleveland Avenue-5th Avenue to Lehner Road project; to authorize the expenditure of up to $14,588.00 from the Street Construction Maintenance and Repair Fund for the modification; and to declare an emergency.  ($14,588.00)",
+        "section": "CONSENT",
+        "matter_file": "1249-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3698,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3699,
+        "item_type": "voted",
+        "item_number": "CA-12",
+        "title": "To authorize the Director of Public Utilities to modify and increase the professional engineering services agreement with Burgess & Niple, Inc., for the Dublin Road Water Plant (DRWP) Caustic Feed Improvements Project; for the Division of Water; to authorize a transfer, appropriation, and expenditure up to $442,220.00 within the Water PayGo Fund; and to amend the 2021 Capital Improvements Budget.  ($442,220.00)",
+        "section": "CONSENT",
+        "matter_file": "1138-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 3699,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3700,
+        "item_type": "voted",
+        "item_number": "CA-13",
+        "title": "To authorize the Director of Public Utilities to renew two (2) professional engineering agreements for the 2019 - 2021 General Engineering Services for the Division of Sewerage and Drainage Stormwater Section, with CHA Consulting, Inc. and Korda/Nemeth Engineering, Inc.; to authorize a transfer within and an expenditure of up to $400,000.00 from the Storm Sewer Bond Fund; and to authorize an amendment to the 2021 Capital Improvements Budget.  ($400,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1149-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 3700,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3701,
+        "item_type": "voted",
+        "item_number": "CA-14",
+        "title": "To authorize the Finance and Management Director to associate all General Budget Reservations resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreement for the purchase of Motorola radios for the Division of Sewerage and Drainage, Southerly Wastewater Treatment Plant and to authorize the expenditure of $98,000.00 from the Sewerage Operating Fund. ($98,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1170-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 3701,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3702,
+        "item_type": "voted",
+        "item_number": "CA-15",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Brown Enterprise Solutions, LLC for the purchase of a Dell servers, workstations, monitors, laptops, tape drives and accessories for the Division of Sewerage and Drainage; and to authorize the expenditure of $136,612.45 from the Sanitary Sewer Operating Fund.  ($136,612.45)",
+        "section": "CONSENT",
+        "matter_file": "1174-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 3702,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3703,
+        "item_type": "voted",
+        "item_number": "CA-16",
+        "title": "To authorize the Director of Public Utilities to enter into a contract renewal, in accordance with sole-source provisions of City Code, with Johnson Controls Fire Protection LP for life safety system maintenance services for the Division of Sewerage and Drainage, and to authorize the expenditure of $70,000.00 from the Sewer Operating Sanitary Fund. ($70,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1182-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3703,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3704,
+        "item_type": "voted",
+        "item_number": "CA-17",
+        "title": "To authorize the Finance and Management Director to enter into a Universal Term Contract for the option to purchase Precast Concrete Structures from E C Babbert, Inc.; to authorize the expenditure of $1.00 from General Budget Reservation BRPO002025; and to declare an emergency. ($1.00).",
+        "section": "CONSENT",
+        "matter_file": "1295-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3704,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3705,
+        "item_type": "voted",
+        "item_number": "CA-18",
+        "title": "To authorize the Director of Public Utilities to pay the Water Pollution Control Loan Fund Loan Fee to the Ohio Water Development Authority for the Third Avenue Relief Sewer, Phase 3 project; to authorize the expenditure of $15,167.00 from the Sewerage System Operating Fund; and to declare an emergency.  ($15,167.00)",
+        "section": "CONSENT",
+        "matter_file": "1301-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 3705,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3706,
+        "item_type": "voted",
+        "item_number": "CA-19",
+        "title": "To authorize the Director of the Department of Development to execute any and all necessary agreements and deeds for conveyance of title of one parcel of real property (2972 Howey Rd.) held in the Land Bank pursuant to the Land Reutilization Program and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "1347-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 3706,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3707,
+        "item_type": "voted",
+        "item_number": "CA-20",
+        "title": "To authorize the Director of the Department of Development to execute any and all necessary agreements and deeds for conveyance of title of one parcel of real property (1000-1002 E Long St.) held in the Land Bank pursuant to the Land Reutilization Program and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "1349-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 3707,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3708,
+        "item_type": "voted",
+        "item_number": "CA-21",
+        "title": "To authorize the Board of Health to enter into a contract with COHEAR to drive innovative and effective efforts to pursue equity in vaccine uptake and health outcomes in vulnerable communities in Franklin County for the COVID-19 Vaccine Grant Program; to authorize the expenditure of $320,000.00 from the Health Department Grants Fund; and to declare an emergency. ($320,000.00)",
+        "section": "CONSENT",
+        "matter_file": "0595-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3708,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3709,
+        "item_type": "voted",
+        "item_number": "CA-22",
+        "title": "To authorize the Board of Health to enter into a subaward with Equitas Health for the provision of eligible HOPWA services for the period of January 1, 2022 through December 31, 2022; to authorize the expenditure of $449,449.00 from the General Government Grants Fund; and to declare an emergency.  ($449,449.00)",
+        "section": "CONSENT",
+        "matter_file": "0919-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 3709,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3710,
+        "item_type": "voted",
+        "item_number": "CA-23",
+        "title": "To authorize the Board of Health to enter into a contract with Soulo Theory Creative, LLC. for translated health information campaign services; to authorize a total expenditure of $125,000.00 from the Health Department Grants Fund; and to declare an emergency.  ($125,000.00)",
+        "section": "CONSENT",
+        "matter_file": "1293-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3710,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3711,
+        "item_type": "voted",
+        "item_number": "CA-24",
+        "title": "Appointment of James E. Sweeney, Sweeney and Associates, 500 W Walnut St. Columbus, OH 43215 to serve on the East Franklinton Review Board replacing TJ Manfrass with a new term expiration date of 7/31/2026.",
+        "section": "CONSENT",
+        "matter_file": "A0120-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3711,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3712,
+        "item_type": "voted",
+        "item_number": "CA-25",
+        "title": "ReAppointment of Jana Maniace, Jana Maniace AIA, 155 West Main St. Columbus, OH 43215 to serve on the Downtown Commission with a new term expiration date of 6/1/2026 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0121-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3712,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3713,
+        "item_type": "voted",
+        "item_number": "CA-26",
+        "title": "Appointment of Laurie Gunzelman, Gunzelman Architecture and Interiors, 333 Stewart Ave. Columbus, OH 43206 to serve on the University Impact District Review Board replacing Frank Petruziello with a new term expiration date of 1/31/2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0122-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3713,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3714,
+        "item_type": "voted",
+        "item_number": "CA-27",
+        "title": "Appointment of Leyila Cabus, 3664 Grimes Drive, Columbus, OH 43204, to serve on the West Scioto Area Commission replacing Jo Leppert with a new term start date of May 21, 2022 and an expiration date of May 15, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0123-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3714,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3715,
+        "item_type": "voted",
+        "item_number": "CA-28",
+        "title": "Appointment of Keith Dodley, 6162 Chinaberry Dr., Columbus, OH 43213, to serve on the Far East Area Commission with a new term start date of January 1, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0124-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3715,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3716,
+        "item_type": "voted",
+        "item_number": "CA-29",
+        "title": "Appointment of Summer Moynihan, 3073 Sedley Street, Reynoldsburg, OH 43068, to serve on the Far East Area Commission with a new term start date of January 1, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0125-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3716,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3717,
+        "item_type": "voted",
+        "item_number": "CA-30",
+        "title": "Appointment of Susan Johnson, 5683 Oakmont Drive, Columbus, OH 43232, to serve on the Far East Area Commission with a new term start date of January 1, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0126-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3717,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3718,
+        "item_type": "voted",
+        "item_number": "CA-31",
+        "title": "Appointment of Jennifer Chamberlain, 170 W. Home Street, Westerville, OH 43081, to serve on the Far East Area Commission with a new term start date of January 1, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0127-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3718,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3719,
+        "item_type": "voted",
+        "item_number": "CA-32",
+        "title": "Appointment of Alice Porter, 3130 McCutcheon Place, Columbus, OH 43219, to serve on the Northeast Area Commission with a new term start date of January 31, 2019 and an expiration date of December 31, 2022 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0128-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3719,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3720,
+        "item_type": "voted",
+        "item_number": "CA-33",
+        "title": "Appointment of Brad Davis, 2221 Sunbury Road, Columbus, OH 43219, to serve on the Northeast Area Commission with a new term start date of January 31, 2019 and an expiration date of December 31, 2022 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0129-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 3720,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3721,
+        "item_type": "voted",
+        "item_number": "CA-34",
+        "title": "Appointment of Elwood Rayford, 2776 Yorkcliff Road, Columbus, OH 43219, to serve on the Northeast Area Commission with a new term start date of January 31, 2019 and an expiration date of December 31, 2022 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0130-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 3721,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3722,
+        "item_type": "voted",
+        "item_number": "CA-35",
+        "title": "Appointment of Kevin Kenley, 3125 Willow Springs Drive, Columbus, OH 43219, to serve on the Northeast Area Commission with a new term start date of January 31, 2019 and an expiration date of December 31, 2022 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0131-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3722,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3723,
+        "item_type": "voted",
+        "item_number": "CA-36",
+        "title": "Appointment of Stanley Fleming Jr., 3626 Florian Drive, Columbus, OH 43219, to serve on the Northeast Area Commission with a new term start date of April 4, 2019 and an expiration date of December 31, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0132-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3723,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3724,
+        "item_type": "voted",
+        "item_number": "CA-37",
+        "title": "Appointment of Kawther Musa, 2365 Innis Road, Columbus, OH 43224 to serve on the Northeast Area Commission replacing Bettie Peaks, with a new term start date of January 1, 2021 and an expiration date of December 31, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0133-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 3724,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3725,
+        "item_type": "voted",
+        "item_number": "CA-38",
+        "title": "Appointment of Karen Rogers, 3068 E. Hudson Street, Columbus, OH 43219 to serve on the Northeast Area Commission replacing Barbara Wright, with a new term start date of May 6, 2021 and an expiration date of December 31, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0134-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Housing"
+        ],
+        "vote": {
+          "id": 3725,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3726,
+        "item_type": "voted",
+        "item_number": "CA-39",
+        "title": "Appointment of George Holliman, 1072 Kelton Avenue, Columbus, OH 43206 to serve on the Livingston Avenue Area Commission, replacing Jeremy Wachtel, with a new term start date of January 18, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0135-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3726,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3727,
+        "item_type": "voted",
+        "item_number": "CA-40",
+        "title": "Appointment of Bryan EJ Robinson, 991 Bulen Avenue, Columbus, OH 43206 to serve on the Livingston Avenue Area Commission, replacing Jennifer Thomas, with a new term start date of January 18, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0136-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3727,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3728,
+        "item_type": "voted",
+        "item_number": "CA-41",
+        "title": "Appointment of Diana Bunting, 5195 Jameson Drive, Columbus, OH 43232 to serve on the Greater South East Area Commission, with a new term start date of April 24, 2022 and an expiration date of April 25, 2025 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0137-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3728,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3729,
+        "item_type": "voted",
+        "item_number": "CA-42",
+        "title": "Appointment of Doug Hatcher, 2713 Moundcrest Street, Columbus, OH 43232 to serve on the Greater South East Area Commission, replacing Pamela Palmer, with a new term start date of January 26, 2022 and an expiration date of April 25, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0138-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3729,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3730,
+        "item_type": "voted",
+        "item_number": "CA-43",
+        "title": "Appointment of Maria Stewart, 6515 South Bersa Lane, Canal Winchester, OH 43110 to serve on the Greater South East Area Commission, with a new term start date of April 24, 2022 and an expiration date of April 25, 2025 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0139-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3730,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3731,
+        "item_type": "voted",
+        "item_number": "CA-44",
+        "title": "Appointment of Hugh Black Jr., 1275 E. 15th Avenue, Columbus, OH 43211, to serve on the South Linden Area Commission, replacing Lawrence Calloway, with a new term start date of March 1, 2021 and an expiration date of December 31, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0140-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3731,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3732,
+        "item_type": "voted",
+        "item_number": "CA-45",
+        "title": "Appointment of Tonya Wade, 954 E. 18th Avenue, Columbus, OH 43211, to serve on the South Linden Area Commission, replacing Mitchell Ellison, with a new term start date of March 1, 2021 and an expiration date of December 31, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0141-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3732,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3733,
+        "item_type": "voted",
+        "item_number": "CA-46",
+        "title": "Appointment of Vertis Erkins, 1465 East 23rd Avenue, Columbus, OH 43211, to serve on the South Linden Area Commission, with a new term start date of February 1, 2022 and an expiration date of December 31, 2024 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0142-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3733,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3734,
+        "item_type": "voted",
+        "item_number": "CA-47",
+        "title": "Appointment of Mayo Makinde, 2024 Cleveland Avenue, Columbus, OH 43211, to serve on the South Linden Area Commission, with a new term start date of January 1, 2020 and an expiration date of December 31, 2022 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0143-2022",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 3734,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3735,
+        "item_type": "voted",
+        "item_number": "SR-1",
+        "title": "To authorize the City Clerk to enter into a grant agreement with the Maroon Arts Group to sponsor the PitchBlack Columbus event series; and to authorize an appropriation and expenditure within the Jobs Growth subfund; and to declare an emergency. ($45,000.00)",
+        "section": "GENERAL",
+        "matter_file": "1345-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3735,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3736,
+        "item_type": "voted",
+        "item_number": "SR-2",
+        "title": "To appropriate and authorize the transfer of funds between the Hayden Run South TIF Fund and the Hayden Run South TIF Capital Fund; to appropriate funds within the the Hayden Run South TIF Capital Fund;  to authorize the Director of Public Service to enter into a contract modification with Stantec Consulting Services, Inc. in connection with the Arterial Street Rehabilitation - Avery Road Widening project; to authorize the expenditure of up to $1,070,000.00 from the Hayden Run South TIF Capital Fund for the project; and to declare an emergency.  ($1,070,000.00)",
+        "section": "GENERAL",
+        "matter_file": "1211-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Economic Development"
+        ],
+        "vote": {
+          "id": 3736,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3737,
+        "item_type": "voted",
+        "item_number": "SR-3",
+        "title": "To authorize and direct the Director of the Office of Education to enter into renewal contracts for the 2021-2022 fourth payment with high-quality prekindergarten organizations that provide educational services; to authorize the expenditure of up to $1,295,550.50 from the General Fund; and to declare an emergency.  ($1,295,550.50)",
+        "section": "GENERAL",
+        "matter_file": "0481-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3737,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3738,
+        "item_type": "voted",
+        "item_number": "SR-4",
+        "title": "To authorize and direct the Executive Director of the Mayor’s Office of Education to modify a grant agreement with the Workforce Development Board of Central Ohio to increase the college and career readiness of current, past, and future Columbus City Schools Seniors; to authorize the expenditure of up to $2,355,232.00 from the Recovery Fund already encumbered by ordinance 1390-2021; to allow the Workforce Development Board of Central Ohio to spend $1,651,209.00 already allocated to them, but unspent, by ordinance 1390-2021: and to declare an emergency.  ($2,355,232.00)",
+        "section": "GENERAL",
+        "matter_file": "1180-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 3738,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3739,
+        "item_type": "voted",
+        "item_number": "SR-5",
+        "title": "To authorize the Director of Public Utilities to pay the State of Ohio Treasurer, Department of Natural Resources, for operation and maintenance services and water entitlement costs for withdrawing water from the Alum Creek Reservoir for the Division of Water; to authorize the expenditure of $1,328,015.41 from the Water Operating Fund; and to declare an emergency. ($1,328,015.41)",
+        "section": "GENERAL",
+        "matter_file": "1265-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 3739,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3740,
+        "item_type": "voted",
+        "item_number": "SR-6",
+        "title": "To authorize and direct the Board of Health to accept a grant from the National Association of County and City Health Officials for the Health Equity and Overdose mentorship Grant Program in the amount of $25,000.00; to authorize the appropriation of $25,000.00 from the unappropriated balance of the Health Department Grants Fund; to authorize the Director of Finance and Management to establish a purchase order with BTNX for the purchase of drug test strips for the Board of Health; to waive the competitive bidding provisions of City Code; to authorize the expenditure of $19,400.00 from the Health Special Revenue Fund to pay the cost thereof and to declare an emergency.  ($25,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0734-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3740,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3741,
+        "item_type": "voted",
+        "item_number": "SR-7",
+        "title": "To authorize and direct the Board of Health to enter into a grant agreement with Restoring Our Own Through Transformation (ROOTT) to support community-oriented Perinatal Support Doula care; to authorize an expenditure within the Health Operating fund; and to declare an emergency. ($250,000.00)",
+        "section": "GENERAL",
+        "matter_file": "0780-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3741,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3742,
+        "item_type": "voted",
+        "item_number": "SR-8",
+        "title": "To authorize and direct the Director of Public Safety to renew the contract for helicopter maintenance with Helicopter Minit-Men, Inc. for the Division of Police; to authorize the expenditure of $898,666.50 from the General Fund; and to declare an emergency. ($898,666.50)",
+        "section": "GENERAL",
+        "matter_file": "0853-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 3742,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      },
+      {
+        "agenda_sequence": 3743,
+        "item_type": "voted",
+        "item_number": "SR-9",
+        "title": "To amend various sections in Chapters 4101, 4107, and 4114 of Title 41 of the Columbus City Codes, entitled “Building Code,” in order to provide for the creation and administration of Special Inspectors as provided for under Chapter 17 of the Ohio Building Code.",
+        "section": "GENERAL",
+        "matter_file": "1207-2022",
+        "matter_type": "Ordinance",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 3743,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 1
+        }
+      }
+    ]
+  }
+}

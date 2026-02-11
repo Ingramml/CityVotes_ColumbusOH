@@ -1,0 +1,1650 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 25,
+    "event_id": "5821",
+    "meeting_date": "2021-09-27",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=5821&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2021/9/5821_A_Columbus_City_Council_21-09-27_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2021/9/5821_M_Columbus_City_Council_21-09-27_Minutes_-_Final.pdf",
+    "video_url": null,
+    "vote_count": 46,
+    "non_voted_count": 45,
+    "first_reading_count": 6,
+    "agenda_item_count": 91,
+    "agenda_items": [
+      {
+        "agenda_sequence": 0,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "A MOTION WAS MADE BY COUNCILMEMBER FAVOR, SECONDED BY COUNCILMEMBER TYSON TO WAIVE THE READING OF THE TITLES OF FIRST READING LEGISLATION. THE MOTION CARRIED BY THE FOLLOWING VOTE: AFFIRMATIVE: 7 NEGATIVE: 0",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 2,
+        "item_type": "voted",
+        "item_number": "2",
+        "title": "To Recognize A Tribe for Jazz for its Work Promoting Jazz Music and Musicians in Columbus",
+        "section": "GENERAL",
+        "matter_file": "0166X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1867,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "READING AND DISPOSAL OF THE JOURNAL",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 1866,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "To honor and celebrate Mrs. Cheryl L Graffagnino for her years of distinguished service as the Coordinator for Local Food System Strategies in the Center for Public Health Innovation  at Columbus Public Health and to applaud her for improving the quality of life for the residents of the City of Columbus and Central Ohio.",
+        "section": "GENERAL",
+        "matter_file": "0167X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Health & Safety",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1868,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "voted",
+        "item_number": "4",
+        "title": "To celebrate National Hispanic Heritage Month and recognize the contributions of the Ohio Hispanic Coalition",
+        "section": "GENERAL",
+        "matter_file": "0165X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1869,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "non_voted",
+        "category": "clerk_communications",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "COMMUNICATIONS AND REPORTS RECEIVED BY CITY CLERK'S OFFICE",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 5,
+        "item_type": "non_voted",
+        "category": "read_and_filed",
+        "importance": "high",
+        "display_type": "communication",
+        "title": "THE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF WEDNESDAY, SEPTEMBER 22, 2021:\r\n\r\nNew Type: D3 D3A D6\r\nTo: Collective Columbus LLC\r\nUnit 6\r\n710 Grandview Crossing Way\r\nColumbus OH 43215\r\nPermit# 16414960025\r\n\r\nNew Type: D5\r\nTo: Music Progress LLC\r\n2210 Summit St & Patio\r\nColumbus OH 43201\r\nPermit# 6201512\r\n\r\nNew Type: D5\r\nTo: 195 Thurman LLC\r\n195 Thurman Ave\r\nColumbus OH 43206\r\nPermit# 6564336\r\n\r\nStock Type: D5 D6\r\nTo: Four Mad Dogs LLC\r\nDBA Palle\r\n1021 W 5th Av\r\nColumbus OH 43212\r\nPermit# 2850788\r\n\r\nNew Type: D5\r\nTo: Instant Karma LLC\r\nDBA Koko Tea Salon & Bakery\r\n361 E Broad St & Mezz\r\nColumbus OH 43215\r\nPermit# 41468170005\r\n\r\nNew Type: D3\r\nTo: Collective Columbus LLC\r\nUnit 5\r\n710 Grandview Crossing Way\r\nColumbus OH 43215\r\nPermit# 16414960020\r\n\r\nNew Type: D1\r\nTo: 710 Grandview Crossing\r\nHoldings 4 LLC\r\n710 Grandview Crossing Way Unit 4\r\nColumbus OH 43215\r\nPermit# 8007866\r\n\r\nNew Type: D1\r\nTo: Columbus Improv Theatre LLC\r\nDBA The Nest Theatre\r\n2643 N High St\r\nColumbus OH 43202\r\nPermit# 16534310010\r\n\r\nStock Type: C1 C2 D6 D8\r\nTo: Cost Plus Inc\r\nDBA World Market\r\n5720 Britton Pkwy\r\nColumbus OH 43016\r\nPermit# 17603970020\r\n\r\nStock Type: C1 C2 D6 D8\r\nTo: Cost Plus Inc\r\nDBA World Market\r\n1331 Polaris Pkwy\r\nColumbus OH 43240\r\nPermit# 17603970030\r\n\r\nNew Type: D3 D3A\r\nTo: Collective Columbus LLC\r\n& 1st Fl & Patio\r\n240 E 5th Ave\r\nColumbus OH 43201\r\nPermit# 16414960015\r\n\r\nStock Type: C1 C2 D6\r\nTo: Rama Food & Deli Inc\r\nDBA Rama Foodmart & Deli\r\n334 N 20th St\r\nColumbus OH 43203\r\nPermit# 7185575\r\n\r\nTransfer Type: D5A D6\r\nTo: Channel Point Hospitality LLC\r\nDBA Staybridge Suites Columbus Dublin\r\n6095 Emerald Pkwy & Courtyard\r\nColumbus OH 43016\r\nFrom: Dre Non Core LLC\r\nDBA Staybridge Suites\r\n6095 Emerald Pkwy & Courtyard\r\nColumbus OH 43016\r\nPermit# 1414055\r\n\r\nTransfer Type: D1 D2 D3 D3A D6\r\nTo: Fairweathers Cafe LLC\r\nDBA Fairweathers Cafe\r\n3747 Trabue Rd\r\nColumbus OH 43228\r\nFrom: 16WM Inc\r\nDBA Main Bar\r\n1st Fl & Bsmt & Patio\r\n16 W Main St\r\nColumbus OH 43215\r\nPermit# 2599910\r\n\r\nStock Type: D1 D3 D3A D3X D6\r\nTo: Li Rumba Cafe Inc\r\n2507 Summit St 1st Fl & Patio\r\nColumbus OH 43202\r\nPermit# 5181126\r\n\r\nNew Type: D4\r\nTo: Grey Garden Club LLC\r\nDBA The Grey Garden Cafe\r\n797 St Clair Ave\r\nColumbus OH 43201\r\nPermit# 3341413\r\n\r\nNew Type: D1\r\nTo: 710 Grandview Crossing Holdings 1 LLC\r\n710 Grandview Crossing Way Unit 1\r\nColumbus OH 43215\r\nPermit# 8007840\r\n\r\nStock Type: C1 C2 D6 D8\r\nTo: Cost Plus Inc\r\nDBA World Market\r\n3770 Easton Market\r\nColumbus OH 43219\r\nPermit# 17603970060\r\n\r\nNew Type: C1 C2\r\nTo: Ohio Springs Inc\r\nDBA Sheetz\r\n1380 Bethel Rd\r\nColumbus OH 43220\r\nPermit# 65215090370\r\n\r\nNew Type: D5A\r\nTo: Channel Point Hospitality LLC\r\nDBA Staybridge Suites Columbus Dublin\r\n6095 Emerald Pkwy\r\nColumbus OH 43016\r\nPermit# 14140550005\r\n\r\nNew Type: D3\r\nTo: Kimberley Powers\r\nDBA Kimberleys Lounge\r\n2142 Sullivant Ave\r\nColumbus OH 43204\r\nPermit# 7052142\r\n\r\nNew Type: D3\r\nTo: Jeffrey Goltiao Inc\r\nDBA Dance Edge\r\n1400 Dublin Rd\r\nColumbus OH 43215\r\nPermit# 42823270005\r\n\r\nTREX Type: D1 D2\r\nTo: Octapodi LLC\r\n1045 Bethel Rd\r\nColumbus OH 43220\r\nFrom: Monarch Pizza LLC\r\nDBA Dawsons Pizzeria\r\n900 Columbus Ave\r\nMarysville OH 43040\r\nPermit# 6603052\r\n\r\nTREX Type: D5 D6\r\nTo: Zacatecas Grill LLC\r\n1175 Worthington Woods\r\nColumbus OH 43085\r\nFrom: Lorri L McGraw & Joseph A Hardesty\r\nDBA Uncorked\r\n365 Whitewoman St 1st Fl Bsmt & Patios\r\nCoshocton OH 43812\r\nPermit# 9873737\r\n\r\nStock Type: C1 C2\r\nTo: A&R Drive Thru LLC\r\nDBA A&R Drive Thru\r\n1550 Lockbourne Rd\r\nColumbus OH 43207\r\nPermit# 0006352\r\n\r\nTREX Type: D5 D6\r\nTo: Pelino Enterprises LLC\r\n245 King Ave\r\nColumbus OH 43201\r\nFrom: Ruby Tuesday Inc\r\nDBA Ruby Tuesday\r\n4525 Boardman Canfield Rd\r\nCanfield Twp\r\nCanfield OH 44406\r\nPermit# 20297280005\r\n\r\nNew Type: D3\r\nTo: Goremade Pizza Italian Village LLC\r\n936 N Fourth St\r\nColumbus OH 43201\r\nPermit# 32929930010\r\n\r\nStock Type: D2 D2X D3 D3A D6\r\nTo: VBC Entertainment LLC\r\nDBA Southbend Tavern\r\n& Patio & Partial Bsmt\r\n126 E Moler St\r\nColumbus OH 43207\r\nPermit# 9179298\r\n\r\nAdvertise Date: 10/2/21\r\nAgenda Date: 9/27/21\r\nReturn Date: 10/4/21",
+        "matter_file": "C0017-2021",
+        "matter_type": "Communication",
+        "action": "Read and Filed",
+        "description": "Title\n \nTHE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF WEDNESDAY, SEPTEMBER 22, 2021:\n \nNew Type: D3 D3A D6\nTo: Collective Columbus LLC\nUnit 6\n710 Grandview Crossing Way\nColumbus OH 43215\nPermit# 16414960025\n \nNew Type: D5\nTo: Music Progress LLC\n2210 Summit St & Patio...",
+        "topics": [
+          "Planning & Development",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 6,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 7,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "E. BROWN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 9,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "TYSON",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 11,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 13,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE AGENDA",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 14,
+        "item_type": "non_voted",
+        "category": "first_reading_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FIRST READING OF 30-DAY LEGISLATION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 15,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE:  E. BROWN CHR.  TYSON M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 16,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Finance and Management Director to enter into a Universal Term Contract to purchase ADS Flow Monitoring Parts & Service with ADS, LLC; and to authorize the expenditure of $1.00 from General Budget Reservation BRPO001670. ($1.00).",
+        "matter_file": "2374-2021",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:  This legislation authorizes the Finance and Management Director to establish a Universal Term Contract (UTC) for the option to purchase ADS Flow Monitoring Parts & Service with ADS, LLC. The Division of Sewerage & Drainage is the primary user of these items. This equipm...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 17,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY:  M. BROWN, CHR. TYSON REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 18,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To amend the 2020 Capital Improvement Budget; to authorize the City Auditor to transfer funds between projects within the Department of Public Safety’s Bond Funds;  to authorize the Director of the Department of Public Safety, on behalf of the Division of Support Services, to enter into contract with Sound Communications Inc. for the upgrade of the Audio Digital Communications Recording System for Police and Fire communications, to waive the competitive bidding provisions of the Columbus City Code; to authorize the expenditure of $318,104.86 from Public Safety's Capital Improvement Fund.  ($318,104.86)",
+        "matter_file": "2354-2021",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nBACKGROUND:                                     \nThis legislation authorizes the Director of the Department of Public Safety, on behalf of the Division of Support Services, to enter into a contract with Sound Communications, Inc. to upgrade the Audio Digital Communications Recording S...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 19,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES: DORANS, CHR.  E. BROWN M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 20,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Public Utilities to modify and increase the 2020 - 2022 Construction Administration/ Inspection Services Agreement with EMH&T, Inc. for the Division of Sewerage and Drainage’s Rickenbacker Intermodal Sanitary Sewer Extension Project and for the Division of Power’s 2020-2022 General CA/CI Project; to authorize a transfer and expenditure of up to $446,062.67 from the Sanitary General Obligation Fund 6109; to authorize a transfer and expenditure of up to $200,000.00 from the Electricity General Obligation Fund 6303; and to authorize an amendment the 2020 Capital Improvements Budget. ($646,062.67)",
+        "matter_file": "2249-2021",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \n1.0 BACKGROUND:  This legislation authorizes the Director of Public Utilities to execute a planned modification to the 2020 - 2022 Construction Administration/Construction Inspection (CA/CI) Services agreement with Evans, Mechwart, Hambleton, and Tilton Inc. (“EMH&T”) for the Divisi...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Health & Safety"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 21,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Public Utilities to  modify and increase the 2020-2022 Construction Administration and Inspection Services Agreement with Stantec Consulting Services for the Division of Water’s share in ODOT's FRA-71-14.36 ODOT 6R Project; and to authorize an expenditure up to $97,005.72 within the Water General Obligations Bond Fund.  ($97,005.72)",
+        "matter_file": "2367-2021",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \n1.0 BACKGROUND:  This legislation authorizes the Director of Public Utilities to execute a planned modification to the 2020 - 2022 Construction Administration and Construction Inspection (CA/CI) Services agreement with Stantec Consulting Services, Inc.\n \nFunding for this modificatio...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 22,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ECONOMIC DEVELOPMENT:  REMY, CHR.  FAVOR DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 23,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To accept the application (AN21-008) of KIPP Columbus Foundation for the annexation of certain territory containing 24.45 ± acres in Mifflin Township.",
+        "matter_file": "2402-2021",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nAN21-008\nBACKGROUND:\nThis ordinance approves the acceptance of certain territory (AN21-008) by the city of Columbus. The Ohio Revised Code stipulates that to be effective, City acceptance must take place a minimum of 60 days from the receipt by the City Clerk of the approval notice fr...",
+        "topics": [
+          "General"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 24,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To accept the application (AN21-011) of Yellow Dog Investments LLC for the annexation of certain territory containing 0.91± acres in Clinton Township.",
+        "matter_file": "2403-2021",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nAN21-011\nBACKGROUND:\nThis ordinance approves the acceptance of certain territory (AN21-011) by the city of Columbus. The Ohio Revised Code stipulates that to be effective, City acceptance must take place a minimum of 60 days from the receipt by the City Clerk of the approval notice fr...",
+        "topics": [
+          "General"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 25,
+        "item_type": "non_voted",
+        "category": "consent_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "CONSENT ACTIONS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 26,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION:",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 27,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "M. BROWN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 29,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "REMY",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 31,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "TYSON",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 33,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 35,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE:  E. BROWN, CHR.  TYSON M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 40,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EDUCATION: E. BROWN, CHR.  M. BROWN FAVOR HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 42,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RECREATION & PARKS: E. BROWN, CHR. DORANS M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 44,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES: DORANS, CHR.  E. BROWN M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 48,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS: DORANS, CHR. E. BROWN M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 50,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION:  FAVOR, CHR.  M. BROWN E. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 56,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HOUSING:  FAVOR, CHR.  REMY DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 58,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ECONOMIC DEVELOPMENT:  REMY, CHR.  FAVOR DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 60,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH & HUMAN SERVICES:  TYSON, CHR. REMY E. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 66,
+        "item_type": "non_voted",
+        "category": "appointments_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "APPOINTMENTS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 69,
+        "item_type": "non_voted",
+        "category": "emergency_section",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EMERGENCY, TABLED AND 2ND READING OF 30-DAY LEGISLATION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 70,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE:  E. BROWN, CHR.  TYSON M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 72,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY:  M. BROWN, CHR. TYSON REMY HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 74,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES: DORANS, CHR.  E. BROWN M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 76,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION:  FAVOR, CHR.  M. BROWN E. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 79,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HOUSING:  FAVOR, CHR.  REMY DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 82,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "CRIMINAL JUSTICE & JUDICIARY:  FAVOR, CHR.  TYSON DORANS HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 84,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH & HUMAN SERVICES:  TYSON, CHR. REMY E. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 86,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RULES & REFERENCE:  HARDIN, CHR.  E. BROWN FAVOR DORANS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 87,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "M. BROWN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 89,
+        "item_type": "voted",
+        "item_number": "89",
+        "title": "ADJOURNMENT",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 1908,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1863,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "Approval of the Consent Agenda",
+        "section": "CONSENT",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 1863,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1864,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To amend Chapter 2307 of Columbus City Codes with new provisions regarding human trafficking and sexual exploitation.",
+        "section": "GENERAL",
+        "matter_file": "1663-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Transportation"
+        ],
+        "vote": {
+          "id": 1864,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 2,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1865,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To amend Chapter 2307 of Columbus City Codes with new provisions regarding human trafficking and sexual exploitation.",
+        "section": "GENERAL",
+        "matter_file": "1663-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Transportation"
+        ],
+        "vote": {
+          "id": 1865,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 2,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1870,
+        "item_type": "voted",
+        "item_number": "CA-1",
+        "title": "To Recognize and Honor the life of Frank D. Duff, and expresses our sincere condolences to his family and loved ones",
+        "section": "CONSENT",
+        "matter_file": "0169X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1870,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1871,
+        "item_type": "voted",
+        "item_number": "CA-2",
+        "title": "To honor, recognize, and celebrate the 47th General Assembly of the Union of Liberian Association in the Americas (ULAA)",
+        "section": "CONSENT",
+        "matter_file": "0160X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1871,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1872,
+        "item_type": "voted",
+        "item_number": "CA-3",
+        "title": "To celebrate the life, legacy and service of Mr. Romie Watkins Jr. and to extend our deepest condolences to his family on the occasion of his passing, Tuesday August 21, 2021.",
+        "section": "CONSENT",
+        "matter_file": "0168X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1872,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1873,
+        "item_type": "voted",
+        "item_number": "CA-4",
+        "title": "To Honor and Celebrate the 75th Anniversary of Christ Memorial Missionary Baptist Church.",
+        "section": "CONSENT",
+        "matter_file": "0164X-2021",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 1873,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1874,
+        "item_type": "voted",
+        "item_number": "CA-5",
+        "title": "To authorize the Finance and Management Director, on behalf of the Fleet Management Division, to establish a purchase order with Esec Corporation, for one (1) non CDL roll back wrecker; to amend the 2020 Capital Improvement Budget; and to authorize the transfer within and the expenditure of $129,535.00 from the Fleet Management Capital Fund. ($129,535.00)",
+        "section": "CONSENT",
+        "matter_file": "2244-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 1874,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1875,
+        "item_type": "voted",
+        "item_number": "CA-6",
+        "title": "To amend the 2020 Capital Improvement Budget; to authorize the Director of Finance and Management to enter into a contract on behalf of the Office of Construction Management with The Righter Company, Inc. for services related to elevator modernization at Fire Station 1&9 located at 300 North 4th Street; to authorize the transfer of $60,300.00 between projects within the Public Safety Voted Bond Fund; and to authorize the expenditure of $280,300.00 from the Public Safety Voted Bond Fund. ($280,300.00 )",
+        "section": "CONSENT",
+        "matter_file": "2262-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1875,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1876,
+        "item_type": "voted",
+        "item_number": "CA-7",
+        "title": "To authorize the Director of Finance and Management to enter into a contract on behalf of the Office of Construction Management with The Righter Company, Inc. for elevator modernization a the Fire Training Academy; and to authorize the expenditure of $282,276.00 from the Public Safety Voted Bond Fund. ($282,276.00 )",
+        "section": "CONSENT",
+        "matter_file": "2282-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1876,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1877,
+        "item_type": "voted",
+        "item_number": "CA-8",
+        "title": "To authorize the Finance and Management Director to renew and modify a contract with Byers, Minton & Associates, LLC, for a consulting services contract related to state government relations; and to authorize the expenditure of $60,000.00 from the general fund. ($60,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2345-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 1877,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1878,
+        "item_type": "voted",
+        "item_number": "CA-9",
+        "title": "To authorize and direct the City Auditor to appropriate $25,000.00 within the Neighborhood Initiatives subfund to City Council in support of Columbus Youth Council; and to declare an emergency. ($25,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2408-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1878,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1879,
+        "item_type": "voted",
+        "item_number": "CA-10",
+        "title": "To authorize the Director of Recreation and Parks to grant a temporary construction easement to the Franklin County Engineers for the reconstruction of the Agler Road Bridge over Alum Creek; and to declare an emergency. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "2317-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Grants",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 1879,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1880,
+        "item_type": "voted",
+        "item_number": "CA-11",
+        "title": "To authorize the Director of Public Utilities to modify and increase an engineering agreement with Resource International, for professional engineering services for the Twin Lakes Upper Dam and Greenlawn Low Head Dam Improvements project for the Division of Sewerage & Drainage/Stormwater Section; to authorize a transfer within up to $486,311.12, and an expenditure in an amount up to $501,311.12 within the Storm Sewer Bond Fund, and to authorize an amendment to the 2020 Capital Improvement Budget.  ($501,311.12)",
+        "section": "CONSENT",
+        "matter_file": "2181-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 1880,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1881,
+        "item_type": "voted",
+        "item_number": "CA-12",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Vargo Companies for the purchase and installation of high bay shelving at the Dublin Road Water Plant for the Division of Water; to authorize a transfer and expenditure up to $35,625.00 within the Water General Obligations Bond Fund; and to authorize an amendment to the 2020 Capital Improvements Budget.  ($35,625.00)",
+        "section": "CONSENT",
+        "matter_file": "2231-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 1881,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1882,
+        "item_type": "voted",
+        "item_number": "CA-13",
+        "title": "To authorize the Director of Finance and Management to associate all General Budget Reservations resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreement, with Itron, Inc., for electronic transmitters, for the Division of Water; to authorize a transfer and expenditure up to $500,000.00 within the Water General Obligations Bonds Fund; and to authorize an amendment to the 2020 Capital Improvements Budget.  ($500,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2283-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 1882,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1883,
+        "item_type": "voted",
+        "item_number": "CA-14",
+        "title": "To authorize and direct the Director of the Department of Neighborhoods to accept a grant from, and enter into a grant agreement with, the Columbus Foundation in the amount of $20,000.00 to help coordinate efforts for the My Brother’s Keeper (MBK) program; to authorize the appropriation of $20,000.00 within the Private Grants Fund; and to declare an emergency. ($20,000.00).",
+        "section": "CONSENT",
+        "matter_file": "2393-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1883,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1884,
+        "item_type": "voted",
+        "item_number": "CA-15",
+        "title": "To declare the official intent and reasonable expectation of the City of Columbus on behalf of the State of Ohio to reimburse its State Issue II Street Projects Fund for the Bridge Rehabilitation - Harrison Road over Dry Run East of Hague Avenue project with the proceeds of tax exempt debt of the State of Ohio; and to declare an emergency. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "0141X-2021",
+        "matter_type": "Resolution",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 1884,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1885,
+        "item_type": "voted",
+        "item_number": "CA-16",
+        "title": "To authorize the Director of Public Service to grant consent and propose cooperation with the Director of the Ohio Department of Transportation relative to replacing the deck of the Sullivant Avenue over Interstate 270 bridge; and to declare an emergency.  ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "2148-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Grants",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 1885,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1886,
+        "item_type": "voted",
+        "item_number": "CA-17",
+        "title": "To amend the 2020 Capital Improvement Budget; to authorize the Director of Public Service to enter into a contract modification with Fishbeck, Thompson, Carr & Huber in connection with the Bridge Rehabilitation - General Engineering (2020) project; to authorize the expenditure of up to $75,000.00 from the Streets and Highways Bond Fund for the project; and to declare an emergency.  ($75,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2327-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1886,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1887,
+        "item_type": "voted",
+        "item_number": "CA-18",
+        "title": "To amend the 2020 Capital Improvement Budget; to authorize the Director of Public Service to enter into a contract modification with Toole Design Group in connection with the Operation Sidewalks - School Sidewalks - Eastland project; to authorize the expenditure of up to $90,000.00 from the Streets and Highways Bond Fund for the project; and to declare an emergency.  ($90,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2329-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1887,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1888,
+        "item_type": "voted",
+        "item_number": "CA-19",
+        "title": "To authorize the Director of Public Service to enter into contract with the Franklin County Engineer’s Office for the provision of snow and ice removal services during the 2021-2022 winter season; to authorize the expenditure of up to $700,000.00 from the Street Construction Maintenance and Repair Fund for those services; and to declare an emergency.  ($700,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2392-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1888,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1889,
+        "item_type": "voted",
+        "item_number": "CA-20",
+        "title": "To amend the 2020 Capital Improvement Budget; to authorize the City Auditor to transfer funds within the Affordable Housing Bond Fund; to authorize the Director of Development to enter into a grant agreement with Ohio Erie Capital CDFI Fund, LLC in an amount up to $253,875.00 in support of the Lockbourne Greene affordable housing development; to authorize the expenditure of up to $253,875.00 from the Affordable Housing Bond Fund; and to declare an emergency. ($253,875.00)",
+        "section": "CONSENT",
+        "matter_file": "2450-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1889,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1890,
+        "item_type": "voted",
+        "item_number": "CA-21",
+        "title": "To set forth a statement of municipal services and zoning conditions to be provided to the area contained in a proposed annexation (AN21-016) of 3.80± Acres in Mifflin Township to the city of Columbus as required by the Ohio Revised Code and to declare an emergency.",
+        "section": "PUBLIC_HEARING",
+        "matter_file": "2401-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Planning & Development"
+        ],
+        "vote": {
+          "id": 1890,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1891,
+        "item_type": "voted",
+        "item_number": "CA-22",
+        "title": "To authorize and direct the Board of Health to accept a grant from the Ohio Department of Public Safety in the amount of $125,000.00 for the Safe Communities program, which provides expanded traffic safety services through the dissemination of safety awareness and education forums throughout Columbus and Franklin County; to authorize the appropriation of $125,000.00 from the unappropriated balance of the Health Department Grants Fund; and to declare an emergency.  ($125,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2344-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 1891,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1892,
+        "item_type": "voted",
+        "item_number": "CA-23",
+        "title": "To authorize the Board of Health to modify an existing contract with Nationwide Children's Hospital for the staffing and operation of five WIC clinics for the period of October 1, 2020 through September 30, 2021; to authorize the expenditure of $35,000.00 from the Health Department Grants Fund; and to declare an emergency. ($35,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2350-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1892,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1893,
+        "item_type": "voted",
+        "item_number": "CA-24",
+        "title": "To authorize and direct the Board of Health to accept a grant from the Ohio Department of Health in the amount of $66,000.00 for the Maternal and Child Health grant program; to authorize the appropriation of $66,000.00 from the unappropriated balance of the Health Department Grants Fund; to authorize the Board of Health to enter into a contract with Mental Health America of Ohio for the provision of Maternal and Child Health program grant services; to authorize the expenditure of $66,000.00 from the Health Department Grants Fund; and to declare an emergency. ($66,000.00).",
+        "section": "CONSENT",
+        "matter_file": "2376-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1893,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1894,
+        "item_type": "voted",
+        "item_number": "CA-25",
+        "title": "To authorize and direct the Board of Health to accept a grant from the Regents of The University of Michigan for the 2021-2022 University of Michigan Region V Public Health Training Center grant program in the amount of $25,000.00; to authorize the appropriation of $25,000.00 to the Health Department in the Health Department Grants Fund; and to declare an emergency.  ($25,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2387-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 1894,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1895,
+        "item_type": "voted",
+        "item_number": "CA-26",
+        "title": "To authorize the Board of Health to enter into contract with The Ohio State University for the provision of technical assistance services for the period September 30, 2021 through September 29, 2022; to authorize the expenditure of $60,000.00 from the Health Department Grants Fund to pay the costs thereof; and to declare an emergency.  ($60,000.00)",
+        "section": "CONSENT",
+        "matter_file": "2391-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1895,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1896,
+        "item_type": "voted",
+        "item_number": "CA-27",
+        "title": "Reappointment of Mary H. Gray, 318 East Torrence Road, Columbus, Ohio 43214, to serve on the Columbus Art Commission with a new term expiration date of July 31, 2026 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0168-2021",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 1896,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1897,
+        "item_type": "voted",
+        "item_number": "CA-28",
+        "title": "Appointment of DiMaris Medina-Cortes, 3681 Florian Drive, Columbus, Ohio 43219, to serve on the Civilian Police Review Board, replacing Randall Sistrunk, with a term expiration date of April 30, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": "A0176-2021",
+        "matter_type": "Appointment",
+        "topics": [
+          "Appointments",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1897,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1898,
+        "item_type": "voted",
+        "item_number": "SR-1",
+        "title": "To authorize the Finance and Management Director to establish various purchase orders for fuel and fueling services on behalf of the Fleet Management Division, per the terms and conditions of various previously established Universal Term Contracts; to authorize the expenditure of $1,400,000.00 from the Fleet Management Operating Fund; and to declare an emergency. ($1,400,000.00)",
+        "section": "GENERAL",
+        "matter_file": "2355-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1898,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1899,
+        "item_type": "voted",
+        "item_number": "SR-2",
+        "title": "To authorize an appropriation of $4,842,064.92  from the unappropriated balance of the Law Enforcement Contraband Seizure Fund to the Division of Police to fund travel and training needs and to purchase equipment, supplies, and services. ($4,842,064.92 )",
+        "section": "GENERAL",
+        "matter_file": "2339-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1899,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1900,
+        "item_type": "voted",
+        "item_number": "SR-3",
+        "title": "To authorize the Director of Public Utilities to enter into a planned renewal of the Specialty Maintenance Crafts Services contract with Righter Company, Inc., for the Department of Public Utilities, and to authorize the expenditure of $950,000.00 from the Sewerage System Operating Fund and $200,000.00 from the Electricity Operating Fund.  ($1,150,000.00)",
+        "section": "GENERAL",
+        "matter_file": "2348-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 1900,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1901,
+        "item_type": "voted",
+        "item_number": "SR-4",
+        "title": "To authorize the Director of Public Service to enter into a services contract with King Business Interiors Inc. for the reconfiguration and installation of additional office cubicles, desks and chairs; to waive the formal bidding requirements of Columbus City Code; to authorize the expenditure of up to $97,106.46 from the Street Construction and Maintenance Fund to pay for this contract; and to declare an emergency. ($97,106.46)",
+        "section": "GENERAL",
+        "matter_file": "2326-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1901,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1902,
+        "item_type": "voted",
+        "item_number": "SR-5",
+        "title": "To amend the 2020 Capital Improvements Budget; to authorize the transfer of funds and appropriation between projects within the Streets and Highways Bond Fund; to authorize the Director of Public Service to enter into a contract modification with Shelly & Sands, Inc. in connection with the Resurfacing - 2021 Project 0 project; to authorize the expenditure of up to $3,067,070.10 from the Streets and Highways Bond Fund; and to declare an emergency.  ($3,067,070.10)",
+        "section": "GENERAL",
+        "matter_file": "2333-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1902,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1903,
+        "item_type": "voted",
+        "item_number": "SR-6",
+        "title": "To authorize the Director of Development to enter into a grant agreement with the IMPACT Community Action Agency (IMPACT) in an amount up to $1,000,000.00 to provide rental and utility assistance (as defined by U. S. Treasury) to qualifying residents of the local community and authorize payment of expenses starting January 1, 2021; to authorize the Director of Development to modify the terms and conditions of the grant agreement as needed without seeking further City Council approval in order to align with the most current version of the federal laws, regulations, and guidance; to authorize the expenditure of up to $1,000,000.00 from the Emergency Rental Assistance Funds; and to declare an emergency ($1,000,000.00)",
+        "section": "GENERAL",
+        "matter_file": "2301-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1903,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1904,
+        "item_type": "voted",
+        "item_number": "SR-7",
+        "title": "To amend the 2020 Capital Improvement Budget; to authorize the City Auditor to transfer funds within the Affordable Housing Bond Fund; to authorize the Director of Development to enter into a grant agreement with HNHF Realty Collaborative in an amount up to $1,500,000.00 in support of the Lockbourne Greene affordable housing development; to authorize the expenditure of up to $1,094,858.00 from the Affordable Housing Bond Fund; and to declare an emergency. ($1,094,858.00)",
+        "section": "GENERAL",
+        "matter_file": "2451-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 1904,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1905,
+        "item_type": "voted",
+        "item_number": "SR-8",
+        "title": "To approve the settlement in the case of the Cities of Cincinnati and Columbus v. First Energy, et al., Case No. 20-cv-7005 and to accept a deposit of $35,750.00 to be deposited into the General Fund.",
+        "section": "GENERAL",
+        "matter_file": "2299-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance"
+        ],
+        "vote": {
+          "id": 1905,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1906,
+        "item_type": "voted",
+        "item_number": "SR-9",
+        "title": "To authorize and direct the appropriation of $25,000.00 within the Neighborhood Initiatives Fund; to authorize the expenditure of $20,000.00 from the Health Special Revenue Fund and $25,000.00 from the Neighborhood Initiatives Fund to pay The Columbus Foundation, Foundation for Columbus Public Health, for the management of the 2022 Community Gardening Projects; and to declare an emergency.  ($45,000.00)",
+        "section": "GENERAL",
+        "matter_file": "2389-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 1906,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 1907,
+        "item_type": "voted",
+        "item_number": "SR-10",
+        "title": "To amend Chapter 2307 of Columbus City Codes with new provisions regarding human trafficking and sexual exploitation.",
+        "section": "GENERAL",
+        "matter_file": "1663-2021",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Transportation"
+        ],
+        "vote": {
+          "id": 1907,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 2,
+          "abstain": 0,
+          "absent": 0
+        }
+      }
+    ]
+  }
+}

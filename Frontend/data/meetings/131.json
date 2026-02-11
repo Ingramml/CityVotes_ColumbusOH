@@ -1,0 +1,1103 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 131,
+    "event_id": "6055",
+    "meeting_date": "2025-01-06",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6055&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2025/1/6055_A_Columbus_City_Council_25-01-06_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2025/1/6055_M_Columbus_City_Council_25-01-06_Minutes_-_Final.pdf",
+    "video_url": null,
+    "vote_count": 25,
+    "non_voted_count": 36,
+    "first_reading_count": 12,
+    "agenda_item_count": 61,
+    "agenda_items": [
+      {
+        "agenda_sequence": 0,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "President Hardin stated \" In light of the resignation of former Council Member Shayla Favor, effective today, I will chair the Housing, Homelessness and Building Committee for the remainder of the year. Former Council Member Favor also served as Vice-Chair of the Public Safety & Criminal Justice Committee and the Health, Human Services and Equity Committee. Assignments for those two committees are still to be determined and will be read into the record at a later date.\"",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "READING AND DISPOSAL OF THE JOURNAL",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 11239,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE JOURNAL",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 5,
+        "item_type": "non_voted",
+        "category": "clerk_communications",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "COMMUNICATIONS AND REPORTS RECEIVED BY CITY CLERK'S OFFICE",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 6,
+        "item_type": "non_voted",
+        "category": "read_and_filed",
+        "importance": "high",
+        "display_type": "communication",
+        "title": "THE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF THURSDAY JANUARY 2, 2025 \r\n\r\nTREX Type: D1 D2\r\nTo: Kiza Restaurant and Bar LLC\r\n155 N 5th St\r\nColumbus, OH 43215\r\nFrom: SLZ Inc\r\n4794 Dressler Rd NW\r\nCanton, OH 44718\r\nPermit #: 76417400005\r\n\r\nNew Type: C1\r\nTo: Todo Multiservicios LLC\r\nDBA Todo Multiservicios\r\n2400 Home Acre Dr\r\nColumbus, OH 43231\r\nPermit #: 8951495\r\n\r\nNew Type: D1\r\nTo: Good Land Sustainability\r\nConsultants LLC\r\n514-18 W Walnut St\r\nColumbus, OH 43215\r\nPermit #: 3254668\r\n\r\nNew Type: D2\r\nTo: Friendship Village Of \r\nDublin Ohio Inc\r\n6000 Riverside Dr\r\nColumbus, OH 43017\r\nPermit #: 29339950005\r\n\r\nNew Type: D3\r\nTo: Friendship Village Of \r\nDublin Ohio Inc\r\n6000 Riverside Dr\r\nColumbus, OH 43017\r\nPermit #: 29339950005\r\n\r\nTransfer Type: D1 D2 D3 D3A D6\r\nTo: Towr Holding LLC\r\nDBA Village Idiot\r\n1439 N High St\r\nColumbus, OH 43201\r\nFrom: Gusses Enterprises LLC\r\n1st Fl Bsmt & Patio\r\n1439 N High St\r\nColumbus, OH 43201\r\nPermit #: 9043687\r\n\r\nTransfer Type: D1 D2 D3\r\nTo: Tipsy Life LLC\r\n1020 E Long St\r\nColumbus, OH 43203\r\nFrom: Bistrolino LLC\r\n1st Fl & Patio\r\n491 & 495 S Fourth St\r\nColumbus, OH 43206\r\nPermit #: 8962131\r\n\r\nNew Type: D3 D3A\r\nTo: K Dawgs Tavern LLC\r\n2490 Sullivant Ave\r\nColumbus, OH 43204\r\nPermit #: 4529542\r\n\r\nTransfer Type: D1 D2 D3 D3A D6\r\nTo: Racing Line LLC\r\n235 N 4th St\r\nColumbus, OH 43215\r\nFrom: P B Jake Ltd\r\n1st & 2nd Fl & Patio\r\n1036 S Front St\r\nColumbus, OH 43206\r\nPermit #: 7155502\r\n\r\nStock Type: D2 D2X D3 D3A D6\r\nTo: Red Lobster Hospitality LLC\r\nDBA Red Lobster 6271\r\n1520 Georgesville Rd & Patio\r\nColumbus, OH 43228\r\nPermit #: 72469720025\r\n\r\nStock Type: D2 D2X D3 D6\r\nTo: Red Lobster Hospitality LLC\r\nDBA Red Lobster 6265\r\n1270 Polaris Pkwy & Patio\r\nColumbus, OH 43240\r\nPermit #: 72469720030\r\n\r\nAdvertise Date: 1/11/2025\r\nAgenda Date:  1/6/2025\r\nReturn Date: 1/16/2025",
+        "matter_file": "C0001-2025",
+        "matter_type": "Communication",
+        "action": "Read and Filed",
+        "description": "Title\n \nTHE FOLLOWING COMMUNICATIONS WERE RECEIVED BY THE CITY CLERK'S OFFICE AS OF THURSDAY JANUARY 2, 2025 \n \nTREX Type: D1 D2\nTo: Kiza Restaurant and Bar LLC\n155 N 5th St\nColumbus, OH 43215\nFrom: SLZ Inc\n4794 Dressler Rd NW\nCanton, OH 44718\nPermit #: 76417400005\n \nNew Type: C1\nTo: Todo Multise...",
+        "topics": [
+          "Planning & Development"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 7,
+        "item_type": "non_voted",
+        "category": "corrections",
+        "importance": "low",
+        "display_type": "procedural",
+        "title": "ADDITIONS OR CORRECTIONS TO THE AGENDA",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 9,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE & GOVERNANCE: BANKSTON, CHR. DORANS, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 10,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Finance and Management Director to enter into a Universal Term Contract for the option to purchase professional services for Laboratory Water Sample Analysis with Biological Consulting Services of North Florida Inc. and to authorize the expenditure of $1.00. ($1.00)",
+        "matter_file": "3370-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nBACKGROUND:  This legislation authorizes the Finance and Management Director to establish one (1) Universal Term Contract (UTC) for the option to purchase professional laboratory services for Laboratory Water Sample analysis with Biological Consulting Services of North Florida Inc. Th...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 11,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION: BARROSO DE PADILLA, CHR. DAY-ACHAUER, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 12,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To declare the City’s necessity and intent to appropriate and accept certain fee simple title and lesser real estate in order to complete the Kimberly Parkway Bridge Restoration Project. ($0.00)",
+        "matter_file": "0338X-2024",
+        "matter_type": "Resolution",
+        "action": "Read for the First Time",
+        "description": "EXPLANATION\n \nBACKGROUND: The City’s Department of Public Service (“DPS”) is performing the Kimberly Parkway Bridge Restoration Project (Project Number 530301-160283), PID 119849 (“Public Project”). The City must acquire certain fee simple title and lesser real estate located in the vicinity of K...",
+        "topics": [
+          "Budget & Finance",
+          "Parks & Recreation",
+          "Property & Real Estate"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 13,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Public Service to execute those documents necessary for the City to grant encroachments to OhioHealth Corporation to legally allow foundation, monument signs, and wall to extend into the public rights-of-way located at 277 E. State Street. ($0.00)",
+        "matter_file": "3562-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n1. Background\nTo authorize the Director of the Department of Public Service to execute those documents necessary for the City to grant encroachment easements to OhioHealth Corporation to allow foundation, monument signs, and wall to extend into the public right-of-way.\n \nThe City of C...",
+        "topics": [
+          "Grants",
+          "Health & Safety",
+          "Public Works"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 14,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Department of Public Service to execute those documents necessary for the transfer of 0.004 acre portion of right-of-way adjacent to 222 W Lane Avenue to Lane and Norwich Columbus Owner, LLC. ($0.00)",
+        "matter_file": "3563-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBackground:  The City of Columbus, Department of Public Service, received a request from Lane and Norwich Columbus Owner, LLC asking that the City transfer them a 175 square foot (0.004 acre) portion of the right-of-way adjacent to 222 W Lane Avenue.  The right-of-way area runs nort...",
+        "topics": [
+          "Property & Real Estate",
+          "Public Works"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 15,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS, RECREATION, & PARKS: DAY-ACHAUER, CHR. WYCHE, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 16,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize and direct the Director of the Recreation and Parks Department to enter into contract with Wright’s Concessions, LLC, for food concessions/catering at Berliner Sports Complex; and to waive the competitive bidding requirements under Chapter 329 of the Columbus City Codes. ($0)",
+        "matter_file": "3222-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\nBackground: This legislation is to authorize and direct the Recreation and Parks Department Director to enter into contract with Wright’s Concessions, for food concessions/catering at Berliner Sports Complex as a result of waiving the competitive bidding provisions of the Columbus Cit...",
+        "topics": [
+          "Contracts & Agreements",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 17,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the City Auditor, on behalf of the Recreation and Parks Department, to create a new subfund within the City’s Special Purpose Fund to account for funds received and expended for golf pro shop retail sales. ($0.00)",
+        "matter_file": "3365-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBackground: This ordinance is to authorize the City Auditor, on behalf of the Recreation and Parks Department, to create a new subfund within the City’s Special Purpose Fund to account for funds received for City golf course pro shop retail sales. The City manages retail inventory a...",
+        "topics": [
+          "Budget & Finance",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 18,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of the Recreation and Parks Department to enter into contract with Strawser Paving Co., Inc. for the Krumm Park Pickleball Improvements Project; to authorize the transfer of $550,000.00 within the Recreation and Parks Voted Bond Fund; to authorize the amendment of the 2024 Capital Improvements Budget; and to authorize the expenditure of $550,000.00 from the Recreation and Parks Voted Bond Fund. ($550,000.00)",
+        "matter_file": "3448-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBackground: This ordinance authorizes the Director of the Recreation and Parks Department to enter into contract with Strawser Paving Company Inc. for the Krumm Park Pickleball Project. The contract amount is $481,537.51, with a contingency of $68,462.49, for a total of $550,000.00 ...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 19,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC UTILITIES & SUSTAINABILITY: WYCHE, CHR. REMY, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 20,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with William E. Munson Company dba Munson Boats for the purchase of a Work Boat for the Division of Water; and to authorize the expenditure of $255,453.00 from the Land Stewardship Fund.  ($255,453.00)",
+        "matter_file": "3409-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nBACKGROUND:    \n \nThis legislation authorizes the Director of Finance and Management to enter into a contract with William E. Munson Company dba Munson Boats for the purchase of a Work Boat for the Division of Water.  The Work Boat will be used by the Watershed staff to conduct land...",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 21,
+        "item_type": "non_voted",
+        "category": "zoning_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "ZONING: DORANS, CHR.  HARDIN, VICE CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 22,
+        "item_type": "non_voted",
+        "category": "zoning_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "REZONING",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 23,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To rezone 2194 & 2202 EAKIN RD. (43205), being 0.47± acres located at the northeast corner of Eakin Road and Whitethorne Avenue, From: R-2, Residential District and R, Rural District, To: L-C-4, Limited Commercial District (Rezoning #Z24-026).",
+        "matter_file": "0004-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nRezoning Application: Z24-026\n \nAPPLICANT:  Mohand Azzabene; 1702 Bennigan Drive; Hilliard, OH 43026\n \nPROPOSED USE:  Limited commercial development.\n \nDEVELOPMENT COMMISSION RECOMMENDATION: Approval (5-0) on December 12, 2024.\n \nGREATER HILLTOP AREA COMMISSION RECOMMENDATION: Appro...",
+        "topics": [
+          "Housing",
+          "Planning & Development",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 24,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To rezone 3622 SUNBURY RD. (43026), being 1.2± acres located at the southeast corner of Sunbury Road and McCutcheon Road, From: L-C-2, Limited Commercial District, To: AR-1, Apartment Residential District (Rezoning #Z24-044).",
+        "matter_file": "3589-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nRezoning Application:  Z24-044\n \nAPPLICANT:  HAMM Holdings, LLC c/o David Hodge, Atty.; 8000 Walton Parkway, Suite 120; New Albany, OH 43054.\n \nPROPOSED USE:  Multi-unit residential development.\n \nNORTHEAST AREA COMMISSION RECOMMENDATION: Approval.\n \nDEVELOPMENT COMMISSION RECOMMEND...",
+        "topics": [
+          "Housing",
+          "Planning & Development",
+          "Transportation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 25,
+        "item_type": "non_voted",
+        "category": "variances_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "VARIANCES",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 26,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To grant a Variance from the provisions of Sections 3332.035, R-3 residential district; 3312.49, Required parking; 3332.13, R-3 area district requirements; 3332.19, Fronting; and 3332.27, Rear yard, of the Columbus City Codes; for the property located at 23 ARDEN RD. (43214), to allow two single-unit dwellings on one lot with reduced development standards in the R-3, Residential District (Council Variance #CV24-101).",
+        "matter_file": "0005-2025",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nCouncil Variance Application: CV24-101\n \nAPPLICANT: Bonnie Smelser; c/o Brenda Parker, Agent; 405 North Front Street; Columbus, OH 43215\n \nPROPOSED USE: Two single-unit dwellings on one lot.\n \nCLINTONVILLE AREA COMMISSION RECOMMENDATION: Approval.\n \nCITY DEPARTMENTS' RECOMMENDATION:...",
+        "topics": [
+          "Grants",
+          "Housing",
+          "Parks & Recreation"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 27,
+        "item_type": "non_voted",
+        "category": "first_reading",
+        "importance": "high",
+        "display_type": "legislation",
+        "title": "To grant a Variance from the provisions of Section 3333.18, Building lines, of the Columbus City Codes; for the property located at 3622 SUNBURY RD. (43026), to allow reduced building setback lines for an apartment building in the AR-1, Apartment Residential District (Council Variance #CV24-113).",
+        "matter_file": "3590-2024",
+        "matter_type": "Ordinance",
+        "action": "Read for the First Time",
+        "description": "Explanation\n \nCouncil Variance Application:  CV24-113\n \nAPPLICANT:  HAMM Holdings, LLC c/o David Hodge, Atty.; 8000 Walton Parkway, Suite 120; New Albany, OH 43054.\n \nPROPOSED USE:  Apartment building.\n \nNORTHEAST AREA COMMISSION RECOMMENDATION: Approval.\n \nCITY DEPARTMENTS' RECOMMENDATION:  Appr...",
+        "topics": [
+          "Grants",
+          "Housing",
+          "Planning & Development"
+        ],
+        "vote": null
+      },
+      {
+        "agenda_sequence": 28,
+        "item_type": "non_voted",
+        "category": "consent_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "CONSENT ACTIONS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 29,
+        "item_type": "non_voted",
+        "category": "resolutions_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "RESOLUTIONS OF EXPRESSION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 30,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "WYCHE",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 36,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE & GOVERNANCE: BANKSTON, CHR. DORANS, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 39,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION: BARROSO DE PADILLA, CHR. DAY-ACHAUER, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 44,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS, RECREATION, & PARKS: DAY-ACHAUER, CHR. WYCHE, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 46,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "WORKFORCE, EDUCATION, & LABOR: DORANS, CHR. HARDIN, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 48,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "HEALTH, HUMAN SERVICES, & EQUITY: GREEN, CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 52,
+        "item_type": "non_voted",
+        "category": "emergency_section",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EMERGENCY, POSTPONED AND 2ND READING OF 30-DAY LEGISLATION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 53,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SERVICE & TRANSPORTATION: BARROSO DE PADILLA, CHR. DAY-ACHAUER, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 55,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "NEIGHBORHOODS, RECREATION, & PARKS: DAY-ACHAUER, CHR. WYCHE, VICE CHR. ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 57,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "PUBLIC SAFETY & CRIMINAL JUSTICE:  REMY, CHR.  ALL MEMBERS",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 62,
+        "item_type": "voted",
+        "item_number": "62",
+        "title": "ADJOURNMENT",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 11262,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11238,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "Approval of the Consent Agenda",
+        "section": "CONSENT",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 11238,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11240,
+        "item_type": "voted",
+        "item_number": "FR",
+        "title": "FIRST READING OF 30-DAY LEGISLATION",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 11240,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11241,
+        "item_type": "voted",
+        "item_number": "CA-1",
+        "title": "To recognize and celebrate CDC Bear Cats as the Keep Columbus Beautiful Youth Volunteer Group of the Year.",
+        "section": "CONSENT",
+        "matter_file": "0001X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Economic Development",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 11241,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11242,
+        "item_type": "voted",
+        "item_number": "CA-2",
+        "title": "To recognize and celebrate Ms. Shirly Marshall as the Keep Columbus Beautiful Volunteer of the Year.",
+        "section": "CONSENT",
+        "matter_file": "0002X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Economic Development",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 11242,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11243,
+        "item_type": "voted",
+        "item_number": "CA-3",
+        "title": "To recognize and celebrate the Adena Brook Community as the Keep Columbus Beautiful Volunteer Group of the Year.",
+        "section": "CONSENT",
+        "matter_file": "0003X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Economic Development",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 11243,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11244,
+        "item_type": "voted",
+        "item_number": "CA-4",
+        "title": "To recognize and celebrate Ms. Carolyn Turner as the Keep Columbus Beautiful Partner of the Year.",
+        "section": "CONSENT",
+        "matter_file": "0004X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Economic Development",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 11244,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11245,
+        "item_type": "voted",
+        "item_number": "CA-5",
+        "title": "To recognize and celebrate Highland West Civic Association as the Keep Columbus Beautiful Outstanding Adopt-an-Area Partner.",
+        "section": "CONSENT",
+        "matter_file": "0005X-2025",
+        "matter_type": "Ceremonial Resolution",
+        "topics": [
+          "Economic Development",
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 11245,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11246,
+        "item_type": "voted",
+        "item_number": "CA-6",
+        "title": "To authorize the Director of the Department of Finance and Management, with the approval of the Director of Department of Public Utilities and the Director of the Recreation and Parks Department, to execute and acknowledge any document(s), as approved by the City Attorney, necessary to quitclaim grant Columbia Gas of Ohio, Inc. non-exclusive easements burdening a portion of the City’s real property located at State Route 257 South, Delaware, Ohio 43015; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "3431-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Grants",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 11246,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11247,
+        "item_type": "voted",
+        "item_number": "CA-7",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into a Universal Term Contract for the option to purchase Cues Parts, Software Support and Services with The Safety Company, LLC dba M tech Company in accordance with the sole source provisions of the Columbus City Code; to authorize the expenditure of $1.00; and to declare an emergency. ($1.00).",
+        "section": "CONSENT",
+        "matter_file": "3568-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11247,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11248,
+        "item_type": "voted",
+        "item_number": "CA-8",
+        "title": "To authorize the appropriation of funds within the County Auto License Tax Fund; to authorize the Director of Public Service to expend said monies or so much thereof as may be needed for Franklin County Engineer approved roadway construction and maintenance projects undertaken by the Division of Traffic Management; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "3411-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 11248,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11249,
+        "item_type": "voted",
+        "item_number": "CA-9",
+        "title": "To authorize the Director of the Department of Public Service to execute those documents necessary for the transfer of 0.090 acre portion of Leonard Avenue right-of-way to Knot Your Bus LLC; and to declare an emergency. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "3541-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Property & Real Estate",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 11249,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11250,
+        "item_type": "voted",
+        "item_number": "CA-10",
+        "title": "To authorize the Director of the Department of Public Service to grant consent and propose cooperation with the Director of the Ohio Department of Transportation relative to the FRA-270-9.30 project; and to declare an emergency.  ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "3561-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Grants",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 11250,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11251,
+        "item_type": "voted",
+        "item_number": "CA-11",
+        "title": "To amend Ordinance 1848-2024, passed July 15, 2024, to correct the entity to which the extinguishment and transfer of 0.084 acres of right-of-way known as Zettler Street from Bluestone Brothers Capital LLC to Rico 199 LLC; and declare an emergency. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": "0001-2025",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Emergency Services",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 11251,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11252,
+        "item_type": "voted",
+        "item_number": "CA-12",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Glaus, Pyle, Schomer, Burns and Dehaven DBA GPD Group for the Playground Renovations 2023 - Site Design Project; to authorize the transfer of $350,000.00 within the Recreation and Parks Voted Bond Fund; to authorize the amendment of the 2024 Capital Improvements Budget; to authorize the expenditure of $350,000.00 from the Recreation and Parks Voted Bond Fund; and to declare an emergency. ($350,000.00)",
+        "section": "CONSENT",
+        "matter_file": "3447-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11252,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11253,
+        "item_type": "voted",
+        "item_number": "CA-13",
+        "title": "To authorize the Department of Human Resources to modify the contract with Brown & Brown of Massachusetts, LLC and to reflect a (1) name change to Claims Technologies Incorporated, a division of Brown & Brown Insurance Services, Inc., (2) a new federal tax ID number, (3) to incorporate an updated Business Associate Agreement, (4) to provide additional services; specifically a fraud, waste and abuse analysis of the pharmacy plan; and to declare an emergency. ($25,000.00)",
+        "section": "CONSENT",
+        "matter_file": "3388-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11253,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11254,
+        "item_type": "voted",
+        "item_number": "CA-14",
+        "title": "To authorize the Board of Health to accept a grant from the Ohio Department of Health in the amount of $125,000.00 for the Dental Sealant program that prevents dental cavities among school children through an evidence-based community approach, to authorize the appropriation of $125,000.00 from the unappropriated balance of the Health Department Grants Fund; and to declare an emergency.  ($125,000.00)",
+        "section": "CONSENT",
+        "matter_file": "3083-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 11254,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11255,
+        "item_type": "voted",
+        "item_number": "CA-15",
+        "title": "To authorize and direct the Board of Health to accept funds from the Ohio Commission on Minority Health and any additional funds for 2025 Minority Health Month Grant; to authorize the appropriation and expenditure of funds from the unappropriated balance of the Health Department Grants Fund; to authorize the City Auditor to transfer appropriations between object classes for the 2025 Minority Health Month Grant; and to declare an emergency.  ($9,000.00)",
+        "section": "CONSENT",
+        "matter_file": "3539-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 11255,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11256,
+        "item_type": "voted",
+        "item_number": "CA-16",
+        "title": "To amend Ordinance No. 2940-2024, passed November 18, 2024, to correct the vendor name listed in said Ordinance; and to declare an emergency.",
+        "section": "CONSENT",
+        "matter_file": "3542-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11256,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11257,
+        "item_type": "voted",
+        "item_number": "SR-1",
+        "title": "To amend the 2024 Capital Improvement Budget; to authorize the Director of the Department of Public Service to pay utility relocation costs to various utilities for the Arterial Street Rehabilitation - E. Broad Street project; to authorize the expenditure of up to $1,311,700.25 for utility relocations for this project from the Streets & Highways Bond Fund; and to declare an emergency.  ($1,311,700.25)",
+        "section": "GENERAL",
+        "matter_file": "3529-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 11257,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11258,
+        "item_type": "voted",
+        "item_number": "SR-2",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Proline Electric, Inc. for the Lighting Improvements 2023-2024 Project; to authorize the transfer of $326,625.55 within the Recreation and Parks Voted Bond Fund; to authorize the amendment of the 2024 Capital Improvements Budget; to authorize the expenditure of $1,002,000.00 from the Recreation and Parks Voted Bond Fund; and to declare an emergency. ($1,002,000.00)",
+        "section": "GENERAL",
+        "matter_file": "3445-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11258,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11259,
+        "item_type": "voted",
+        "item_number": "SR-3",
+        "title": "To authorize and direct the City Attorney to settle all claims with Allison Meade related to three employment discrimination charges filed with the Ohio Civil Rights Commission (OCRC) and the Equal Employment Opportunities Commission (EEOC); to authorize the expenditure of Sixty-Five Thousand Dollars and Zero Cents ($65,000.00) in settlement of the administrative charges; to authorize the transfer of said funds from the Citywide Account into the Department of Public Safety’s General Fund; and to declare an emergency. ($65,000.00)",
+        "section": "GENERAL",
+        "matter_file": "3280-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11259,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11260,
+        "item_type": "voted",
+        "item_number": "SR-4",
+        "title": "To authorize and direct the City Attorney to settle the lawsuit known as Shirley Smith, et al. v. Eric Pugh, et al., Case No. 23 CV 5544 pending in the Franklin County Court of Common Pleas; to authorize the expenditure of the sum of forty-five thousand dollars and zero cents ($45,000.00) from the General Fund in settlement of this lawsuit; and to declare an emergency.",
+        "section": "GENERAL",
+        "matter_file": "3337-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 11260,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 11261,
+        "item_type": "voted",
+        "item_number": "SR-5",
+        "title": "To authorize and direct the City Attorney to settle all claims with Brianne Schell; to authorize the Board of Health to expend Sixty Thousand Dollars and Zero Cents ($60,000.00) in settlement of the claims; to authorize a transfer from the General fund to the Health Special Revenue Fund; to authorize an increase of appropriation within the Health Special Revenue fund to provide for the settlement of all claims with Brianne Schell; and to declare an emergency. (60,000.00)",
+        "section": "GENERAL",
+        "matter_file": "3419-2024",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 11261,
+          "outcome": "PASS",
+          "ayes": 8,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      }
+    ]
+  }
+}

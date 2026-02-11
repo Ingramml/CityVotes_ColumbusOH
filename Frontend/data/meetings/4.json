@@ -1,0 +1,242 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 4,
+    "event_id": "5782",
+    "meeting_date": "2021-02-11",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=5782&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2021/2/5782_A_Columbus_City_Council_21-02-11_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2021/2/5782_M_Columbus_City_Council_21-02-11_Minutes_-_Final.pdf",
+    "video_url": null,
+    "vote_count": 8,
+    "non_voted_count": 4,
+    "first_reading_count": 0,
+    "agenda_item_count": 12,
+    "agenda_items": [
+      {
+        "agenda_sequence": 0,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "A MOTION WAS MADE BY COUNCILMEMBER REMY, SECONDED BY COUNCILMEMBER TYSON TO RECONVENE REGULAR MEETING NO. 4 OF COLUMBUS CITY COUNCIL. THE MOTION CARRIED BY THE FOLLOWING VOTE: AFFIRMATIVE: 7 NEGATIVE: 0",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 0,
+        "item_type": "non_voted",
+        "category": "other",
+        "importance": "medium",
+        "display_type": "procedural",
+        "title": "A MOTION WAS MADE BY COUNCILMEMBER FAVOR, SECONDED BY COUNCILMEMBER TYSON TO WAIVE THE RULES OF COUNCIL IN COLUMBUS CITY CODE SECTION 111.12. THE MOTION CARRIED BY THE FOLLOWING VOTE: AFFIRMATIVE: 7 NEGATIVE: 0",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "non_voted",
+        "category": "emergency_section",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "EMERGENCY, TABLED AND 2ND READING OF 30-DAY LEGISLATION",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "non_voted",
+        "category": "committee_header",
+        "importance": "medium",
+        "display_type": "section_header",
+        "title": "FINANCE:  E. BROWN, CHR.  TYSON M. BROWN HARDIN",
+        "matter_file": null,
+        "matter_type": null,
+        "action": null,
+        "description": null,
+        "topics": null,
+        "vote": null
+      },
+      {
+        "agenda_sequence": 5,
+        "item_type": "voted",
+        "item_number": "5",
+        "title": "To make appropriations for the 12 months ending December 31, 2021, for each of the several Object Classes for which the City of Columbus has to provide from the monies known to be in the treasury of said City of Columbus, in the fund known as the General Fund, during the said 12 months from the collection of all taxes and from other sources of revenue, the amount of $964,000,000.00 $970,263,958.00; to authorize an appropriation within the Basic City Services fund; to authorize transfers from the Basic City Services fund to the Reimagine Safety fund and to the Economic Stabilization fund; to authorize transfers from the general fund to the Job Growth fund, Public Safety Initiatives fund, and the Neighborhood Initiatives fund; to  authorize an appropriation within the Jobs Growth fund; and to declare an emergency ($964,000,000.00 $970,263,958.00)",
+        "section": "GENERAL",
+        "matter_file": "2502-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 202,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 6,
+        "item_type": "voted",
+        "item_number": "6",
+        "title": "To make appropriations and transfers for the 12 months ending December 31, 2021 for other funds for various divisions; to authorize the City Auditor to make transfers as may be necessary; and to declare an emergency.",
+        "section": "GENERAL",
+        "matter_file": "2503-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 203,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 7,
+        "item_type": "voted",
+        "item_number": "7",
+        "title": "ADJOURNMENT",
+        "section": "GENERAL",
+        "matter_file": "",
+        "matter_type": "",
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 204,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 197,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To make appropriations for the 12 months ending December 31, 2021, for each of the several Object Classes for which the City of Columbus has to provide from the monies known to be in the treasury of said City of Columbus, in the fund known as the General Fund, during the said 12 months from the collection of all taxes and from other sources of revenue, the amount of $964,000,000.00 $970,263,958.00; to authorize an appropriation within the Basic City Services fund; to authorize transfers from the Basic City Services fund to the Reimagine Safety fund and to the Economic Stabilization fund; to authorize transfers from the general fund to the Job Growth fund, Public Safety Initiatives fund, and the Neighborhood Initiatives fund; to  authorize an appropriation within the Jobs Growth fund; and to declare an emergency ($964,000,000.00 $970,263,958.00)",
+        "section": "GENERAL",
+        "matter_file": "2502-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 197,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 198,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To make appropriations for the 12 months ending December 31, 2021, for each of the several Object Classes for which the City of Columbus has to provide from the monies known to be in the treasury of said City of Columbus, in the fund known as the General Fund, during the said 12 months from the collection of all taxes and from other sources of revenue, the amount of $964,000,000.00 $970,263,958.00; to authorize an appropriation within the Basic City Services fund; to authorize transfers from the Basic City Services fund to the Reimagine Safety fund and to the Economic Stabilization fund; to authorize transfers from the general fund to the Job Growth fund, Public Safety Initiatives fund, and the Neighborhood Initiatives fund; to  authorize an appropriation within the Jobs Growth fund; and to declare an emergency ($964,000,000.00 $970,263,958.00)",
+        "section": "GENERAL",
+        "matter_file": "2502-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 198,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 2,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 199,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To make appropriations for the 12 months ending December 31, 2021, for each of the several Object Classes for which the City of Columbus has to provide from the monies known to be in the treasury of said City of Columbus, in the fund known as the General Fund, during the said 12 months from the collection of all taxes and from other sources of revenue, the amount of $964,000,000.00 $970,263,958.00; to authorize an appropriation within the Basic City Services fund; to authorize transfers from the Basic City Services fund to the Reimagine Safety fund and to the Economic Stabilization fund; to authorize transfers from the general fund to the Job Growth fund, Public Safety Initiatives fund, and the Neighborhood Initiatives fund; to  authorize an appropriation within the Jobs Growth fund; and to declare an emergency ($964,000,000.00 $970,263,958.00)",
+        "section": "GENERAL",
+        "matter_file": "2502-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 199,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 200,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To make appropriations and transfers for the 12 months ending December 31, 2021 for other funds for various divisions; to authorize the City Auditor to make transfers as may be necessary; and to declare an emergency.",
+        "section": "GENERAL",
+        "matter_file": "2503-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 200,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 201,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To make appropriations and transfers for the 12 months ending December 31, 2021 for other funds for various divisions; to authorize the City Auditor to make transfers as may be necessary; and to declare an emergency.",
+        "section": "GENERAL",
+        "matter_file": "2503-2020",
+        "matter_type": "Ordinance",
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 201,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      }
+    ]
+  }
+}

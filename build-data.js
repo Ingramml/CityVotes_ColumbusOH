@@ -17,6 +17,10 @@ const DATA_DIR = path.join(__dirname, 'Columbus-OH');
 const OUT_DIR = path.join(__dirname, 'Frontend', 'data');
 const BASE_COL_COUNT = 34; // columns 0-33 are fixed base columns
 
+// Year filter: only process CSVs within this range (inclusive).
+// Set to null to process all years.
+const YEAR_RANGE = [2022, 2023];
+
 // ============================================================
 // CSV Parser (RFC 4180 compliant)
 // ============================================================
@@ -109,6 +113,9 @@ function discoverCSVFiles() {
             year = parseInt(legacyMatch[2]);
         }
         return { path: path.join(DATA_DIR, f), filename: f, year, quarter };
+    }).filter(f => {
+        if (!YEAR_RANGE || !f.year) return true;
+        return f.year >= YEAR_RANGE[0] && f.year <= YEAR_RANGE[1];
     });
 }
 
@@ -129,6 +136,9 @@ function discoverVotesCSVFiles() {
             year = parseInt(legacyMatch[2]);
         }
         return { path: path.join(DATA_DIR, f), filename: f, year, quarter };
+    }).filter(f => {
+        if (!YEAR_RANGE || !f.year) return true;
+        return f.year >= YEAR_RANGE[0] && f.year <= YEAR_RANGE[1];
     });
 }
 
@@ -334,6 +344,9 @@ function writeJSON(filePath, data) {
 
 function main() {
     console.log('=== Columbus City Votes — Data Build ===\n');
+    if (YEAR_RANGE) {
+        console.log(`  Year filter active: ${YEAR_RANGE[0]}-${YEAR_RANGE[1]}\n`);
+    }
 
     // ---- Step 1: Discover CSV files ----
     const csvFiles = discoverCSVFiles();

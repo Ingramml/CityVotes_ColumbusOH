@@ -1,7 +1,325 @@
 {
   "success": true,
-  "members": [],
-  "alignment_pairs": [],
-  "most_aligned": [],
-  "least_aligned": []
+  "members": [
+    "E. Brown",
+    "Remy",
+    "Padilla",
+    "M. Brown",
+    "Bankston",
+    "Dorans",
+    "Hardin",
+    "Favor"
+  ],
+  "alignment_pairs": [
+    {
+      "member1": "Bankston",
+      "member2": "Hardin",
+      "member1_id": 5,
+      "member2_id": 7,
+      "shared_votes": 5296,
+      "agreements": 5296,
+      "agreement_rate": 100
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Bankston",
+      "member1_id": 1,
+      "member2_id": 5,
+      "shared_votes": 2833,
+      "agreements": 2833,
+      "agreement_rate": 100
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Hardin",
+      "member1_id": 1,
+      "member2_id": 7,
+      "shared_votes": 2804,
+      "agreements": 2804,
+      "agreement_rate": 100
+    },
+    {
+      "member1": "Remy",
+      "member2": "M. Brown",
+      "member1_id": 2,
+      "member2_id": 4,
+      "shared_votes": 2617,
+      "agreements": 2617,
+      "agreement_rate": 100
+    },
+    {
+      "member1": "Remy",
+      "member2": "Bankston",
+      "member1_id": 2,
+      "member2_id": 5,
+      "shared_votes": 5259,
+      "agreements": 5257,
+      "agreement_rate": 99.96
+    },
+    {
+      "member1": "Remy",
+      "member2": "Hardin",
+      "member1_id": 2,
+      "member2_id": 7,
+      "shared_votes": 5144,
+      "agreements": 5142,
+      "agreement_rate": 99.96
+    },
+    {
+      "member1": "M. Brown",
+      "member2": "Bankston",
+      "member1_id": 4,
+      "member2_id": 5,
+      "shared_votes": 2563,
+      "agreements": 2562,
+      "agreement_rate": 99.96
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Dorans",
+      "member1_id": 1,
+      "member2_id": 6,
+      "shared_votes": 2471,
+      "agreements": 2470,
+      "agreement_rate": 99.96
+    },
+    {
+      "member1": "M. Brown",
+      "member2": "Hardin",
+      "member1_id": 4,
+      "member2_id": 7,
+      "shared_votes": 2461,
+      "agreements": 2460,
+      "agreement_rate": 99.96
+    },
+    {
+      "member1": "Padilla",
+      "member2": "Dorans",
+      "member1_id": 3,
+      "member2_id": 6,
+      "shared_votes": 4929,
+      "agreements": 4925,
+      "agreement_rate": 99.92
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Remy",
+      "member1_id": 1,
+      "member2_id": 2,
+      "shared_votes": 2612,
+      "agreements": 2610,
+      "agreement_rate": 99.92
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Padilla",
+      "member1_id": 1,
+      "member2_id": 3,
+      "shared_votes": 2594,
+      "agreements": 2592,
+      "agreement_rate": 99.92
+    },
+    {
+      "member1": "Padilla",
+      "member2": "Favor",
+      "member1_id": 3,
+      "member2_id": 8,
+      "shared_votes": 4668,
+      "agreements": 4664,
+      "agreement_rate": 99.91
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Favor",
+      "member1_id": 1,
+      "member2_id": 8,
+      "shared_votes": 2314,
+      "agreements": 2312,
+      "agreement_rate": 99.91
+    },
+    {
+      "member1": "Dorans",
+      "member2": "Favor",
+      "member1_id": 6,
+      "member2_id": 8,
+      "shared_votes": 4842,
+      "agreements": 4837,
+      "agreement_rate": 99.9
+    },
+    {
+      "member1": "Padilla",
+      "member2": "Bankston",
+      "member1_id": 3,
+      "member2_id": 5,
+      "shared_votes": 5014,
+      "agreements": 5008,
+      "agreement_rate": 99.88
+    },
+    {
+      "member1": "Padilla",
+      "member2": "Hardin",
+      "member1_id": 3,
+      "member2_id": 7,
+      "shared_votes": 4895,
+      "agreements": 4889,
+      "agreement_rate": 99.88
+    },
+    {
+      "member1": "Remy",
+      "member2": "Padilla",
+      "member1_id": 2,
+      "member2_id": 3,
+      "shared_votes": 4998,
+      "agreements": 4991,
+      "agreement_rate": 99.86
+    },
+    {
+      "member1": "Bankston",
+      "member2": "Favor",
+      "member1_id": 5,
+      "member2_id": 8,
+      "shared_votes": 4875,
+      "agreements": 4868,
+      "agreement_rate": 99.86
+    },
+    {
+      "member1": "Remy",
+      "member2": "Favor",
+      "member1_id": 2,
+      "member2_id": 8,
+      "shared_votes": 4859,
+      "agreements": 4852,
+      "agreement_rate": 99.86
+    },
+    {
+      "member1": "Hardin",
+      "member2": "Favor",
+      "member1_id": 7,
+      "member2_id": 8,
+      "shared_votes": 4735,
+      "agreements": 4728,
+      "agreement_rate": 99.85
+    },
+    {
+      "member1": "Bankston",
+      "member2": "Dorans",
+      "member1_id": 5,
+      "member2_id": 6,
+      "shared_votes": 5120,
+      "agreements": 5112,
+      "agreement_rate": 99.84
+    },
+    {
+      "member1": "Remy",
+      "member2": "Dorans",
+      "member1_id": 2,
+      "member2_id": 6,
+      "shared_votes": 5128,
+      "agreements": 5119,
+      "agreement_rate": 99.82
+    },
+    {
+      "member1": "Dorans",
+      "member2": "Hardin",
+      "member1_id": 6,
+      "member2_id": 7,
+      "shared_votes": 5003,
+      "agreements": 4994,
+      "agreement_rate": 99.82
+    },
+    {
+      "member1": "M. Brown",
+      "member2": "Favor",
+      "member1_id": 4,
+      "member2_id": 8,
+      "shared_votes": 2430,
+      "agreements": 2425,
+      "agreement_rate": 99.79
+    },
+    {
+      "member1": "Padilla",
+      "member2": "M. Brown",
+      "member1_id": 3,
+      "member2_id": 4,
+      "shared_votes": 2341,
+      "agreements": 2336,
+      "agreement_rate": 99.79
+    },
+    {
+      "member1": "M. Brown",
+      "member2": "Dorans",
+      "member1_id": 4,
+      "member2_id": 6,
+      "shared_votes": 2531,
+      "agreements": 2523,
+      "agreement_rate": 99.68
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "M. Brown",
+      "member1_id": 1,
+      "member2_id": 4,
+      "shared_votes": 88,
+      "agreements": 87,
+      "agreement_rate": 98.86
+    }
+  ],
+  "most_aligned": [
+    {
+      "member1": "Bankston",
+      "member2": "Hardin",
+      "member1_id": 5,
+      "member2_id": 7,
+      "shared_votes": 5296,
+      "agreements": 5296,
+      "agreement_rate": 100
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Bankston",
+      "member1_id": 1,
+      "member2_id": 5,
+      "shared_votes": 2833,
+      "agreements": 2833,
+      "agreement_rate": 100
+    },
+    {
+      "member1": "E. Brown",
+      "member2": "Hardin",
+      "member1_id": 1,
+      "member2_id": 7,
+      "shared_votes": 2804,
+      "agreements": 2804,
+      "agreement_rate": 100
+    }
+  ],
+  "least_aligned": [
+    {
+      "member1": "E. Brown",
+      "member2": "M. Brown",
+      "member1_id": 1,
+      "member2_id": 4,
+      "shared_votes": 88,
+      "agreements": 87,
+      "agreement_rate": 98.86
+    },
+    {
+      "member1": "M. Brown",
+      "member2": "Dorans",
+      "member1_id": 4,
+      "member2_id": 6,
+      "shared_votes": 2531,
+      "agreements": 2523,
+      "agreement_rate": 99.68
+    },
+    {
+      "member1": "Padilla",
+      "member2": "M. Brown",
+      "member1_id": 3,
+      "member2_id": 4,
+      "shared_votes": 2341,
+      "agreements": 2336,
+      "agreement_rate": 99.79
+    }
+  ]
 }

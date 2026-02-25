@@ -1,0 +1,2550 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 31,
+    "event_id": "5917",
+    "meeting_date": "2023-01-30",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=5917&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2023/1/5917_A_Columbus_City_Council_23-01-30_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2023/1/5917_M_Columbus_City_Council_23-01-30_Minutes_-_Final.pdf",
+    "video_url": "https://www.youtube.com/live/75jfphH85Qc?si=X6CuB51sGN8Pta-M",
+    "vote_count": 118,
+    "non_voted_count": 82,
+    "first_reading_count": 36,
+    "agenda_item_count": 200,
+    "agenda_items": [
+      {
+        "agenda_sequence": 2,
+        "item_type": "voted",
+        "item_number": "2",
+        "title": "To declare February 3, 2023 as National Wear Red Day in the City of Columbus",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 2782,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "READING AND DISPOSAL OF THE JOURNAL",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 2783,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 196,
+        "item_type": "voted",
+        "item_number": "196",
+        "title": "ADJOURNMENT",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 2669,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2670,
+        "item_type": "voted",
+        "item_number": "LA",
+        "title": "Appointment of Nana Watson, P.O. Box 9463, Columbus, OH 43209, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resume attached).",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 2670,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2671,
+        "item_type": "voted",
+        "item_number": "SR-12",
+        "title": "To amend section 111.04 of the Columbus City Codes relating to the Standing Committees of Council; to repeal existing section 111.04, and to declare an emergency.",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2671,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2672,
+        "item_type": "voted",
+        "item_number": "SR-11",
+        "title": "To authorize the Director of the Department of Human Resources to enter into contract with the law firm of Baker & Hostetler LLP for the purpose of providing assistance with collective bargaining n...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2672,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2673,
+        "item_type": "voted",
+        "item_number": "SR-10",
+        "title": "To authorize and direct the Board of Health to accept the grant service contract from the Alcohol, Drug and Mental Health (ADAMH) Board of Franklin County in the amount of $1,628,517.44; to authori...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2673,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2674,
+        "item_type": "voted",
+        "item_number": "SR-9",
+        "title": "To authorize the Board of Health to modify and increase an existing contract with Emocha Mobile Health for continued contact tracing services for infectious diseases including but not limited to CO...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2674,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2675,
+        "item_type": "voted",
+        "item_number": "SR-8",
+        "title": "To authorize and direct the City Attorney to settle the lawsuit captioned Timothy Davis v. City of Columbus, et al., United States District Court Case No. 2:17-cv-823; to authorize the expenditure ...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2675,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2676,
+        "item_type": "voted",
+        "item_number": "SR-7",
+        "title": "To authorize the Director of Public Utilities to modify and increase the contract for the purchase of wholesale electric power and ancillary services with American Municipal Power, Inc. for the Div...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2676,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2677,
+        "item_type": "voted",
+        "item_number": "SR-6",
+        "title": "To authorize the Finance and Management Director to associate all General Budget Reservations resulting from this ordinance with the appropriate current and pending Universal Term Contract Purchase...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2677,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2678,
+        "item_type": "voted",
+        "item_number": "SR-5",
+        "title": "To authorize the Director of Public Utilities to amend the 2022 Capital Improvement Budget for Professional Construction Management services used at the Department's wastewater treatment facilities...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Economic Development",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2678,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2679,
+        "item_type": "voted",
+        "item_number": "SR-4",
+        "title": "To authorize the Finance and Management Director to associate all general budget reservations resulting from this ordinance with the appropriate current and pending Universal Term Contract Purchase...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2679,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2680,
+        "item_type": "voted",
+        "item_number": "SR-3",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Mid Ohio Select Soccer League for the purchase of soccer goals; to waive the competitive bidding provisions of Columbus...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2680,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2681,
+        "item_type": "voted",
+        "item_number": "SR-2",
+        "title": "To authorize the Director of Public Service to enter into contract with Strawser Paving Company for the Pedestrian Safety Improvements - Maple Canyon Avenue Sidewalks project; to authorize the expe...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2681,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2682,
+        "item_type": "voted",
+        "item_number": "SR-1",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with the Columbus Downtown Development Corporation to provide operating funding to advance economic and co...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2682,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2683,
+        "item_type": "voted",
+        "item_number": "CA-98",
+        "title": "Appointment of Barry Pickett, 90 West Broad Street, Columbus, OH 43215, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resume a...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 2683,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2684,
+        "item_type": "voted",
+        "item_number": "CA-97",
+        "title": "Appointment of Jonathan Mandl, 22 Stimmel Street, Columbus, OH 43206, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resume att...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 2684,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2685,
+        "item_type": "voted",
+        "item_number": "CA-96",
+        "title": "Appointment of John H. Lacey II, 5328 Shotgun Drive, Canal Winchester, OH 43110, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 2685,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2686,
+        "item_type": "voted",
+        "item_number": "CA-95",
+        "title": "Appointment of Jason T. Jenkins, 90 West Broad Street, Columbus, OH 43215, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resum...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 2686,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2687,
+        "item_type": "voted",
+        "item_number": "CA-94",
+        "title": "Appointment of Jeffrey C. Hunley, 3035 Lamb Avenue, Columbus, OH 43219, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resume a...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 2687,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2688,
+        "item_type": "voted",
+        "item_number": "CA-93",
+        "title": "Appointment of Emerald Hernandez-Parra, 90 West Broad Street, Columbus, OH 43215, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026....",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 2688,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2689,
+        "item_type": "voted",
+        "item_number": "CA-92",
+        "title": "Appointment of Rob Dorans, 90 West Broad Street, Columbus, OH 43215, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resume atta...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Contracts & Agreements",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 2689,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2690,
+        "item_type": "voted",
+        "item_number": "CA-91",
+        "title": "Appointment of James D. Bond, 90 West Broad Street, Columbus, OH 43215, to serve on the Community Benefits Agreement Advisory Committee with a new term expiration date of January 1, 2026. (resume a...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Budget & Finance",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 2690,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2691,
+        "item_type": "voted",
+        "item_number": "CA-90",
+        "title": "Reappointment of Jeanna Hondel, PE, CCM, LEED AP, MBA, Owner, Ascension Construction Services, 4200 Regent Street, Suite 200, Columbus, Ohio 43219, to serve on the Franklin Park Conservatory Joint ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 2691,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2692,
+        "item_type": "voted",
+        "item_number": "CA-89",
+        "title": "Appointment of Nicholas C. Cavalaris to serve on the Graphics Commission replacing David Carey with a new term expiration date of December 1, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2692,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2693,
+        "item_type": "voted",
+        "item_number": "CA-88",
+        "title": "Appointment of David J. Carey to serve on the Development Commission, replacing Marty Anderson with a new term expiration date of September 30, 2025. (resume attached).",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2693,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2694,
+        "item_type": "voted",
+        "item_number": "CA-87",
+        "title": "Appointment of Alfonso Hooper, 2517 Bethesda Avenue, Columbus, OH 43219 to serve on the North Central Area Commission with a new term start date of January 1, 2023 and an expiration date of Decembe...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2694,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2695,
+        "item_type": "voted",
+        "item_number": "CA-86",
+        "title": "Appointment of Bee Tolber, 1510 Chauncy Road, Columbus, OH 43219, to serve on the North Central Area Commission, with a new term start date of January 1, 2023 and an expiration date of December 31,...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 2695,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2696,
+        "item_type": "voted",
+        "item_number": "CA-85",
+        "title": "Appointment of Tiffany White, 1204 Woodnell Avenue, Columbus, OH 43219, to serve on the North Central Area Commission, with a new term start date of January 1, 2023 and an expiration date of Decemb...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Economic Development"
+        ],
+        "vote": {
+          "id": 2696,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2697,
+        "item_type": "voted",
+        "item_number": "CA-84",
+        "title": "Appointment of Tinisha Tolber, 2016 Jane Avenue, Columbus, OH 43219, to serve on the North Central Area Commission, with a new term start date of January 1, 2023 and an expiration date of December ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2697,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2698,
+        "item_type": "voted",
+        "item_number": "CA-83",
+        "title": "Appointment of Sean Ruffin, 1756 Meadowlawn Drive, Columbus, OH 43219, to serve on the North Central Area Commission with a new term start date of January 1, 2023 and an expiration date of December...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2698,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2699,
+        "item_type": "voted",
+        "item_number": "CA-82",
+        "title": "Appointment of Rebecca Egelhoff, to serve on the Board of Zoning Adjustment replacing William DeMora with a new term expiration date of December 1, 2023 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Planning & Development"
+        ],
+        "vote": {
+          "id": 2699,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2700,
+        "item_type": "voted",
+        "item_number": "CA-81",
+        "title": "Appointment of Helen Yee, 163 Richards Rd, Columbus, OH to serve on the Community Relations Commission with a new term expiration date of January 31, 2026 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2700,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2701,
+        "item_type": "voted",
+        "item_number": "CA-80",
+        "title": "Appointment of Linda Kanney, 971 Washington Street, Pickerington, OH to serve on the Community Relations Commission with a new term expiration date of January 31, 2026 (resume attached).",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2701,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2702,
+        "item_type": "voted",
+        "item_number": "CA-79",
+        "title": "Appointment of Kerry Reeds, PLA, with MKSK Studios, 462 S Ludlow St, Columbus, OH 43215  to serve on the University Impact District Review Board  (UIDRB) with a new term expiration date of 01/31/20...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2702,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2703,
+        "item_type": "voted",
+        "item_number": "CA-78",
+        "title": "Appointment of Elizabeth Miller, 2554 Swan Drive, Grove City, Ohio 43123, to serve on the Columbus Recreation and Parks Commission, replacing Jennifer Adair, with a term expiration date of December...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 2703,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2704,
+        "item_type": "voted",
+        "item_number": "CA-77",
+        "title": "Reappointment of Laurie A. Gunzelman, of Gunzelman Architecture + Interiors 333 Stewart Avenue, Columbus, OH 43206,  to serve on the University Impact District Review Board (UIDRB), to fill an Amer...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2704,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2705,
+        "item_type": "voted",
+        "item_number": "CA-76",
+        "title": "Reappointment of Keoni Fleming, of 2650 Glen Echo Drive, Columbus, OH 43201, to serve on the University Impact District Review Board (UIDRB), to fill an American Institute of Architects (AIA) seat,...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2705,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2706,
+        "item_type": "voted",
+        "item_number": "CA-75",
+        "title": "Reappointment of Kay Bea Jones, of The Ohio State University Knowlton School of Architecture, 275 West Woodruff Avenue, Suite 236, Columbus, OH 43210, to serve on the University Impact District Rev...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Appointments"
+        ],
+        "vote": {
+          "id": 2706,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2707,
+        "item_type": "voted",
+        "item_number": "CA-74",
+        "title": "To authorize the issuance and sale of a special assessment bond anticipation note in the amount of $161,000.00 for the Morningstar/North-Forty Street Lighting Assessment Project; and to declare an ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2707,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2708,
+        "item_type": "voted",
+        "item_number": "CA-73",
+        "title": "To authorize the Finance and Management Director to modify past, present and future contracts and purchase orders from Wolf Creek Company Inc.to Heritage Landscape Supply Group Inc. and to declare ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2708,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2709,
+        "item_type": "voted",
+        "item_number": "CA-72",
+        "title": "To authorize and direct the City Auditor’s Office to assign all past, present and future contracts from Dynamix Engineering Ltd. (aka Veregy) to IMEG Corp.; and to declare an emergency. ($0.00)",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2709,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2710,
+        "item_type": "voted",
+        "item_number": "CA-71",
+        "title": "To authorize the Finance and Management Director to enter into a Universal Term Contract for the option to purchase Plumbing Maintenance Services with The Waterworks LLC; to authorize the expenditu...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2710,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2711,
+        "item_type": "voted",
+        "item_number": "CA-70",
+        "title": "To authorize the Director of Finance and Management, on behalf of the Office of Construction Management, to enter into a construction contract with The Righter Co., Inc. for the Department of Publi...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2711,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2712,
+        "item_type": "voted",
+        "item_number": "CA-69",
+        "title": "To authorize the Director of the Department of Finance and Management to enter into a Subrecipient Agreement with the Legal Aid Society of Columbus to carry out the 2023 CDBG Fair Housing Services ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Grants"
+        ],
+        "vote": {
+          "id": 2712,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2713,
+        "item_type": "voted",
+        "item_number": "CA-68",
+        "title": "To formally accept certain real estate conveyed to the City that is being used for various public purposes; and to authorize the directors of the Departments of Public Utilities, Public Service, Fi...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Infrastructure"
+        ],
+        "vote": {
+          "id": 2713,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2714,
+        "item_type": "voted",
+        "item_number": "CA-67",
+        "title": "To authorize the Director of the Human Resources Department to renew the contract with Sedgwick Claims Management Services, Inc., to provide workers' compensation cost containment services from Mar...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2714,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2715,
+        "item_type": "voted",
+        "item_number": "CA-66",
+        "title": "To authorize the Director of the Department of Human Resources to renew the contract with Safex Inc. for the purpose of providing assistance as may be necessary in industrial hygiene services and o...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2715,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2716,
+        "item_type": "voted",
+        "item_number": "CA-65",
+        "title": "To authorize the Director of Public Service to apply for a grant with Ohio Environmental Protection Agency (OEPA); to authorize the execution of grant agreement and other requisite agreements relat...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2716,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2717,
+        "item_type": "voted",
+        "item_number": "CA-64",
+        "title": "To authorize the Finance and Management Director to modify and extend two (2) Universal Term Contracts for the option to purchase SWAT Tactical Gear with Highcom Armor Solutions, Inc., and Shot Sto...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2717,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2718,
+        "item_type": "voted",
+        "item_number": "CA-63",
+        "title": "To authorize an appropriation of $282,200.00 from the unappropriated balance of the Law Enforcement Contraband Seizure Fund to the Division of Police to fund travel and training needs, computer ser...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2718,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2719,
+        "item_type": "voted",
+        "item_number": "CA-62",
+        "title": "To authorize the Director of Finance and Management to sell to Officer Jesse M. Smith #1386 for the sum of $1.00 SWAT Officer Steven Smith’s service weapon which has no further value to the Divisio...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2719,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2720,
+        "item_type": "voted",
+        "item_number": "CA-61",
+        "title": "To authorize the appropriation and expenditure of $117,620.92 from Fund 7748, the General Permanent Improvement Fund; to authorize Director of Finance and Management to enter into a contract with K...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2720,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2721,
+        "item_type": "voted",
+        "item_number": "CA-60",
+        "title": "To authorize the City Clerk to enter into a grant agreement with After-School All Stars Ohio in support of the organization’s mentorship program; to authorize an appropriation and expenditure withi...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2721,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2722,
+        "item_type": "voted",
+        "item_number": "CA-59",
+        "title": "To authorize the City Clerk to enter into a grant agreement with Franklinton Farms in support of new and expanded community programming; to authorize an appropriation and expenditure within the Nei...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2722,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2723,
+        "item_type": "voted",
+        "item_number": "CA-58",
+        "title": "To authorize the Director of the Department of Development to modify a contract with the Community Shelter Board to extend the contract term for the initiatives to address homelessness in the City ...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Housing"
+        ],
+        "vote": {
+          "id": 2723,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2724,
+        "item_type": "voted",
+        "item_number": "CA-57",
+        "title": "To authorize the Director of the Department of Development to enter into a not-for-profit service contract with the Tony R Wells Foundation in an amount up to $765,662.00 to provide relocation supp...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2724,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2725,
+        "item_type": "voted",
+        "item_number": "CA-56",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with the Community Shelter Board in an amount up to $184,340.00 to provide housing support and service coo...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2725,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 0,
+          "abstain": 2,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2726,
+        "item_type": "voted",
+        "item_number": "CA-55",
+        "title": "To authorize the Board of Health to enter into a contract with Equitas Health; to authorize the Board of Health to modify the contract solely when portions of previously appropriated and encumbered...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2726,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2727,
+        "item_type": "voted",
+        "item_number": "CA-54",
+        "title": "To authorize and direct the Board of Health to accept a grant from the Ohio Department of Health for the Integrated Naloxone Access and Infrastructure gap funding grant in the amount of $20,000.00;...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 2727,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2728,
+        "item_type": "voted",
+        "item_number": "CA-53",
+        "title": "To authorize and direct the Board of Health to accept grant funds from the Ohio Commission on Minority Health in the amount of $8,500.00 and any additional funds for 2023 Minority Health Month Gran...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 2728,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2729,
+        "item_type": "voted",
+        "item_number": "CA-52",
+        "title": "To authorize and direct the Board of Health to accept additional grant funds from the Ohio Department of Health for the Reproductive Health and Wellness Grant Program in the amount of $16,900.00; t...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 2729,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2730,
+        "item_type": "voted",
+        "item_number": "CA-51",
+        "title": "To authorize the Director of the Department of Development to enter into option agreements and to execute any and all necessary agreements and deeds for conveyance of title of thirty-eight (38) par...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Health & Safety"
+        ],
+        "vote": {
+          "id": 2730,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2731,
+        "item_type": "voted",
+        "item_number": "CA-50",
+        "title": "To amend the 2022 Capital Improvement Budget; to authorize the Auditor to transfer funds within the Development Taxable Bonds Fund; to authorize the Director of the Department of Development, or hi...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2731,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2732,
+        "item_type": "voted",
+        "item_number": "CA-49",
+        "title": "To authorize the Director of the Department of Development to execute any and all necessary agreements, documents and deeds for conveyance of title of one parcel of real property (1343 Brookcliff A...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2732,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2733,
+        "item_type": "voted",
+        "item_number": "CA-48",
+        "title": "To authorize the Director of the Department of Development to execute any and all necessary agreements and deeds for conveyance of title of one parcel of real property (444 S Warren Ave.) held in t...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2733,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2734,
+        "item_type": "voted",
+        "item_number": "CA-47",
+        "title": "To authorize the Director of the Department of Development to execute any and all necessary agreements and deeds for conveyance of title of four parcels of real property (0000 Groves Rd., Lot 128, ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2734,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2735,
+        "item_type": "voted",
+        "item_number": "CA-46",
+        "title": "To modify and extend the terms of the revenue contracts initially authorized by Ordinance 2249-2022, allowing the Department of Building and Zoning Services to provide residential building official...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2735,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2736,
+        "item_type": "voted",
+        "item_number": "CA-45",
+        "title": "To authorize the Finance and Management Director to enter into a contract for the option to purchase Liquid Caustic Soda with Bonded Chemical, Inc.; to authorize the expenditure of $1.00; and to de...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2736,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2737,
+        "item_type": "voted",
+        "item_number": "CA-44",
+        "title": "To authorize the Finance and Management Director to enter into a contract for the option to purchase Soda Ash with Bonded Chemicals, Inc.; to authorize the expenditure of $1.00; and to declare an e...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2737,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2738,
+        "item_type": "voted",
+        "item_number": "CA-43",
+        "title": "To authorize the Finance and Management Director to enter into a contract for the option to purchase Sewer Combination Trucks UTC with Jack Doheny Companies Inc.; to authorize the expenditure of $1...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2738,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2739,
+        "item_type": "voted",
+        "item_number": "CA-42",
+        "title": "To authorize the Finance and Management Director to enter into a contract for the option to purchase Hydrofluosilicic Acid with Alexander Chemical Corporation; to authorize the expenditure of $1.00...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2739,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2740,
+        "item_type": "voted",
+        "item_number": "CA-41",
+        "title": "To authorize the Finance and Management Director to enter into a contract for the option to purchase Zinc Orthophosphate with Shannon Chemical Group; to authorize the expenditure of $1.00; and to d...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2740,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2741,
+        "item_type": "voted",
+        "item_number": "CA-40",
+        "title": "To authorize the Finance and Management Director to enter into a contract for the option to purchase Potassium Permanganate with Bonded Chemical, Inc.; to authorize the expenditure of $1.00; and to...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2741,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2742,
+        "item_type": "voted",
+        "item_number": "CA-39",
+        "title": "To authorize an amendment to the 2022 Capital Improvement Budget; to authorize the Director of Public Utilities to enter into a contract with DLZ Ohio for the Heyl Avenue Area Water Line Improvemen...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2742,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2743,
+        "item_type": "voted",
+        "item_number": "CA-38",
+        "title": "To authorize an amendment to the 2022 Capital Improvement Budget; to authorize the Director of Public Utilities to enter into a contract with Andover Associates for the DOSD Roof Replacements No. 3...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2743,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2744,
+        "item_type": "voted",
+        "item_number": "CA-37",
+        "title": "To authorize an amendment to the 2022 Capital Improvement Budget; to authorize the Director of Public Utilities to modify the 2020-2022 Construction Administration and Inspection Services contract ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2744,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2745,
+        "item_type": "voted",
+        "item_number": "CA-36",
+        "title": "To authorize the Director of Finance and Management to associate all General Budget reservations resulting from this ordinance with the appropriate Universal Term Contract Purchase Agreements for t...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2745,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2746,
+        "item_type": "voted",
+        "item_number": "CA-35",
+        "title": "To authorize an amendment to the 2022 Capital Improvements Budget; to authorize a transfer of cash and appropriation within the Water Bond Fund; to authorize the Director of Public Utilities to ent...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2746,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2747,
+        "item_type": "voted",
+        "item_number": "CA-34",
+        "title": "To authorize the Director of Finance and Management to associate all General Budget Reservations for the purchase of Cellular Voice and Wireless Data Communication Services for the Department of Pu...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2747,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2748,
+        "item_type": "voted",
+        "item_number": "CA-33",
+        "title": "To authorize an amendment to the 2022 Capital Improvement Budget; to authorize the Director of Public Utilities to execute a planned modification of the 2020 - 2022 Construction Administration and ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2748,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2749,
+        "item_type": "voted",
+        "item_number": "CA-32",
+        "title": "To authorize the Director of Public Utilities to execute a planned modification to the 2020-2022 Construction Administration/Inspection Services contract with DLZ Ohio for the Varsity Avenue Area W...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2749,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2750,
+        "item_type": "voted",
+        "item_number": "CA-31",
+        "title": "To authorize the Director of the Mayor’s Office of Education to use the available funding on ACPO008302 for the purpose of entering into contracts that align with the goals of the Office of Educati...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2750,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2751,
+        "item_type": "voted",
+        "item_number": "CA-30",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with CEC to provide architectural and engineering services for the Maloney Park Improvements 2022 Project; to authorize the ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2751,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2752,
+        "item_type": "voted",
+        "item_number": "CA-29",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Municipal and Contractors Sealing Products for the Big Run Culvert Improvements Project; to authorize the transfer of $...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2752,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2753,
+        "item_type": "voted",
+        "item_number": "CA-28",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Greenscapes Landscape Company for the Street Trees - Spring 2023 Project; to authorize the transfer of $25,438.91 withi...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2753,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2754,
+        "item_type": "voted",
+        "item_number": "CA-27",
+        "title": "To authorize and direct the City Auditor to establish an auditor’s certificate in the amount of $337,150.00 for the purchase of portable toilet rental services for the Recreation and Parks Departme...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Economic Development"
+        ],
+        "vote": {
+          "id": 2754,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2755,
+        "item_type": "voted",
+        "item_number": "CA-26",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Tyevco for the Minor Facility Improvements 2022 Project; to authorize the transfer of $667,000.00 within the Recreation...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2755,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2756,
+        "item_type": "voted",
+        "item_number": "CA-25",
+        "title": "To authorize the Director of Recreation and Parks to enter into a grant agreement with the Oho Public Works Commission for the West Franklinton Greenspace Project and accept a grant in the amount o...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2756,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2757,
+        "item_type": "voted",
+        "item_number": "CA-24",
+        "title": "To authorize the Director of Recreation and Parks to enter into contract with Tyevco for the Griggs Stairs Repairs Project; to authorize the transfer of $53,450.00 within the Recreation and Parks V...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2757,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2758,
+        "item_type": "voted",
+        "item_number": "CA-23",
+        "title": "To authorize the Director of Recreation and Parks to enter into a sublease agreement with Community for New Direction, Inc. to occupy, provide services and manage the first and second floor of the ...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Parks & Recreation"
+        ],
+        "vote": {
+          "id": 2758,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2759,
+        "item_type": "voted",
+        "item_number": "CA-22",
+        "title": "To authorize the Finance and Management Director to modify past, present and future contract and purchase orders from Calcium Chloride Sales to Da-Lee Group, DBA Calcium Chloride Sales and to decla...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2759,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2760,
+        "item_type": "voted",
+        "item_number": "CA-21",
+        "title": "To authorize the Director of Public Service to pay utility relocation costs to AT&T for the Miscellaneous Economic Development - West Franklinton - Cover My Meds; to authorize the expenditure of up...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Economic Development",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2760,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2761,
+        "item_type": "voted",
+        "item_number": "CA-20",
+        "title": "To authorize the Director of the Department of Public Service to execute those documents necessary for the City to grant a revocable encroachment easement to RS Riverside Drive, LLC located at 5350...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Emergency Services",
+          "Grants",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2761,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2762,
+        "item_type": "voted",
+        "item_number": "CA-19",
+        "title": "To amend the 2022 Capital Improvements Budget; to authorize the Director of Public Service to enter into a contract modification with Shelly & Sands, Inc. in connection with the Roadway Improvement...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2762,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2763,
+        "item_type": "voted",
+        "item_number": "CA-18",
+        "title": "To amend the 2022 Capital Improvement Budget; to authorize the Director of Public Service to enter into a contract modification with Toole Design Group in connection with the Operation Sidewalks - ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2763,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2764,
+        "item_type": "voted",
+        "item_number": "CA-17",
+        "title": "To amend the 2022 Capital Improvements Budget; to authorize the transfer of funds between projects within the Streets and Highways Bond Fund; to authorize the Director of Public Service to enter in...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2764,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2765,
+        "item_type": "voted",
+        "item_number": "CA-16",
+        "title": "To amend the 2022 Capital Improvements Budget; to authorize the transfer of funds within the Streets and Highways Bond Fund; to appropriate funds within the Federal Transportation Grant Fund; to au...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 2765,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2766,
+        "item_type": "voted",
+        "item_number": "CA-15",
+        "title": "To authorize the Director of Public Service to enter into agreements with CSX Transportation and Norfolk Southern Railway Company relative to the Bridge Rehabilitation - Whittier Street Bridge Reha...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2766,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2767,
+        "item_type": "voted",
+        "item_number": "CA-14",
+        "title": "To authorize the Director of Public Service to grant consent and propose cooperation with the Director of the Ohio Department of Transportation, State of Ohio for the FRA-40-7.00 project, PID 93173...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Emergency Services",
+          "Grants",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 2767,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2768,
+        "item_type": "voted",
+        "item_number": "CA-13",
+        "title": "To authorize the Director of Public Service to grant consent and propose cooperation with the Director of the Ohio Department of Transportation relative to the FRA-70-12.68 project, PID 77372; to a...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Grants"
+        ],
+        "vote": {
+          "id": 2768,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2769,
+        "item_type": "voted",
+        "item_number": "CA-12",
+        "title": "To declare the City’s necessity and intent to appropriate and accept certain fee simple title and lesser real estate in order to complete the Signals - Summit Street - Warren St. to E. 7th Project;...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2769,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2770,
+        "item_type": "voted",
+        "item_number": "CA-11",
+        "title": "To declare the City’s necessity and intent to appropriate and accept certain fee simple title and lesser real estate in order to complete the Arterial Street Rehabilitation-E. Broad Street Widening...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Property & Real Estate",
+          "Transportation"
+        ],
+        "vote": {
+          "id": 2770,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2771,
+        "item_type": "voted",
+        "item_number": "CA-10",
+        "title": "To authorize the City Clerk to enter into a grant agreement with MORE, Inc, to support the organization’s youth conference and program; and to authorize an appropriation and expenditure within the ...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2771,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2772,
+        "item_type": "voted",
+        "item_number": "CA-9",
+        "title": "To authorize the City Clerk to enter into a contract with Keys to Black Wealth LLC to provide financial services at their annual Black History Month Experience promoting financial wellness; to auth...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2772,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2773,
+        "item_type": "voted",
+        "item_number": "CA-8",
+        "title": "To amend Ordinance 1226-2022, passed by Columbus City Council on May 09, 2022, for the purpose of revising the 90-day period needed to execute the First Amendment to the City of Columbus Jobs Growt...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Economic Development",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2773,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2774,
+        "item_type": "voted",
+        "item_number": "CA-7",
+        "title": "To amend the 2022 Capital Improvement Budget; to authorize the City Auditor to transfer funds within the Development Taxable Bond Fund; To authorize the Director of the Department of Development to...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2774,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2775,
+        "item_type": "voted",
+        "item_number": "CA-6",
+        "title": "To set forth a statement of municipal services and zoning conditions to be provided to the area contained in a proposed annexation (AN22-019) of 7.80± Acres in Norwich Township to the city of Colum...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Emergency Services",
+          "Planning & Development"
+        ],
+        "vote": {
+          "id": 2775,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2776,
+        "item_type": "voted",
+        "item_number": "CA-5",
+        "title": "To determine that the Amendment to Petition for Organization of a New Community Authority, to add certain developer-owned or controlled property to the RiverSouth New Community Authority (the “Rive...",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Emergency Services",
+          "Property & Real Estate"
+        ],
+        "vote": {
+          "id": 2776,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2777,
+        "item_type": "voted",
+        "item_number": "CA-4",
+        "title": "To Honor, Recognize, and Celebrate the Reverend Dr. Lawrence Edward Carter",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 2777,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2778,
+        "item_type": "voted",
+        "item_number": "CA-3",
+        "title": "To Recognize the City of Curitiba, Brazil and Celebrate the City of Columbus’ Official Visit to our Sister City",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 2778,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2779,
+        "item_type": "voted",
+        "item_number": "CA-2",
+        "title": "To honor, recognize and celebrate the life of Douglas C. Moore, 1946 - 2022.",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 2779,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2780,
+        "item_type": "voted",
+        "item_number": "CA-1",
+        "title": "To Honor, Recognize, and Celebrate William David Jones and to Extend our Sincerest Condolences to his Family and Friends",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 2780,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2781,
+        "item_type": "voted",
+        "item_number": "FR",
+        "title": "FIRST READING OF 30-DAY LEGISLATION",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 2781,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2784,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "Approval of the Consent Agenda",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 2784,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2785,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with the Community Shelter Board in an amount up to $184,340.00 to provide housing support and service coo...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2785,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 0,
+          "abstain": 2,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 2786,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the Director of the Department of Development to enter into a grant agreement with the Community Shelter Board in an amount up to $184,340.00 to provide housing support and service coo...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 2786,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 0,
+          "abstain": 2,
+          "absent": 0
+        }
+      }
+    ]
+  }
+}

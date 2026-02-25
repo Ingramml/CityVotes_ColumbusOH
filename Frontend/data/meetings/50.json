@@ -1,0 +1,661 @@
+{
+  "success": true,
+  "meeting": {
+    "id": 50,
+    "event_id": "5874",
+    "meeting_date": "2022-05-23",
+    "meeting_type": "regular",
+    "legistar_url": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=5874&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337",
+    "agenda_url": "https://legistar3.granicus.com/Columbus/meetings/2022/5/5874_A_Columbus_City_Council_22-05-23_Agenda.pdf",
+    "minutes_url": "https://legistar3.granicus.com/Columbus/meetings/2022/5/5874_M_Columbus_City_Council_22-05-23_Minutes_-_Final.pdf",
+    "video_url": null,
+    "vote_count": 30,
+    "non_voted_count": 98,
+    "first_reading_count": 13,
+    "agenda_item_count": 128,
+    "agenda_items": [
+      {
+        "agenda_sequence": 2,
+        "item_type": "voted",
+        "item_number": "2",
+        "title": "To Honor and Recognize May 25th as Africa Day in Columbus",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 4632,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "To honor, recognize, and celebrate Joseph A. Lombardi for his 32 years of public service and dedication to the City of Columbus.",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 4631,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 3,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "READING AND DISPOSAL OF THE JOURNAL",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 4633,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "voted",
+        "item_number": "4",
+        "title": "To honor and celebrate Shelly Beiting for her years of distinguished service as the Executive Director for the Columbus Women’s Commission.",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 4630,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 5,
+        "item_type": "voted",
+        "item_number": "5",
+        "title": "To recognize and congratulate Randolph J. Malloy on 30 incredible years with CD 92.9 FM.",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 4629,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4610,
+        "item_type": "voted",
+        "item_number": "SR-13",
+        "title": "To amend section 111.12 of Chapter 111 of the Columbus City Codes to clarify the rules for speaking before City Council; and to declare an emergency.",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4610,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4611,
+        "item_type": "voted",
+        "item_number": "SR-12",
+        "title": "To approve the Memorandum of Understanding #2022-05 executed between representatives of the City of Columbus and Fraternal Order of Police, Capital City Lodge #9, which provides pay at double the s...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services",
+          "Housing"
+        ],
+        "vote": {
+          "id": 4611,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4612,
+        "item_type": "voted",
+        "item_number": "SR-11",
+        "title": "To amend the 2021 Capital Improvement Budget; to authorize the City Auditor to contract with OnActuate Consulting and to modify the contract for Microsoft licensing and services through Dell Market...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4612,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4613,
+        "item_type": "voted",
+        "item_number": "SR-10",
+        "title": "To authorize the Director of Public Safety to enter into contract with Street Smart Rentals, LLC in order to rent temporary lights and security camera systems for deployment in city parks; to autho...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4613,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4614,
+        "item_type": "voted",
+        "item_number": "SR-9",
+        "title": "To authorize and direct the Director of Finance and Management to enter into a contract with Vance Outdoors, Inc. for the purchase of semi-automatic pistols for the Division of Police; to authorize...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4614,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4615,
+        "item_type": "voted",
+        "item_number": "SR-8",
+        "title": "To authorize the Director of Public Safety to enter into a contract for maintenance and repair services for Crime Lab instruments with Life Technologies Corporation; to waive the competitive biddin...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4615,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4616,
+        "item_type": "voted",
+        "item_number": "SR-7",
+        "title": "To authorize and direct the Administrative and Presiding Judge of the Franklin County Municipal Court to enter into contract with Proteam Solutions Inc. for two IT service desk technician consultan...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4616,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4617,
+        "item_type": "voted",
+        "item_number": "SR-6",
+        "title": "To authorize the Director of Recreation and Parks to enter into an agreement with Trinity Transition Consultants, LLC (TTC) to provide support services in developing sustainable, diverse, equitable...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4617,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4618,
+        "item_type": "voted",
+        "item_number": "SR-5",
+        "title": "To authorize the City Auditor to renew the existing contract with Ceridian HCM Holding Inc. and provide funding for the support, hosting, and maintenance of Dayforce HCM; to authorize the expenditu...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4618,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4619,
+        "item_type": "voted",
+        "item_number": "SR-4",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Williams Interior Design, and to appropriate and expend a total of $44,130.05$46,004.41 from Fund 7748, the General...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4619,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4620,
+        "item_type": "voted",
+        "item_number": "SR-3",
+        "title": "To authorize the expenditure of up to $1,915,688 $1,865,688 within the Department of Neighborhoods; to authorize the Director of Neighborhoods to enter into non-profit service agreements with the f...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 4620,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4621,
+        "item_type": "voted",
+        "item_number": "SR-2",
+        "title": "To authorize the appropriation of $1,000,000.00 from the unappropriated balance from the Mobility Enterprise Fund, Division of the Director’s Office, Department of Public Service; and to declare an...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Emergency Services",
+          "Public Works"
+        ],
+        "vote": {
+          "id": 4621,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4622,
+        "item_type": "voted",
+        "item_number": "SR-1",
+        "title": "To amend the 2021 Capital Improvement Budget; to authorize the City Auditor to transfer between projects within the Affordable Housing Bond Fund; to authorize the City Auditor to transfer between p...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4622,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4623,
+        "item_type": "voted",
+        "item_number": "CA-21",
+        "title": "To authorize the Director of the Office of Education to enter into a renewal contract with YMCA of Central Ohio for the 2021-2022 fourth payment and to provide funding for educational summer progra...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4623,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4624,
+        "item_type": "voted",
+        "item_number": "CA-20",
+        "title": "To authorize and direct the Executive Director of the Mayor’s Office of Education to extend a contract with YMCA of Central Ohio for the purpose of supporting the Fresh Start Program; and to declar...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4624,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4625,
+        "item_type": "voted",
+        "item_number": "CA-15",
+        "title": "To authorize the City Clerk to enter into a grant agreement with the Columbus Urban League to support the organization’s annual Fishing with Dad event; to authorize an appropriation and expenditure...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4625,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4626,
+        "item_type": "voted",
+        "item_number": "CA-14",
+        "title": "To authorize the Director of the Department of Neighborhoods to enter into a grant agreement with United Way of Central Ohio in support of the One Linden Schools Project; to authorize the expenditu...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4626,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4627,
+        "item_type": "voted",
+        "item_number": "CA-1",
+        "title": "To celebrate the 2022 Pride Month and Annual Pride Festival and March, “The People’s Pride”",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Ordinances & Resolutions"
+        ],
+        "vote": {
+          "id": 4627,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4628,
+        "item_type": "voted",
+        "item_number": "FR",
+        "title": "FIRST READING OF 30-DAY LEGISLATION",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 4628,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4634,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "Approval of the Consent Agenda",
+        "section": "CONSENT",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "General"
+        ],
+        "vote": {
+          "id": 4634,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4635,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the expenditure of up to $1,915,688 $1,865,688 within the Department of Neighborhoods; to authorize the Director of Neighborhoods to enter into non-profit service agreements with the f...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 4635,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4636,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the expenditure of up to $1,915,688 $1,865,688 within the Department of Neighborhoods; to authorize the Director of Neighborhoods to enter into non-profit service agreements with the f...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 4636,
+          "outcome": "PASS",
+          "ayes": 5,
+          "noes": 0,
+          "abstain": 2,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4637,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the expenditure of up to $1,915,688 $1,865,688 within the Department of Neighborhoods; to authorize the Director of Neighborhoods to enter into non-profit service agreements with the f...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Community Services",
+          "Contracts & Agreements"
+        ],
+        "vote": {
+          "id": 4637,
+          "outcome": "PASS",
+          "ayes": 6,
+          "noes": 0,
+          "abstain": 1,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4638,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Williams Interior Design, and to appropriate and expend a total of $44,130.05$46,004.41 from Fund 7748, the General...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4638,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      },
+      {
+        "agenda_sequence": 4639,
+        "item_type": "voted",
+        "item_number": "0",
+        "title": "To authorize the Director of Finance and Management to enter into a contract with Williams Interior Design, and to appropriate and expend a total of $44,130.05$46,004.41 from Fund 7748, the General...",
+        "section": "GENERAL",
+        "matter_file": null,
+        "matter_type": null,
+        "topics": [
+          "Budget & Finance",
+          "Contracts & Agreements",
+          "Emergency Services"
+        ],
+        "vote": {
+          "id": 4639,
+          "outcome": "PASS",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      }
+    ]
+  }
+}

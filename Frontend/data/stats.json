@@ -1,17 +1,17 @@
 {
   "success": true,
   "stats": {
-    "total_meetings": 0,
-    "total_votes": 0,
-    "total_council_members": 0,
-    "pass_rate": null,
-    "unanimous_rate": null,
-    "total_agenda_items": 0,
-    "total_non_voted_items": 0,
-    "first_readings": 0,
+    "total_meetings": 64,
+    "total_votes": 5717,
+    "total_council_members": 8,
+    "pass_rate": 99.91,
+    "unanimous_rate": 92.57,
+    "total_agenda_items": 7404,
+    "total_non_voted_items": 1687,
+    "first_readings": 1580,
     "date_range": {
-      "start": "",
-      "end": ""
+      "start": "2022-01-03",
+      "end": "2023-12-11"
     }
   }
 }

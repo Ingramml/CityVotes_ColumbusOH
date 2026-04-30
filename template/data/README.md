@@ -10,11 +10,13 @@ Place these JSON files in this folder to populate the website.
 | `council.json` | All council members summary |
 | `council/{id}.json` | Individual member details + vote history |
 | `meetings.json` | All meetings list |
+| `meetings/{id}.json` | Individual meeting detail with full agenda |
 | `votes.json` | All votes combined |
 | `votes-{year}.json` | Votes split by year (for performance) |
 | `votes-index.json` | Available years index |
 | `votes/{id}.json` | Individual vote detail with member votes |
 | `alignment.json` | Voting alignment between member pairs |
+| `agenda-items.json` | Non-voted agenda items (first readings, etc.) |
 
 ---
 
@@ -28,6 +30,9 @@ Place these JSON files in this folder to populate the website.
     "total_meetings": 70,
     "total_votes": 1244,
     "total_council_members": 7,
+    "total_agenda_items": 2500,
+    "total_non_voted_items": 1256,
+    "first_readings": 400,
     "pass_rate": 95.1,
     "unanimous_rate": 73.8,
     "date_range": {
@@ -116,13 +121,93 @@ Place these JSON files in this folder to populate the website.
   "meetings": [
     {
       "id": 1,
+      "event_id": "6137",
       "meeting_date": "YYYY-MM-DD",
       "meeting_type": "regular|special",
+      "legistar_url": "https://...|null",
       "agenda_url": "https://...|null",
       "minutes_url": "https://...|null",
       "video_url": "https://...|null",
-      "agenda_item_count": 23,
-      "vote_count": 23
+      "agenda_item_count": 268,
+      "vote_count": 195,
+      "non_voted_count": 73,
+      "first_reading_count": 18
+    }
+  ]
+}
+```
+
+### meetings/{id}.json
+```json
+{
+  "success": true,
+  "meeting": {
+    "id": 1,
+    "event_id": "6137",
+    "meeting_date": "YYYY-MM-DD",
+    "meeting_type": "regular|special",
+    "legistar_url": "https://...|null",
+    "agenda_url": "https://...|null",
+    "minutes_url": "https://...|null",
+    "video_url": "https://...|null",
+    "vote_count": 195,
+    "non_voted_count": 73,
+    "first_reading_count": 18,
+    "agenda_item_count": 268,
+    "agenda_items": [
+      {
+        "agenda_sequence": 0,
+        "item_type": "non_voted",
+        "category": "committee_header|first_reading|read_and_filed|adopted_no_vote|corrections|other",
+        "importance": "high|medium|low",
+        "display_type": "section_header|legislation|procedural",
+        "title": "Item title text",
+        "matter_file": "0001-2024|null",
+        "matter_type": "Ordinance|Resolution|null",
+        "action": "Read for the First Time|null",
+        "description": "Full description text|null",
+        "topics": ["Topic1"]
+      },
+      {
+        "agenda_sequence": 4,
+        "item_type": "voted",
+        "item_number": "3",
+        "title": "Vote title text",
+        "section": "CONSENT|GENERAL|PUBLIC_HEARING",
+        "matter_file": "0001-2024",
+        "matter_type": "Ordinance",
+        "topics": ["Budget & Finance"],
+        "vote": {
+          "id": 123,
+          "outcome": "PASS|FAIL|CONTINUED|TABLED|WITHDRAWN",
+          "ayes": 7,
+          "noes": 0,
+          "abstain": 0,
+          "absent": 0
+        }
+      }
+    ]
+  }
+}
+```
+
+### agenda-items.json
+```json
+{
+  "success": true,
+  "agenda_items": [
+    {
+      "event_item_id": "554873",
+      "meeting_date": "YYYY-MM-DD",
+      "meeting_id": 1,
+      "agenda_sequence": 14,
+      "title": "Item title text",
+      "matter_file": "0002-2024",
+      "matter_type": "Ordinance|Resolution",
+      "action": "Read for the First Time|Read & Filed|Adopted (No Vote)",
+      "category": "first_reading|read_and_filed|adopted_no_vote|other",
+      "topics": ["Budget & Finance", "Infrastructure"],
+      "description_preview": "First 200 chars of description..."
     }
   ]
 }
@@ -207,7 +292,9 @@ Place these JSON files in this folder to populate the website.
 }
 ```
 
-## Topic Categories (16)
+## Topic Categories
+
+Topics are dynamically extracted from the data. Common categories include:
 
 1. Appointments
 2. Budget & Finance
@@ -225,3 +312,5 @@ Place these JSON files in this folder to populate the website.
 14. Public Works
 15. Transportation
 16. General (fallback)
+
+Additional topics may appear depending on your city's data (e.g., Grants, Education, etc.). The UI populates topic filters dynamically from the data.

@@ -149,7 +149,11 @@
                         <span class="badge fs-5" id="outcomeBadge">--</span>
                     </div>
                     <h1 id="voteTitle">--</h1>
-                    <p class="text-muted" id="voteDescription"></p>
+                    <div id="voteDescriptionContainer" style="display:none;">
+                        <p class="text-muted mb-1" id="voteDescriptionPreview"></p>
+                        <p class="text-muted mb-1" id="voteDescriptionFull" style="display:none; white-space:pre-line;"></p>
+                        <a href="#" id="descriptionToggle" class="small text-decoration-none" style="display:none;">Read more</a>
+                    </div>
 
                     <!-- Meeting date link: clicking navigates to the full
                          meeting-detail page. The pipe separator visually
@@ -449,7 +453,28 @@
         outcomeBadge.className = `badge fs-5 ${vote.outcome === 'PASS' ? 'bg-success' : 'bg-danger'}`;
 
         if (vote.description) {
-            document.getElementById('voteDescription').textContent = vote.description;
+            const MAX_PREVIEW = 300;
+            const container = document.getElementById('voteDescriptionContainer');
+            const preview = document.getElementById('voteDescriptionPreview');
+            const full = document.getElementById('voteDescriptionFull');
+            const toggle = document.getElementById('descriptionToggle');
+            container.style.display = 'block';
+
+            if (vote.description.length > MAX_PREVIEW) {
+                preview.textContent = vote.description.substring(0, MAX_PREVIEW) + '...';
+                full.textContent = vote.description;
+                toggle.style.display = 'inline';
+                let expanded = false;
+                toggle.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    expanded = !expanded;
+                    preview.style.display = expanded ? 'none' : 'block';
+                    full.style.display = expanded ? 'block' : 'none';
+                    toggle.textContent = expanded ? 'Show less' : 'Read more';
+                });
+            } else {
+                preview.textContent = vote.description;
+            }
         }
 
         document.getElementById('meetingDate').textContent = formatDate(vote.meeting_date);
@@ -462,7 +487,7 @@
         document.getElementById('abstainCount').textContent = vote.abstain;
         document.getElementById('absentCount').textContent = vote.absent;
 
-        const total = vote.ayes + vote.noes + vote.abstain + vote.absent;
+        const total = (vote.ayes + vote.noes + (vote.abstain || 0) + (vote.absent || 0)) || 1;
         document.getElementById('ayeBar').style.width = `${(vote.ayes / total * 100)}%`;
         document.getElementById('nayBar').style.width = `${(vote.noes / total * 100)}%`;
         document.getElementById('abstainBar').style.width = `${(vote.abstain / total * 100)}%`;
@@ -553,7 +578,7 @@
      * Example: "2024-03-05" -> "Tuesday, March 5, 2024"
      */
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
     }
     </script>

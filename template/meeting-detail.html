@@ -183,30 +183,36 @@
             </div>
 
             <!-- ---------------------------------------------------------------
-                 STATISTICS ROW - Three Summary Cards
-                 - Uses Bootstrap's 12-column grid: three col-md-4 columns
-                   (each 4/12 = one-third width on medium+ screens; full-width on mobile).
+                 STATISTICS ROW - Four Summary Cards
+                 - Uses Bootstrap's 12-column grid: four col-md-3 columns
+                   (each 3/12 = one-quarter width on medium+ screens; full-width on mobile).
                  - Each card is a centered Bootstrap .card with a colored heading number
                    and a muted label underneath.
 
-                 Card 1 - Votes Taken (col-md-4):
+                 Card 1 - Votes Taken (col-md-3):
                    - #statVotes: Total number of votes in this meeting.
                    - Data field: meeting.vote_count
                    - Color: text-primary (Bootstrap blue)
 
-                 Card 2 - Passed (col-md-4):
+                 Card 2 - Passed (col-md-3):
                    - #statPassed: Number of agenda items whose vote outcome was "PASS".
                    - Data field: Computed by filtering meeting.agenda_items where
                      item.vote.outcome === 'PASS'.
                    - Color: text-success (Bootstrap green)
 
-                 Card 3 - Agenda Items (col-md-4):
-                   - #statItems: Total number of agenda items in the meeting.
-                   - Data field: meeting.agenda_items.length
+                 Card 3 - First Readings (col-md-3):
+                   - #statFirstReadings: Number of first reading items.
+                   - Data field: Computed by filtering meeting.agenda_items where
+                     item.category === 'first_reading'.
                    - Color: text-info (Bootstrap cyan/teal)
+
+                 Card 4 - Total Agenda Items (col-md-3):
+                   - #statItems: Total number of agenda items in the meeting.
+                   - Data field: meeting.agenda_item_count
+                   - Color: text-secondary (Bootstrap gray)
             --------------------------------------------------------------- -->
             <div class="row mb-4">
-                <div class="col-md-4 mb-3">
+                <div class="col-md-3 mb-3">
                     <div class="card text-center">
                         <div class="card-body">
                             <h3 class="text-primary" id="statVotes">--</h3>
@@ -214,7 +220,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 mb-3">
+                <div class="col-md-3 mb-3">
                     <div class="card text-center">
                         <div class="card-body">
                             <h3 class="text-success" id="statPassed">--</h3>
@@ -222,11 +228,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 mb-3">
+                <div class="col-md-3 mb-3">
                     <div class="card text-center">
                         <div class="card-body">
-                            <h3 class="text-info" id="statItems">--</h3>
-                            <small class="text-muted">Agenda Items</small>
+                            <h3 class="text-info" id="statFirstReadings">--</h3>
+                            <small class="text-muted">First Readings</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <h3 class="text-secondary" id="statItems">--</h3>
+                            <small class="text-muted">Total Agenda Items</small>
                         </div>
                     </div>
                 </div>
@@ -383,17 +397,63 @@
                 <i class="fas fa-video me-1"></i>Watch Video
             </a>`;
         }
+        if (meeting.legistar_url) {
+            links += `<a href="${meeting.legistar_url}" target="_blank" class="btn btn-outline-info me-2 mb-2">
+                <i class="fas fa-external-link-alt me-1"></i>Legistar
+            </a>`;
+        }
         document.getElementById('documentLinks').innerHTML = links || '<span class="text-muted">No documents available</span>';
 
         // Stats
         const passedCount = meeting.agenda_items.filter(item => item.vote && item.vote.outcome === 'PASS').length;
+        const firstReadingCount = meeting.agenda_items.filter(item => item.category === 'first_reading').length;
         document.getElementById('statVotes').textContent = meeting.vote_count;
         document.getElementById('statPassed').textContent = passedCount;
-        document.getElementById('statItems').textContent = meeting.agenda_items.length;
+        document.getElementById('statFirstReadings').textContent = firstReadingCount;
+        document.getElementById('statItems').textContent = meeting.agenda_item_count;
 
         // Agenda items
         const agendaList = document.getElementById('agendaItems');
         agendaList.innerHTML = meeting.agenda_items.map(item => {
+            // Section headers (committee names, section markers)
+            if (item.display_type === 'section_header') {
+                return `
+                    <div class="list-group-item bg-light border-start border-4 border-primary py-2">
+                        <strong class="text-dark small text-uppercase">${escapeHtml(item.title)}</strong>
+                    </div>
+                `;
+            }
+
+            // Non-voted items (first readings, filed communications, etc.)
+            if (item.item_type === 'non_voted') {
+                // Low importance: minimal single-line display
+                if (item.importance === 'low') {
+                    return `
+                        <div class="list-group-item py-2">
+                            <small class="text-muted"><i class="fas fa-minus me-2"></i>${escapeHtml(item.title)}</small>
+                        </div>
+                    `;
+                }
+                return `
+                    <div class="list-group-item">
+                        <div class="d-flex w-100 justify-content-between align-items-start">
+                            <div class="flex-grow-1">
+                                <div class="d-flex align-items-center mb-1">
+                                    ${item.matter_type ? `<small class="text-muted me-2">${escapeHtml(item.matter_type)}</small>` : ''}
+                                </div>
+                                <h6 class="mb-1">${escapeHtml(item.title || 'No title')}</h6>
+                                ${item.matter_file ? `<small class="text-muted"><i class="fas fa-file me-1"></i>${escapeHtml(item.matter_file)}</small>` : ''}
+                                ${item.description ? `<p class="text-muted small mb-0 mt-1">${truncate(item.description, 150)}</p>` : ''}
+                            </div>
+                            <div class="text-end ms-3">
+                                ${getActionBadge(item.category)}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            // Voted items (existing behavior)
             const hasVote = item.vote !== null;
             return `
                 <div class="list-group-item">
@@ -403,14 +463,14 @@
                                 <span class="badge bg-light text-dark me-2">${item.item_number}</span>
                                 ${item.section ? `<small class="text-muted me-2">${item.section}</small>` : ''}
                             </div>
-                            <h6 class="mb-1">${item.title || 'No title'}</h6>
+                            <h6 class="mb-1">${escapeHtml(item.title || 'No title')}</h6>
                             ${item.description ? `<p class="text-muted small mb-0">${truncate(item.description, 150)}</p>` : ''}
                         </div>
                         ${hasVote ? `
                             <div class="text-end ms-3">
-                                <span class="badge ${item.vote.outcome === 'PASS' ? 'bg-success' : 'bg-danger'} mb-1" role="status">${item.vote.outcome === 'PASS' ? 'Passed' : 'Failed'}</span>
+                                ${getOutcomeBadge(item.vote.outcome)}
                                 <div class="small">
-                                    <span class="text-success">${item.vote.ayes}</span>-<span class="text-danger">${item.vote.noes}</span>-<span class="text-secondary">${item.vote.abstain}</span>
+                                    <span class="text-success">${item.vote.ayes || 0}</span>-<span class="text-danger">${item.vote.noes || 0}</span>-<span class="text-warning">${item.vote.abstain || 0}</span>-<span class="text-secondary">${item.vote.absent || 0}</span>
                                 </div>
                                 <a href="vote-detail.html?id=${item.vote.id}" class="btn btn-sm btn-outline-primary mt-1" aria-label="View vote details for item ${escapeHtml(item.item_number)}">
                                     <i class="fas fa-eye" aria-hidden="true"></i> Details
@@ -421,6 +481,31 @@
                 </div>
             `;
         }).join('');
+    }
+
+    function getOutcomeBadge(outcome) {
+        const badges = {
+            'PASS': '<span class="badge bg-success mb-1" role="status">Passed</span>',
+            'FAIL': '<span class="badge bg-danger mb-1" role="status">Failed</span>',
+            'CONTINUED': '<span class="badge bg-warning text-dark mb-1" role="status">Continued</span>',
+            'TABLED': '<span class="badge bg-info mb-1" role="status">Tabled</span>',
+            'WITHDRAWN': '<span class="badge bg-secondary mb-1" role="status">Withdrawn</span>',
+            'REMOVED': '<span class="badge bg-secondary mb-1" role="status">Removed</span>'
+        };
+        return badges[outcome] || `<span class="badge bg-light text-dark mb-1" role="status">${outcome || 'Unknown'}</span>`;
+    }
+
+    function getActionBadge(category) {
+        const badges = {
+            'first_reading': '<span class="badge bg-info text-dark">First Reading</span>',
+            'read_and_filed': '<span class="badge bg-secondary">Read & Filed</span>',
+            'adopted_no_vote': '<span class="badge bg-success">Adopted</span>',
+            'legislative_action': '<span class="badge bg-warning text-dark">Legislative Action</span>',
+            'matter_no_action': '<span class="badge bg-light text-dark">Pending</span>',
+            'corrections': '<span class="badge bg-light text-muted">Procedural</span>',
+            'clerk_communications': '<span class="badge bg-light text-muted">Filed</span>'
+        };
+        return badges[category] || '<span class="badge bg-light text-dark">No Vote</span>';
     }
 
     function showError(message, showRetry = false) {
@@ -443,12 +528,12 @@
     }
 
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
     }
 
     function formatDateLong(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
     }
 

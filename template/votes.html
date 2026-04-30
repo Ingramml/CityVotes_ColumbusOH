@@ -398,9 +398,6 @@
                 yearSelect.appendChild(option);
             });
 
-            // Populate topic dropdown
-            populateTopicDropdown();
-
             // Load only the selected year (or most recent if none selected)
             const yearToLoad = currentYear || availableYears[0];
             await loadVotesForYear(yearToLoad);
@@ -409,6 +406,9 @@
             if (!currentYear) {
                 yearSelect.value = yearToLoad;
             }
+
+            // Populate topic dropdown from loaded vote data
+            populateTopicDropdown();
 
             renderVotes(0);
         } catch (error) {
@@ -530,24 +530,7 @@
      * Sorted alphabetically with "General" placed last as a catch-all category.
      * Each city deployment can customize this list to match its own topic taxonomy.
      */
-    const AVAILABLE_TOPICS = [
-        'Appointments',
-        'Budget & Finance',
-        'Community Services',
-        'Contracts & Agreements',
-        'Economic Development',
-        'Grants',
-        'Housing',
-        'Infrastructure',
-        'Ordinances & Resolutions',
-        'Parks & Recreation',
-        'Planning & Development',
-        'Property & Real Estate',
-        'Public Safety',
-        'Public Works',
-        'Transportation',
-        'General'
-    ];
+    let AVAILABLE_TOPICS = [];
 
     /*
      * populateTopicDropdown()
@@ -556,6 +539,14 @@
      */
     function populateTopicDropdown() {
         const topicSelect = document.getElementById('topicFilter');
+        // Extract topics dynamically from loaded votes
+        if (AVAILABLE_TOPICS.length === 0) {
+            const topicSet = new Set();
+            allVotes.forEach(v => (v.topics || []).forEach(t => topicSet.add(t)));
+            AVAILABLE_TOPICS = Array.from(topicSet).sort();
+        }
+        // Clear existing options (keep first "All Topics")
+        while (topicSelect.options.length > 1) topicSelect.remove(1);
         AVAILABLE_TOPICS.forEach(topic => {
             const option = document.createElement('option');
             option.value = topic;
@@ -678,7 +669,7 @@
                     <td>
                         ${SPECIAL_OUTCOMES.includes(vote.outcome)
                             ? '<span class="badge bg-warning text-dark" title="Check original documents or video"><i class="fas fa-flag me-1"></i>Flag</span>'
-                            : `<span class="text-success">${vote.ayes}</span>-<span class="text-danger">${vote.noes}</span>-<span class="text-secondary">${vote.abstain}</span>`}
+                            : `<span class="text-success">${vote.ayes}</span>-<span class="text-danger">${vote.noes}</span>-<span class="text-warning">${vote.abstain}</span>-<span class="text-secondary">${vote.absent}</span>`}
                     </td>
                     <td>
                         ${meeting.agenda_url ? `<a href="${meeting.agenda_url}" target="_blank" class="btn btn-sm btn-outline-secondary me-1" title="View Agenda"><i class="fas fa-file-alt"></i></a>` : '<span class="badge bg-light text-muted me-1" title="Agenda not available"><i class="fas fa-file-alt"></i></span>'}
@@ -788,7 +779,7 @@
 
     /* formatDate(dateStr) - Formats an ISO date string to "Mon DD, YYYY" display format */
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
     }
 

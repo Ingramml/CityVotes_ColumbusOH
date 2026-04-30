@@ -86,44 +86,10 @@ const CityVotesAPI = {
         return this.fetchJSON('meetings.json');
     },
 
-    /** Get individual meeting with agenda items and votes */
+    /** Get individual meeting with full agenda (voted + non-voted items) */
     async getMeeting(meetingId) {
         const validId = this.validateId(meetingId, 'meeting ID');
-
-        const [meetingsData, votesData] = await Promise.all([
-            this.getMeetings(),
-            this.getVotes()
-        ]);
-
-        const meeting = meetingsData.meetings.find(m => m.id === validId);
-        if (!meeting) {
-            return { success: false, error: 'Meeting not found' };
-        }
-
-        const meetingVotes = votesData.votes.filter(v => v.meeting_date === meeting.meeting_date);
-
-        const agenda_items = meetingVotes.map(vote => ({
-            item_number: vote.item_number,
-            title: vote.title,
-            section: vote.section,
-            description: null,
-            vote: {
-                id: vote.id,
-                outcome: vote.outcome,
-                ayes: vote.ayes,
-                noes: vote.noes,
-                abstain: vote.abstain,
-                absent: vote.absent
-            }
-        }));
-
-        return {
-            success: true,
-            meeting: {
-                ...meeting,
-                agenda_items: agenda_items
-            }
-        };
+        return this.fetchJSON(`meetings/${validId}.json`);
     },
 
     // ==================== Votes ====================
@@ -198,6 +164,11 @@ const CityVotesAPI = {
     /** Get member profile by ID */
     async getMemberProfile(memberId) {
         return this.getCouncilMember(memberId);
+    },
+
+    /** Get non-voted agenda items (high-importance) for search */
+    async getNonVotedAgendaItems() {
+        return this.fetchJSON('agenda-items.json');
     },
 
     /** Get agenda items (votes list) */

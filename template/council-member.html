@@ -397,6 +397,7 @@
                                 <option value="NAY">Nay</option>
                                 <option value="ABSTAIN">Abstain</option>
                                 <option value="ABSENT">Absent</option>
+                                <option value="RECUSAL">Recusal</option>
                             </select>
                         </div>
                         <!-- Clear filters button: col-md-1 (8.3% width on md+) -->
@@ -1118,7 +1119,7 @@
                 <td><span class="badge bg-light text-dark">${escapeHtml(vote.item_number)}</span></td>
                 <td><a href="vote-detail.html?id=${vote.vote_id}" class="text-decoration-none">${highlightSearch(truncate(vote.title, 40), search)}</a></td>
                 <td>${getVoteBadge(vote.vote_choice)}</td>
-                <td><span class="badge ${vote.outcome === 'PASS' ? 'bg-success' : 'bg-danger'}" role="status">${vote.outcome === 'PASS' ? 'Passed' : 'Failed'}</span></td>
+                <td>${getOutcomeBadge(vote.outcome)}</td>
             </tr>
         `).join('');
 
@@ -1439,8 +1440,20 @@
         return badges[choice] || `<span class="badge bg-light text-dark">${escapeHtml(choice)}</span>`;
     }
 
+    function getOutcomeBadge(outcome) {
+        const badges = {
+            'PASS': '<span class="badge bg-success" role="status">Passed</span>',
+            'FAIL': '<span class="badge bg-danger" role="status">Failed</span>',
+            'CONTINUED': '<span class="badge bg-info" role="status">Continued</span>',
+            'TABLED': '<span class="badge bg-warning text-dark" role="status">Tabled</span>',
+            'WITHDRAWN': '<span class="badge bg-secondary" role="status">Withdrawn</span>',
+            'REMOVED': '<span class="badge bg-secondary" role="status">Removed</span>'
+        };
+        return badges[outcome] || `<span class="badge bg-light text-dark" role="status">${outcome || 'Unknown'}</span>`;
+    }
+
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
     }
 

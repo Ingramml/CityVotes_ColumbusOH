@@ -103,7 +103,7 @@
     ================================================================
     STATISTICS BAR
     Layout: 4 equal columns (col-md-3 col-6)
-    Data: stats.json -> total_votes, total_meetings, pass_rate, unanimous_rate
+    Data: stats.json -> total_votes, total_meetings, pass_rate, total_agenda_items
     ================================================================
     -->
     <section class="py-4 bg-light">
@@ -130,11 +130,11 @@
                         <div class="stat-label">Pass Rate</div>
                     </div>
                 </div>
-                <!-- KPI Card 4: Unanimous Rate -->
+                <!-- KPI Card 4: Agenda Items -->
                 <div class="col-md-3 col-6 mb-3">
                     <div class="stat-card">
-                        <div class="stat-value" id="unanimousRate">--%</div>
-                        <div class="stat-label">Unanimous</div>
+                        <div class="stat-value" id="totalAgendaItems">--</div>
+                        <div class="stat-label">Agenda Items</div>
                     </div>
                 </div>
             </div>
@@ -154,7 +154,14 @@
         <section class="mb-5">
             <div class="d-flex justify-content-between align-items-center mb-4">
                 <h2><i class="fas fa-users me-2"></i>City Council</h2>
-                <a href="council.html" class="btn btn-outline-primary">View All</a>
+                <div>
+                    <div class="btn-group btn-group-sm me-2" role="group" aria-label="Filter council members">
+                        <button type="button" class="btn btn-primary active" data-filter="all" onclick="filterCouncil('all', this)">All</button>
+                        <button type="button" class="btn btn-outline-primary" data-filter="current" onclick="filterCouncil('current', this)">Current</button>
+                        <button type="button" class="btn btn-outline-primary" data-filter="former" onclick="filterCouncil('former', this)">Former</button>
+                    </div>
+                    <a href="council.html" class="btn btn-outline-primary btn-sm">View All</a>
+                </div>
             </div>
             <div class="row" id="councilGrid">
                 <div class="col-12 text-center py-4">
@@ -285,7 +292,7 @@
                 document.getElementById('totalVotes').textContent = data.stats.total_votes.toLocaleString();
                 document.getElementById('totalMeetings').textContent = data.stats.total_meetings;
                 document.getElementById('passRate').textContent = data.stats.pass_rate + '%';
-                document.getElementById('unanimousRate').textContent = data.stats.unanimous_rate + '%';
+                document.getElementById('totalAgendaItems').textContent = (data.stats.total_agenda_items || data.stats.total_votes).toLocaleString();
                 if (data.stats.date_range.start && data.stats.date_range.end) {
                     document.getElementById('dateRange').textContent =
                         `${formatDate(data.stats.date_range.start)} - ${formatDate(data.stats.date_range.end)}`;
@@ -307,7 +314,7 @@
             if (data.success) {
                 const grid = document.getElementById('councilGrid');
                 grid.innerHTML = data.members.map(member => `
-                    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                    <div class="col-lg-3 col-md-4 col-sm-6 mb-4 council-member-col" data-member-status="${member.is_current ? 'current' : 'former'}">
                         <div class="card council-card h-100">
                             <div class="card-body text-center">
                                 <div class="council-avatar mb-3">
@@ -347,16 +354,22 @@
                 const list = document.getElementById('recentMeetings');
                 list.innerHTML = data.meetings.slice(0, 5).map(meeting => `
                     <a href="meeting-detail.html?id=${meeting.id}" class="list-group-item list-group-item-action">
-                        <div class="d-flex justify-content-between align-items-center">
-                            <div>
-                                <strong>${formatDate(meeting.meeting_date)}</strong>
-                                <span class="badge bg-light text-dark ms-2">${meeting.meeting_type}</span>
+                        <div class="row align-items-center">
+                            <div class="col">
+                                <h6 class="mb-1">
+                                    <i class="fas fa-calendar-day me-2 text-primary"></i>
+                                    ${formatDate(meeting.meeting_date)}
+                                </h6>
+                                <div>
+                                    ${meeting.agenda_url ? `<a href="${meeting.agenda_url}" target="_blank" class="badge bg-secondary me-1" onclick="event.stopPropagation()"><i class="fas fa-file-alt me-1"></i>Agenda</a>` : ''}
+                                    ${meeting.minutes_url ? `<a href="${meeting.minutes_url}" target="_blank" class="badge bg-secondary me-1" onclick="event.stopPropagation()"><i class="fas fa-file-lines me-1"></i>Minutes</a>` : ''}
+                                    ${meeting.video_url ? `<a href="${meeting.video_url}" target="_blank" class="badge bg-danger me-1" onclick="event.stopPropagation()"><i class="fas fa-video me-1"></i>Video</a>` : ''}
+                                    ${meeting.legistar_url ? `<a href="${meeting.legistar_url}" target="_blank" class="badge bg-info me-1" onclick="event.stopPropagation()"><i class="fas fa-external-link-alt me-1"></i>Legistar</a>` : ''}
+                                </div>
                             </div>
-                            <div>
-                                <span class="text-muted me-3">${meeting.vote_count} votes</span>
-                                ${meeting.agenda_url ? '<span class="badge bg-secondary me-1" title="Agenda"><i class="fas fa-file-alt"></i></span>' : ''}
-                                ${meeting.minutes_url ? '<span class="badge bg-secondary me-1" title="Minutes"><i class="fas fa-clipboard-list"></i></span>' : ''}
-                                ${meeting.video_url ? '<span class="badge bg-danger" title="Video"><i class="fas fa-video"></i></span>' : ''}
+                            <div class="col-auto text-end">
+                                <span class="badge bg-primary rounded-pill">${meeting.vote_count} votes</span>
+                                ${meeting.first_reading_count ? `<span class="badge bg-info rounded-pill ms-1">${meeting.first_reading_count} first readings</span>` : ''}
                             </div>
                         </div>
                     </a>
@@ -393,9 +406,29 @@
         }
     }
 
+    /* --- COUNCIL FILTER --- */
+    function filterCouncil(filter, btn) {
+        // Update active button
+        btn.closest('.btn-group').querySelectorAll('.btn').forEach(b => {
+            b.classList.remove('btn-primary', 'active');
+            b.classList.add('btn-outline-primary');
+        });
+        btn.classList.remove('btn-outline-primary');
+        btn.classList.add('btn-primary', 'active');
+
+        // Show/hide cards
+        document.querySelectorAll('.council-member-col').forEach(col => {
+            if (filter === 'all' || col.dataset.memberStatus === filter) {
+                col.style.display = '';
+            } else {
+                col.style.display = 'none';
+            }
+        });
+    }
+
     /* --- HELPERS --- */
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
     }
     </script>

@@ -259,6 +259,16 @@
                             <option value="special">Special</option>
                         </select>
                     </div>
+                    <!-- Item type filter: voted vs non-voted items -->
+                    <div class="col-lg-2 col-md-3 col-6">
+                        <label for="itemTypeFilter" class="form-label small text-muted mb-1">Item Type</label>
+                        <select class="form-select" id="itemTypeFilter" aria-label="Filter by item type">
+                            <option value="">All Items</option>
+                            <option value="voted">Voted Items</option>
+                            <option value="first_reading">First Readings</option>
+                            <option value="non_voted">All Non-Voted</option>
+                        </select>
+                    </div>
                     <!-- Outcome filter: static options for passed/failed vote outcomes -->
                     <div class="col-lg-2 col-md-3 col-6">
                         <label for="outcomeFilter" class="form-label small text-muted mb-1">Outcome</label>
@@ -502,7 +512,7 @@
     -->
     <script>
     // State
-    let allVotes = [];
+    let allVotes = [];       // combined voted + non-voted items
     let filteredVotes = [];
     let availableYears = [];
     let availableTopics = [];
@@ -520,18 +530,44 @@
 
     async function loadAllData() {
         try {
-            // Load votes and meetings in parallel
-            const [votesData, meetingsResponse] = await Promise.all([
+            // Load votes, non-voted items, and meetings in parallel
+            const [votesData, agendaData, meetingsResponse] = await Promise.all([
                 CityVotesAPI.getVotes(),
+                CityVotesAPI.getNonVotedAgendaItems(),
                 CityVotesAPI.getMeetings()
             ]);
 
-            allVotes = votesData.votes || [];
+            // Voted items get item_source: 'voted'
+            const votedItems = (votesData.votes || []).map(v => ({ ...v, item_source: 'voted' }));
+
+            // Non-voted items get item_source: 'non_voted'
+            const nonVotedItems = (agendaData.agenda_items || []).map(a => ({
+                id: null,
+                meeting_date: a.meeting_date,
+                meeting_id: a.meeting_id,
+                item_number: String(a.agenda_sequence),
+                title: a.title,
+                topics: a.topics || [],
+                meeting_type: 'regular',
+                outcome: null,
+                ayes: null,
+                noes: null,
+                abstain: null,
+                absent: null,
+                item_source: 'non_voted',
+                action: a.action,
+                category: a.category,
+                matter_file: a.matter_file,
+                matter_type: a.matter_type
+            }));
+
+            allVotes = [...votedItems, ...nonVotedItems];
 
             // Build meetings lookup by date for document links
             if (meetingsResponse.success) {
                 meetingsResponse.meetings.forEach(m => {
                     meetingsData[m.meeting_date] = {
+                        meeting_id: m.id,
                         agenda_url: m.agenda_url,
                         minutes_url: m.minutes_url,
                         video_url: m.video_url
@@ -549,25 +585,12 @@
 
             availableYears = Array.from(years).sort((a, b) => b - a);
 
-            // Use standard topic list (same as votes page and council member page)
-            availableTopics = [
-                'Appointments',
-                'Budget & Finance',
-                'Community Services',
-                'Contracts & Agreements',
-                'Economic Development',
-                'Grants',
-                'Housing',
-                'Infrastructure',
-                'Ordinances & Resolutions',
-                'Parks & Recreation',
-                'Planning & Development',
-                'Property & Real Estate',
-                'Public Safety',
-                'Public Works',
-                'Transportation',
-                'General'
-            ];
+            // Dynamically extract topics from actual data
+            const topicSet = new Set();
+            allVotes.forEach(vote => {
+                (vote.topics || []).forEach(t => topicSet.add(t));
+            });
+            availableTopics = Array.from(topicSet).sort();
 
             // Populate dropdowns
             populateYearDropdown();
@@ -587,7 +610,7 @@
             console.error('Error loading data:', error);
             document.getElementById('resultsBody').innerHTML = `
                 <tr>
-                    <td colspan="7" class="text-center py-5">
+                    <td colspan="8" class="text-center py-5">
                         <div class="alert alert-danger mb-0">
                             <i class="fas fa-exclamation-triangle me-2"></i>
                             Failed to load data. Please refresh the page.
@@ -630,7 +653,7 @@
         });
 
         // Filter changes
-        ['yearFilter', 'topicFilter', 'meetingTypeFilter', 'outcomeFilter'].forEach(id => {
+        ['yearFilter', 'topicFilter', 'meetingTypeFilter', 'outcomeFilter', 'itemTypeFilter'].forEach(id => {
             document.getElementById(id).addEventListener('change', function() {
                 currentOffset = 0;
                 applyFilters();
@@ -645,6 +668,7 @@
             document.getElementById('topicFilter').value = '';
             document.getElementById('meetingTypeFilter').value = '';
             document.getElementById('outcomeFilter').value = '';
+            document.getElementById('itemTypeFilter').value = '';
             currentOffset = 0;
             window.history.pushState({}, '', window.location.pathname);
             applyFilters();
@@ -688,12 +712,14 @@
         const topic = urlParams.get('topic');
         const type = urlParams.get('type');
         const outcome = urlParams.get('outcome');
+        const itemType = urlParams.get('itemType');
 
         if (q) document.getElementById('searchInput').value = q;
         if (year) document.getElementById('yearFilter').value = year;
         if (topic) document.getElementById('topicFilter').value = topic;
         if (type) document.getElementById('meetingTypeFilter').value = type;
         if (outcome) document.getElementById('outcomeFilter').value = outcome;
+        if (itemType) document.getElementById('itemTypeFilter').value = itemType;
     }
 
     function updateURL() {
@@ -703,12 +729,14 @@
         const topic = document.getElementById('topicFilter').value;
         const type = document.getElementById('meetingTypeFilter').value;
         const outcome = document.getElementById('outcomeFilter').value;
+        const itemType = document.getElementById('itemTypeFilter').value;
 
         if (search) params.set('q', search);
         if (year) params.set('year', year);
         if (topic) params.set('topic', topic);
         if (type) params.set('type', type);
         if (outcome) params.set('outcome', outcome);
+        if (itemType) params.set('itemType', itemType);
 
         const url = params.toString() ? `?${params.toString()}` : window.location.pathname;
         window.history.pushState({}, '', url);
@@ -720,9 +748,15 @@
         const topic = document.getElementById('topicFilter').value;
         const meetingType = document.getElementById('meetingTypeFilter').value;
         const outcome = document.getElementById('outcomeFilter').value;
+        const itemType = document.getElementById('itemTypeFilter').value;
 
         // Filter votes
         filteredVotes = allVotes.filter(vote => {
+            // Item type filter
+            if (itemType === 'voted' && vote.item_source !== 'voted') return false;
+            if (itemType === 'non_voted' && vote.item_source !== 'non_voted') return false;
+            if (itemType === 'first_reading' && vote.category !== 'first_reading') return false;
+
             // Year filter
             if (year) {
                 const voteYear = new Date(vote.meeting_date).getFullYear();
@@ -736,17 +770,21 @@
             }
 
             // Meeting type filter
-            if (meetingType && vote.meeting_type !== meetingType) return false;
+            if (meetingType && (vote.meeting_type || '').toLowerCase() !== meetingType.toLowerCase()) return false;
 
-            // Outcome filter
-            if (outcome && vote.outcome !== outcome) return false;
+            // Outcome filter (only applies to voted items)
+            if (outcome) {
+                if (vote.item_source === 'non_voted') return false;
+                if (vote.outcome !== outcome) return false;
+            }
 
-            // Search filter
+            // Search filter (includes matter_file)
             if (search) {
                 const title = (vote.title || '').toLowerCase();
                 const topicsStr = (vote.topics || []).join(' ').toLowerCase();
                 const itemNumber = (vote.item_number || '').toLowerCase();
-                if (!title.includes(search) && !topicsStr.includes(search) && !itemNumber.includes(search)) {
+                const matterFile = (vote.matter_file || '').toLowerCase();
+                if (!title.includes(search) && !topicsStr.includes(search) && !itemNumber.includes(search) && !matterFile.includes(search)) {
                     return false;
                 }
             }
@@ -795,10 +833,11 @@
         document.getElementById('kpiMeetings').textContent = meetings.size.toLocaleString();
         document.getElementById('kpiVotes').textContent = filteredVotes.length.toLocaleString();
 
-        // Pass rate
-        const passed = filteredVotes.filter(v => v.outcome === 'PASS').length;
-        const passRate = filteredVotes.length > 0 ? ((passed / filteredVotes.length) * 100).toFixed(1) : 0;
-        document.getElementById('kpiPassRate').textContent = passRate + '%';
+        // Pass rate (computed only from voted items in filtered set)
+        const votedInFiltered = filteredVotes.filter(v => v.item_source === 'voted');
+        const passed = votedInFiltered.filter(v => v.outcome === 'PASS').length;
+        const passRate = votedInFiltered.length > 0 ? ((passed / votedInFiltered.length) * 100).toFixed(1) : '--';
+        document.getElementById('kpiPassRate').textContent = passRate === '--' ? '--%' : passRate + '%';
 
         // Total in database for context
         document.getElementById('kpiFiltered').textContent = allVotes.length.toLocaleString();
@@ -840,27 +879,31 @@
 
         tbody.innerHTML = pageVotes.map(vote => {
             const meeting = meetingsData[vote.meeting_date] || {};
+            const isVoted = vote.item_source === 'voted';
             return `
             <tr>
                 <td><small>${formatDate(vote.meeting_date)}</small></td>
                 <td><span class="badge bg-light text-dark">${escapeHtml(vote.item_number || '-')}</span></td>
                 <td>
-                    <a href="vote-detail.html?id=${vote.id}" class="text-decoration-none">
-                        ${highlightSearch(truncate(vote.title, 60), search)}
-                    </a>
+                    ${isVoted
+                        ? `<a href="vote-detail.html?id=${vote.id}" class="text-decoration-none">${highlightSearch(truncate(vote.title, 60), search)}</a>`
+                        : `<span>${highlightSearch(truncate(vote.title, 60), search)}</span>
+                           ${vote.matter_file ? `<br><small class="text-muted"><i class="fas fa-file me-1"></i>${escapeHtml(vote.matter_file)}</small>` : ''}`
+                    }
                 </td>
                 <td><span class="badge bg-secondary">${escapeHtml((vote.topics || []).slice(0, 2).join(', ') || '-')}</span></td>
                 <td><span class="text-muted small">${capitalizeFirst(vote.meeting_type || 'regular')}</span></td>
-                <td>${getOutcomeBadge(vote.outcome)}</td>
+                <td>${isVoted ? getOutcomeBadge(vote.outcome) : getActionBadge(vote.category)}</td>
                 <td>
                     ${meeting.agenda_url ? `<a href="${meeting.agenda_url}" target="_blank" class="btn btn-sm btn-outline-secondary me-1" title="View Agenda"><i class="fas fa-file-alt"></i></a>` : '<span class="badge bg-light text-muted me-1" title="Agenda not available"><i class="fas fa-file-alt"></i></span>'}
                     ${meeting.minutes_url ? `<a href="${meeting.minutes_url}" target="_blank" class="btn btn-sm btn-outline-secondary me-1" title="View Minutes"><i class="fas fa-clipboard-list"></i></a>` : '<span class="badge bg-light text-muted me-1" title="Minutes not available"><i class="fas fa-clipboard-list"></i></span>'}
                     ${meeting.video_url ? `<a href="${meeting.video_url}" target="_blank" class="btn btn-sm btn-outline-danger" title="Watch Video"><i class="fas fa-video"></i></a>` : '<span class="badge bg-light text-muted" title="Video not available"><i class="fas fa-video"></i></span>'}
                 </td>
                 <td>
-                    <a href="vote-detail.html?id=${vote.id}" class="btn btn-sm btn-outline-primary" aria-label="View vote details">
-                        <i class="fas fa-eye"></i>
-                    </a>
+                    ${isVoted
+                        ? `<a href="vote-detail.html?id=${vote.id}" class="btn btn-sm btn-outline-primary" aria-label="View vote details"><i class="fas fa-eye"></i></a>`
+                        : (meeting.meeting_id ? `<a href="meeting-detail.html?id=${meeting.meeting_id}" class="btn btn-sm btn-outline-secondary" title="View in meeting"><i class="fas fa-calendar-day"></i></a>` : '')
+                    }
                 </td>
             </tr>
         `}).join('');
@@ -928,7 +971,7 @@
 
     // Helper functions
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
     }
 
@@ -966,9 +1009,22 @@
             'PASS': '<span class="badge bg-success" role="status">Passed</span>',
             'FAIL': '<span class="badge bg-danger" role="status">Failed</span>',
             'CONTINUED': '<span class="badge bg-warning text-dark" role="status">Continued</span>',
+            'TABLED': '<span class="badge bg-info" role="status">Tabled</span>',
+            'WITHDRAWN': '<span class="badge bg-secondary" role="status">Withdrawn</span>',
             'REMOVED': '<span class="badge bg-secondary" role="status">Removed</span>'
         };
         return badges[outcome] || `<span class="badge bg-light text-dark" role="status">${escapeHtml(outcome || 'Unknown')}</span>`;
+    }
+
+    function getActionBadge(category) {
+        const badges = {
+            'first_reading': '<span class="badge bg-info text-dark">First Reading</span>',
+            'read_and_filed': '<span class="badge bg-secondary">Read & Filed</span>',
+            'adopted_no_vote': '<span class="badge bg-success">Adopted</span>',
+            'legislative_action': '<span class="badge bg-warning text-dark">Legislative Action</span>',
+            'matter_no_action': '<span class="badge bg-light text-dark">Pending</span>'
+        };
+        return badges[category] || '<span class="badge bg-light text-dark">No Vote</span>';
     }
     </script>
 </body>

@@ -614,11 +614,13 @@
                                 ${meeting.agenda_url ? `<a href="${meeting.agenda_url}" target="_blank" class="badge bg-secondary me-1" onclick="event.stopPropagation()"><i class="fas fa-file-alt me-1"></i>Agenda</a>` : ''}
                                 ${meeting.minutes_url ? `<a href="${meeting.minutes_url}" target="_blank" class="badge bg-secondary me-1" onclick="event.stopPropagation()"><i class="fas fa-file-lines me-1"></i>Minutes</a>` : ''}
                                 ${meeting.video_url ? `<a href="${meeting.video_url}" target="_blank" class="badge bg-danger me-1" onclick="event.stopPropagation()"><i class="fas fa-video me-1"></i>Video</a>` : ''}
+                                ${meeting.legistar_url ? `<a href="${meeting.legistar_url}" target="_blank" class="badge bg-info me-1" onclick="event.stopPropagation()"><i class="fas fa-external-link-alt me-1"></i>Legistar</a>` : ''}
                             </div>
                         </div>
                         <div class="col-auto text-end">
                             <span class="badge bg-primary rounded-pill fs-6">${meeting.vote_count} votes</span>
-                            <div class="small text-muted mt-1">${meeting.agenda_item_count} agenda items</div>
+                            ${meeting.first_reading_count ? `<span class="badge bg-info rounded-pill ms-1">${meeting.first_reading_count} first readings</span>` : ''}
+                            <div class="small text-muted mt-1">${meeting.agenda_item_count} total agenda items</div>
                         </div>
                     </div>
                 </a>
@@ -668,7 +670,7 @@
     }
 
     function formatDate(dateStr) {
-        const date = new Date(dateStr);
+        const date = new Date(dateStr + 'T00:00:00');
         return date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
     }
     </script>
